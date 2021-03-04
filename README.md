@@ -5,15 +5,34 @@
 
 ### Hi there 👋 I am [Yu Zhang](https://www.pseudoyu.com)
 
+
+<a href="https://github.com/pseudoyu">
+  <img align="left" alt="Yu's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/pseudoyu/">
-  <img align="left" alt="Yu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Yu's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode-cn.com/u/coderarthur/">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+
+<a href="https://www.coursera.org/user/ffe947f087d1f63b161c3fcb310a6578">
+  <img align="left" alt="Yu's Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/coursera.svg"/>
 </a>
+
 <a href="https://medium.com/@pseudoyu">
-  <img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+  <img align="left" alt="Yu's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
+
+<a href="https://www.goodreads.com/user/show/121369734-yu-zhang">
+  <img align="left" alt="Yu's Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/goodreads.svg" />
+</a>
+
+
+
+<a href="https://www.youtube.com/channel/UCR0O0s303tGBi3P02hstQPA/">
+  <img align="left" alt="Yu's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>
+</a>
+
+
 <br />
 <br />
 
@@ -22,7 +41,7 @@
 
 I'm humble and have a sensitive mind. I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time.
 
-### My Experiences
+### Education
 * **Master of Science**，Department of Computer Science @ ***The University of Hong Kong (HKU)*** | 2020/2021
 * **Bachelor of Arts**, School of Foreign Languages @ ***Wuhan University of Technology (WHUT)*** | 2015/2019
 
@@ -31,7 +50,8 @@ I'm humble and have a sensitive mind. I want to learn things and become a better
 
 <br />
 
-![Yu Zhang's github stats](https://github-readme-stats.vercel.app/api?username=pseudoyu&show_icons=true)
+![picture](https://raw.githubusercontent.com/pseudoyu/image_hosting/master/hugo_images/dino.gif)
+
 <br />
 
-![picture](https://raw.githubusercontent.com/pseudoyu/image_hosting/master/hugo_images/dino.gif)
+![Yu Zhang's github stats](https://github-readme-stats.vercel.app/api?username=pseudoyu&show_icons=true)
