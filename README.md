@@ -54,4 +54,8 @@ I'm humble and have a sensitive mind. I want to learn things and become a better
 
 <br />
 
+<div align="center">
+
 ![Yu Zhang's github stats](https://github-readme-stats.vercel.app/api?username=pseudoyu&show_icons=true)
+
+</div>
