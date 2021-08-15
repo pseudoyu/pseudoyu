@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/pseudoyu/image_hosting/master/hugo_images/profile_logo.svg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/profile_logo.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
@@ -41,7 +41,7 @@
 
 <br />
 
-![picture](https://raw.githubusercontent.com/pseudoyu/image_hosting/master/hugo_images/dino.gif)
+![picture](https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/dino.gif)
 
 <br />
 
