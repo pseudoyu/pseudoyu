@@ -48,7 +48,7 @@
 
 <div align="center">
  
-[![Top Langs](https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&hide=avascript,html,php,css,python,TypeScript,Smarty)](https://github.com/pseudoyu)
+[![Top Langs](https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&hide=javascript,html,php,css,python,TypeScript,Smarty)](https://github.com/pseudoyu)
  
 ![Yu Zhang's github stats](https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true)
  
