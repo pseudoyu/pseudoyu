@@ -96,12 +96,6 @@ def fetch_releases(oauth_token):
     return releases
 
 
-def fetch_code_time():
-    return httpx.get(
-        "https://gist.githubusercontent.com/pseudoyu/cc924377b8354a9f1738d184d4951c45/raw/"
-    )
-
-
 def fetch_blog_entries():
     entries = feedparser.parse("https://www.pseudoyu.com/zh/index.xml")["entries"]
     return [
@@ -146,10 +140,6 @@ if __name__ == "__main__":
         project_releases_content, "release_count", str(len(releases)), inline=True
     )
     project_releases.open("w").write(project_releases_content)
-
-    code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
-
-    rewritten = replace_chunk(rewritten, "code_time", code_time_text)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
