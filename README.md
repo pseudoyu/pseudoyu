@@ -52,11 +52,11 @@
 #### 🎣 <a href="https://www.pseudoyu.com/zh/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href=https://tw93.github.io/2020-05-27/good-app.html target='_blank'>我的 2020 🔥软件【分享】</a> - 2020-05-27
-* <a href=https://tw93.github.io/2020-04-21/one.html target='_blank'>飞猪统一运营工作台的解决方案</a> - 2020-04-21
-* <a href=https://tw93.github.io/2020-03-30/serverless-two.html target='_blank'>飞猪 Serverless 体系建设（S2）</a> - 2020-03-30
-* <a href=https://tw93.github.io/2020-03-18/how-to-do-design.html target='_blank'>运营后台的交互设计【分享】</a> - 2020-03-18
-* <a href=https://tw93.github.io/2020-03-15/serverless-one.html target='_blank'>飞猪 Serverless 体系建设（S1）</a> - 2020-03-15
+* <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a> - 
+* <a href=https://www.pseudoyu.com/zh/2021/08/16/blockchain_ethereum_mpt/ target='_blank'>Ethereum MPT(Merkle Patricia Tries) 详解</a> - Mon, 16 Aug 2021 12:12:17 +0800
+* <a href=https://www.pseudoyu.com/zh/2021/06/22/blockchain_paper_cnfs/ target='_blank'>基于 CNFS 的区块链网络存储与优化</a> - 
+* <a href=https://www.pseudoyu.com/zh/2021/05/29/algorithm_data_structure_go/ target='_blank'>LeetCode 刷题常用数据结构（Go 篇）</a> - Sat, 29 May 2021 00:12:17 +0800
+* <a href=https://www.pseudoyu.com/zh/2021/05/10/uright_case_study/ target='_blank'>Uright - 区块链音乐版权管理ÐApp</a> - Mon, 10 May 2021 19:30:25 +0800
 <!-- blog ends -->
 
 #### 🏊‍♂️ <a href="https://gist.github.com/pseudoyu/8f303370b8c15ccd49ed42f1e5df2404" target="_blank">Weekly Development Breakdown</a>
@@ -77,9 +77,5 @@ JavaScript         24 mins  ████░░░░░░░░░░░░░�
 #### 🏋️‍♀️ <a href="https://github.com/pseusoyu/pseudoyu/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href=https://github.com/tw93/tw93.github.io/releases/tag/V0.1 target='_blank'>tw93.github.io 修复RSS报错</a> - 2020-07-18
-* <a href=https://github.com/tw93/cz-emoji-chinese/releases/tag/V0.2.1 target='_blank'>cz-emoji-chinese 完善使用文档</a> - 2020-07-18
-* <a href=https://github.com/tw93/tw93/releases/tag/V0.1 target='_blank'>tw93 生成首页信息流</a> - 2020-07-18
-* <a href=https://github.com/tw93/MiaoYan/releases/tag/V0.1 target='_blank'>MiaoYan 第一个可用版本</a> - 2020-05-28
-* <a href=https://github.com/alibaba/form-render/releases/tag/v0.3.1 target='_blank'>form-render 支持函数表达式</a> - 2019-11-22
+
 <!-- recent_releases ends -->
