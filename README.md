@@ -68,11 +68,17 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 - 💬 Ask me about anything, I am happy to help
 
 #### 📊 This Week I Spent My Time On
-<!--START_SECTION:waka-->
+<!-- code_time starts -->
+
 ```text
-No Activity tracked this Week
+Markdown   2 hrs 24 mins  ████████░░░░░░░░░░░░░  38.1%
+sh         1 hr 42 mins   █████▋░░░░░░░░░░░░░░░  27.1%
+Python     51 mins        ██▊░░░░░░░░░░░░░░░░░░  13.7%
+YAML       44 mins        ██▍░░░░░░░░░░░░░░░░░░  11.7%
+VimL       13 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
 ```
-<!--END_SECTION:waka-->
+
+<!-- code_time ends -->>
 
 #### 🏋️‍♀️ <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
 

@@ -1,11 +1,11 @@
-name: Update Blog and Release
+name: Build Readme
 
 on:
   push:
   workflow_dispatch:
   schedule:
-    # Runs every 6 hours
-    - cron: "0 */6 * * *"
+    # Runs on 00:00 everyday
+    - cron: "0 0 * * *"
 
 jobs:
   build:
