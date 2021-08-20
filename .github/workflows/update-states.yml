@@ -1,6 +1,7 @@
-name: Waka Readme
+name: Update States
 
 on:
+  push:
   workflow_dispatch:
   schedule:
     # Runs every 2 hours

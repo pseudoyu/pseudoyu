@@ -1,4 +1,4 @@
-name: Build README
+name: Update Blogs
 
 on:
   push:
