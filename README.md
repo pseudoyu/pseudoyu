@@ -42,7 +42,7 @@
 
   <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/code.gif?raw=true" width="500" height="320" />
 
-- 💼 热爱开源，一起开发有趣的项目，联系 [email](mailto:pseudoyu@connect.hku.hk) :)
+- 💼 热爱开源，一起开发有趣的项目，联系 [email](mailto:pseudoyu@connect.hku.hk)
 - 💬 很开心与你交流
 
 **语言和工具：**  
@@ -60,13 +60,6 @@ Markdown     11 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-🚧 **我的待办事项：**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 📈 my github stats
 
