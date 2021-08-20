@@ -74,13 +74,12 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-
-#### 📈 my github stats
-
-<p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
 #### 🏋️‍♀️ <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
 
 <!-- recent_releases starts -->
 
 <!-- recent_releases ends -->
+
+#### 📈 my github stats
+
+<p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
