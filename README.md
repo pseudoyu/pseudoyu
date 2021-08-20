@@ -25,6 +25,7 @@
 </a>
 
 <br />
+<br />
 
 Blockchain (Golang) Developer, MSc Student in Department of Computer Science @ The University of Hong Kong (HKU). Love to learn and build things. [Follow me on GitHub](https://github.com/pseudoyu)
 
@@ -32,10 +33,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
   <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/code.gif?raw=true" width="500" height="320" />
 
-- 💼 Love open-source, do interesting projects together? do reach, [email](mailto:pseudoyu@connect.hku.hk) :)
-- 💬 ask me about anything, i am happy to help
-
-#### 🎣 <a href="https://www.pseudoyu.com/zh/" target="_blank">最新文章：</a>
+#### 🎣 <a href="https://www.pseudoyu.com/zh/" target="_blank">Recent Posts</a>
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a> - 
@@ -51,6 +49,9 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+- 💼 Love open-source, do interesting projects together? do reach, [email](mailto:pseudoyu@connect.hku.hk) :)
+- 💬 ask me about anything, i am happy to help
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
