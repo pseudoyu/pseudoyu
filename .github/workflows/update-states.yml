@@ -1,7 +1,7 @@
 name: Update States
 
 on:
-  push:
+  # push:
   workflow_dispatch:
   schedule:
     # Runs every 2 hours
