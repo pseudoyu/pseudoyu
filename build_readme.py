@@ -115,8 +115,9 @@ if __name__ == "__main__":
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
         [
-            "* <a href={url} target='_blank'>{repo} {release}</a> - {published_at}".format(**release)
-            for release in releases[:8]
+            # "* <a href={url} target='_blank'>{repo} {release}</a> - {published_at}".format(**release)
+            "* <a href={url} target='_blank'>{repo} {release}</a>".format(**release)
+            for release in releases[:10]
         ]
     )
     readme_contents = readme.open().read()
