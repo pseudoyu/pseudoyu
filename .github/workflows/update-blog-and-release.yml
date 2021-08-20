@@ -1,4 +1,4 @@
-name: Update Blogs
+name: Update Blog and Release
 
 on:
   push:

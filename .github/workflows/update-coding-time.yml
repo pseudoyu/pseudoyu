@@ -1,4 +1,4 @@
-name: Update States
+name: Update Coding Time
 
 on:
   push:
