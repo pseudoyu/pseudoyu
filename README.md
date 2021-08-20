@@ -71,11 +71,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   2 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   38.10 % 
-sh         1 hr 42 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.13 % 
-Python     51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-YAML       44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-VimL       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Markdown   2 hrs 24 mins  ████████░░░░░░░░░░░░░  38.1%
+sh         1 hr 42 mins   █████▋░░░░░░░░░░░░░░░  27.1%
+Python     51 mins        ██▊░░░░░░░░░░░░░░░░░░  13.7%
+YAML       44 mins        ██▍░░░░░░░░░░░░░░░░░░  11.7%
+VimL       13 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
 ```
 
 <!-- code_time ends -->>
