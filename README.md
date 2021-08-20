@@ -32,6 +32,8 @@
   <img align="left" alt="Yu's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>
 </a>
 
+[![Misty-520](https://img.shields.io/badge/Misty-520-pink)](https://www.m1sty.com)
+
 <br />
 
 ![dino](https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/dino.gif)
