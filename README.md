@@ -77,7 +77,8 @@ No Activity tracked this Week
 #### 🏋️‍♀️ <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
 
 <!-- recent_releases starts -->
-
+* <a href=https://github.com/pseudoyu/uright/releases/tag/v0.0.1 target='_blank'>uright 区块链音乐版权管理项目内测版本</a> - 2021-08-20
+* <a href=https://github.com/pseudoyu/pseudoyu/releases/tag/v1.0.0 target='_blank'>pseudoyu 首页信息流优化完成</a> - 2021-08-20
 <!-- recent_releases ends -->
 
 #### 📈 my github stats
