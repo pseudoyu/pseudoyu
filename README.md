@@ -78,7 +78,7 @@ YAML       44 mins         ███░░░░░░░░░░░░░░�
 VimL       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 ```
 
-<!-- code_time ends -->>
+<!-- code_time ends -->
 
 #### 🏋️‍♀️ <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
 
