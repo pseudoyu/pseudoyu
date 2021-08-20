@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hey there, I'm [Yu Zhang](https://www.pseudoyu.com) <img src='![hey](https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/hey.gif)' alt='Hi' width="24"/> 
+### Hey there, I'm [Yu Zhang](https://www.pseudoyu.com) <img src='https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/hey.gif' alt='Hi' width="24"/> 
 
 <a href="https://github.com/pseudoyu">
   <img align="left" alt="Yu's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
