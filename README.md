@@ -37,7 +37,7 @@ Blockchain (Golang) Developer, MSc Student in Department of Computer Science @ T
 
 I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time.
 
-  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/code.gif?raw=true" width="400" height="320" />
 
 #### 🎣 <a href="https://www.pseudoyu.com/zh/" target="_blank">Recent Posts</a>
 
