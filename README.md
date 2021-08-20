@@ -1,3 +1,8 @@
+<p align="center">
+ <img width="100px" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/profile_logo.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
+
 ### Hey there, I'm [Yu Zhang](https://www.pseudoyu.com) <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> 
 
 <a href="https://github.com/pseudoyu">
@@ -26,6 +31,8 @@
 
 <br />
 <br />
+
+![dino](https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/dino.gif)
 
 Blockchain (Golang) Developer, MSc Student in Department of Computer Science @ The University of Hong Kong (HKU). Love to learn and build things. [Follow me on GitHub](https://github.com/pseudoyu)
 
@@ -65,7 +72,7 @@ No Activity tracked this Week
 
 <p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-#### 🏋️‍♀️ <a href="https://github.com/pseusoyu/pseudoyu/blob/main/releases.md" target="_blank">Recent Releases</a>
+#### 🏋️‍♀️ <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
 
 <!-- recent_releases starts -->
 
