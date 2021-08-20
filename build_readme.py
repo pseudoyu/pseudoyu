@@ -23,8 +23,9 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 def formatGMTime(timestamp):
-    GMT_FORMAT = '%a, %d %b %Y %H:%M'
-    dateStr = datetime.datetime.strptime(timestamp, GMT_FORMAT) + datetime.timedelta(hours=8)
+    GMT_FORMAT = '%a, %d %b %Y %H:%M:%S GMT'
+    dateStr = datetime.datetime.strptime(timestamp, GMT_FORMAT)
+    # + datetime.timedelta(hours=8)
     return dateStr.date()
 
 def make_query(after_cursor=None):
