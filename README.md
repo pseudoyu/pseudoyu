@@ -61,8 +61,8 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/git.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/vim.png"></code>
 
-- 💼 Love open-source, do interesting projects together? do reach, [email](mailto:pseudoyu@connect.hku.hk) :)
-- 💬 ask me about anything, i am happy to help
+- 💼 Love open-source, do interesting projects together? Do reach, [email me](mailto:pseudoyu@connect.hku.hk) :)
+- 💬 Ask me about anything, I am happy to help
 
 #### 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->

@@ -127,7 +127,8 @@ if __name__ == "__main__":
     project_releases_md = "\n".join(
         [
             (
-                "* **[{repo}]({repo_url})**: [{release}]({url}) - {published_at}\n"
+                # "* **[{repo}]({repo_url})**: [{release}]({url})- {published_at}\n"
+                "* **[{repo}]({repo_url})**: [{release}]({url})\n"
                 "<br>{description}"
             ).format(**release)
             for release in releases
