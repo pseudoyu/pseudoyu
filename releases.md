@@ -30,7 +30,7 @@ All <!-- release_count starts -->19<!-- release_count ends --> of my released pr
 * **[liantoubao](https://github.com/pseudoyu/liantoubao)**: [数字货币实时监控系统](https://github.com/pseudoyu/liantoubao/releases/tag/v1.0.0)
 <br>初沐 - 数字货币实时监控系统
 * **[pseudoyu](https://github.com/pseudoyu/pseudoyu)**: [首页信息流优化完成](https://github.com/pseudoyu/pseudoyu/releases/tag/v1.0.0)
-<br>🐙
+<br>Yu's GitHub Profile CI
 * **[blockchain-forum](https://github.com/pseudoyu/blockchain-forum)**: [区块链学习论坛](https://github.com/pseudoyu/blockchain-forum/releases/tag/v0.0.1)
 <br>区块链学习论坛 - 一个基于gin框架和Vue框架搭建的前后端分离的web项目
 * **[dotfiles](https://github.com/pseudoyu/dotfiles)**: [个人开发环境配置](https://github.com/pseudoyu/dotfiles/releases/tag/v1.0.0)
