@@ -53,8 +53,8 @@
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a> - 
+* <a href=https://www.pseudoyu.com/zh/2021/08/20/blockchain_paper_cnfs/ target='_blank'>基于 CNFS 的区块链网络存储与优化</a> - Fri, 20 Aug 2021 09:30:25 +0800
 * <a href=https://www.pseudoyu.com/zh/2021/08/16/blockchain_ethereum_mpt/ target='_blank'>Ethereum MPT(Merkle Patricia Tries) 详解</a> - Mon, 16 Aug 2021 12:12:17 +0800
-* <a href=https://www.pseudoyu.com/zh/2021/06/22/blockchain_paper_cnfs/ target='_blank'>基于 CNFS 的区块链网络存储与优化</a> - 
 * <a href=https://www.pseudoyu.com/zh/2021/05/29/algorithm_data_structure_go/ target='_blank'>LeetCode 刷题常用数据结构（Go 篇）</a> - Sat, 29 May 2021 00:12:17 +0800
 * <a href=https://www.pseudoyu.com/zh/2021/05/10/uright_case_study/ target='_blank'>Uright - 区块链音乐版权管理ÐApp</a> - Mon, 10 May 2021 19:30:25 +0800
 <!-- blog ends -->
@@ -64,12 +64,7 @@
 <!-- code_time starts -->
 
 ```text
-Markdown     2 hrs 20 mins  ██████████░░░░░░░░░░  36.4%
-Python             49 mins  █████▒░░░░░░░░░░░░░░  12.8%
-Swift              43 mins  █████░░░░░░░░░░░░░░░  11.4%
-JSX                33 mins  ████▓░░░░░░░░░░░░░░░   8.8%
-TypeScript         32 mins  ████▓░░░░░░░░░░░░░░░   8.4%
-JavaScript         24 mins  ████░░░░░░░░░░░░░░░░   6.3%
+404: Not Found
 ```
 
 <!-- code_time ends -->
