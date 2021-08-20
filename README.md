@@ -67,13 +67,6 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 - 💼 Love open-source, do interesting projects together? Do reach, [email me](mailto:pseudoyu@connect.hku.hk) :)
 - 💬 Ask me about anything, I am happy to help
 
-#### 📊 This Week I Spent My Time On
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 #### 🏋️‍♀️ <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
 
 <!-- recent_releases starts -->
@@ -88,6 +81,14 @@ No Activity tracked this Week
 * <a href=https://github.com/pseudoyu/xDeepFM_for_Recommender_Systems/releases/tag/v1.0.0 target='_blank'>xDeepFM_for_Recommender_Systems xDeepFM for Recommender Systems 推荐系统</a>
 * <a href=https://github.com/pseudoyu/udemy-java-exercises/releases/tag/v0.0.1 target='_blank'>udemy-java-exercises Udemy Java 课程代码</a>
 <!-- recent_releases ends -->
+
+#### 📊 This Week I Spent My Time On
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
 
 #### 📈 my github stats
 
