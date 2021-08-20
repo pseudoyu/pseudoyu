@@ -77,14 +77,16 @@ No Activity tracked this Week
 #### 🏋️‍♀️ <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
 
 <!-- recent_releases starts -->
-* <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a> - 2021-08-20
-* <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a> - 2021-08-20
-* <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a> - 2021-08-20
-* <a href=https://github.com/pseudoyu/comp7404-assignments/releases/tag/v1.0.0 target='_blank'>comp7404-assignments HKU COMP7404 课程代码</a> - 2021-08-20
-* <a href=https://github.com/pseudoyu/bitcoin-and-cryptocurrency-technologies/releases/tag/v0.0.1 target='_blank'>bitcoin-and-cryptocurrency-technologies Coursera 比特币课程代码</a> - 2021-08-20
-* <a href=https://github.com/pseudoyu/yu-blockchain/releases/tag/v1.0.1 target='_blank'>yu-blockchain 从零开始实现一个区块链</a> - 2021-08-20
-* <a href=https://github.com/pseudoyu/yu-timus/releases/tag/v0.0.1 target='_blank'>yu-timus Timus OJ 代码</a> - 2021-08-20
-* <a href=https://github.com/pseudoyu/alfred-workflow/releases/tag/v0.0.1 target='_blank'>alfred-workflow 个人 Alfred 脚本</a> - 2021-08-20
+* <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a>
+* <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a>
+* <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a>
+* <a href=https://github.com/pseudoyu/comp7404-assignments/releases/tag/v1.0.0 target='_blank'>comp7404-assignments HKU COMP7404 课程代码</a>
+* <a href=https://github.com/pseudoyu/bitcoin-and-cryptocurrency-technologies/releases/tag/v0.0.1 target='_blank'>bitcoin-and-cryptocurrency-technologies Coursera 比特币课程代码</a>
+* <a href=https://github.com/pseudoyu/yu-blockchain/releases/tag/v1.0.1 target='_blank'>yu-blockchain 从零开始实现一个区块链</a>
+* <a href=https://github.com/pseudoyu/yu-timus/releases/tag/v0.0.1 target='_blank'>yu-timus Timus OJ 代码</a>
+* <a href=https://github.com/pseudoyu/alfred-workflow/releases/tag/v0.0.1 target='_blank'>alfred-workflow 个人 Alfred 脚本</a>
+* <a href=https://github.com/pseudoyu/xDeepFM_for_Recommender_Systems/releases/tag/v1.0.1 target='_blank'>xDeepFM_for_Recommender_Systems xDeepFM for Recommender Systems 推荐系统</a>
+* <a href=https://github.com/pseudoyu/udemy-java-exercises/releases/tag/v0.0.1 target='_blank'>udemy-java-exercises Udemy Java 课程代码</a>
 <!-- recent_releases ends -->
 
 #### 📈 my github stats
