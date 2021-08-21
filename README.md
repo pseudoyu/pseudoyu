@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/profile_logo.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <h2 align="center">Yu</h2>
 </p>
 
 ### Hey there <img src='https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/hey.gif' alt='Hi' width="24"/> 
@@ -32,7 +32,7 @@
   <img align="left" alt="Yu's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>
 </a>
 
-[![Misty-520](https://img.shields.io/badge/Misty-520-pink)](https://www.m1sty.com)
+[![misty-520](https://img.shields.io/badge/misty-520-pink)](https://www.m1sty.com)
 
 <br />
 
