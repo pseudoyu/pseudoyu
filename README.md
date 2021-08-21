@@ -92,6 +92,9 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 * <a href='https://book.douban.com/subject/21371175/' target='_blank'>想读罗杰疑案</a> - 2020-05-14
 <!-- douban ends -->
 
+#### 💾 My Github Stats
+
+<p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
 #### 💻 <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
 
 <!-- recent_releases starts -->
@@ -106,7 +109,3 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 * <a href=https://github.com/pseudoyu/xDeepFM_for_Recommender_Systems/releases/tag/v1.0.0 target='_blank'>xDeepFM_for_Recommender_Systems xDeepFM for Recommender Systems 推荐系统</a>
 * <a href=https://github.com/pseudoyu/udemy-java/releases/tag/v0.0.1 target='_blank'>udemy-java Udemy Java 课程代码</a>
 <!-- recent_releases ends -->
-
-#### 💾 My Github Stats
-
-<p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
