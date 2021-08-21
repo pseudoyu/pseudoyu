@@ -44,7 +44,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
   <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/code.gif?raw=true" width="500" height="320" />
 
-#### 🎣 <a href="https://www.pseudoyu.com/zh/" target="_blank">Recent Posts</a>
+#### 📰 <a href="https://www.pseudoyu.com/zh/" target="_blank">Recent Posts</a>
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a>
@@ -54,7 +54,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 * <a href=https://www.pseudoyu.com/zh/2021/05/10/uright_case_study/ target='_blank'>Uright - 区块链音乐版权管理ÐApp</a>
 <!-- blog ends -->
 
-#### ⚙️ Languages and Tools
+#### 🔨 Languages and Tools
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/go.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/python.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/java.png"></code>
@@ -69,7 +69,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 - 💼 Love open-source, want to do interesting projects together? If you do, [email me](mailto:pseudoyu@connect.hku.hk)
 - 💬 Ask me about anything, I am happy to help
 
-#### 📊 This Week I Spent My Time On
+#### 👨🏻‍💻 This Week I Code With
 <!-- code_time starts -->
 
 ```text
@@ -82,7 +82,7 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 
 <!-- code_time ends -->
 
-#### 🤾‍♂️ Recently I Enjoy
+#### 🎧 Recently I Enjoy
 
 <!-- douban starts -->
 * <a href='http://movie.douban.com/subject/30174085/' target='_blank'>看过怒火·重案</a> - 2021-08-14
@@ -92,7 +92,7 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 * <a href='http://movie.douban.com/subject/34841067/' target='_blank'>看过你好，李焕英</a> - 2021-02-19
 <!-- douban ends -->
 
-#### 🏋️‍♀️ <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
+#### 💻 <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
 
 <!-- recent_releases starts -->
 * <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a>
@@ -107,6 +107,6 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 * <a href=https://github.com/pseudoyu/udemy-java/releases/tag/v0.0.1 target='_blank'>udemy-java Udemy Java 课程代码</a>
 <!-- recent_releases ends -->
 
-#### 📈 My github stats
+#### 💾 My Github Stats
 
 <p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
