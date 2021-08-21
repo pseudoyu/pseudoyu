@@ -82,7 +82,7 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 
 <!-- code_time ends -->
 
-#### 🎧 Recently I Enjoy
+#### 🎧 Recent Digests
 
 <!-- douban starts -->
 * <a href='http://movie.douban.com/subject/30337388/' target='_blank'>想看失控玩家</a> - 2021-08-21
@@ -92,7 +92,7 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 * <a href='https://book.douban.com/subject/3697494/' target='_blank'>读过洞穴奇案</a> - 2021-08-21
 <!-- douban ends -->
 
-#### 📈 My Github Stats
+#### 📈 Github Stats
 
 <p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
 
