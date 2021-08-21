@@ -82,7 +82,7 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 
 <!-- code_time ends -->
 
-#### 🎧 Recently I Input
+#### 🎧 Recently I Enjoy
 
 <!-- douban starts -->
 * <a href='http://movie.douban.com/subject/1291822/' target='_blank'>看过卢旺达饭店</a> - 2020-05-23
