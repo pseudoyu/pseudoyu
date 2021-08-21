@@ -21,7 +21,7 @@ All <!-- release_count starts -->19<!-- release_count ends --> of my released pr
 <br>My Alfred Workflow
 * **[xDeepFM_for_Recommender_Systems](https://github.com/pseudoyu/xDeepFM_for_Recommender_Systems)**: [xDeepFM for Recommender Systems 推荐系统](https://github.com/pseudoyu/xDeepFM_for_Recommender_Systems/releases/tag/v1.0.0)
 <br>HKU - COMP7404 Computational Intelligence and Machine Learning
-* **[udemy-java-exercises](https://github.com/pseudoyu/udemy-java-exercises)**: [Udemy Java 课程代码](https://github.com/pseudoyu/udemy-java-exercises/releases/tag/v0.0.1)
+* **[udemy-java](https://github.com/pseudoyu/udemy-java)**: [Udemy Java 课程代码](https://github.com/pseudoyu/udemy-java/releases/tag/v0.0.1)
 <br>Java Programming Masterclass for Software Developer on Udemy Platform
 * **[uright](https://github.com/pseudoyu/uright)**: [区块链音乐版权管理项目内测版本](https://github.com/pseudoyu/uright/releases/tag/v0.0.1)
 <br>通过Truffle部署于Ethereum的音乐版权管理DApp
