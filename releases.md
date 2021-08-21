@@ -24,7 +24,7 @@ All <!-- release_count starts -->19<!-- release_count ends --> of my released pr
 * **[udemy-java-exercises](https://github.com/pseudoyu/udemy-java-exercises)**: [Udemy Java 课程代码](https://github.com/pseudoyu/udemy-java-exercises/releases/tag/v0.0.1)
 <br>Java Programming Masterclass for Software Developer on Udemy Platform
 * **[uright](https://github.com/pseudoyu/uright)**: [区块链音乐版权管理项目内测版本](https://github.com/pseudoyu/uright/releases/tag/v0.0.1)
-<br>基于Angular+Solidity+Web3.js，应用IPFS、ENS、Oracles等技术，通过Truffle部署于Ethereum的音乐版权管理DApp
+<br>通过Truffle部署于Ethereum的音乐版权管理DApp
 * **[blockchain-guide](https://github.com/pseudoyu/blockchain-guide)**: [区块链核心知识库](https://github.com/pseudoyu/blockchain-guide/releases/tag/v0.0.1)
 <br>一个正在更新中的区块链核心知识库
 * **[liantoubao](https://github.com/pseudoyu/liantoubao)**: [数字货币实时监控系统](https://github.com/pseudoyu/liantoubao/releases/tag/v1.0.0)
@@ -32,7 +32,7 @@ All <!-- release_count starts -->19<!-- release_count ends --> of my released pr
 * **[pseudoyu](https://github.com/pseudoyu/pseudoyu)**: [首页信息流优化完成](https://github.com/pseudoyu/pseudoyu/releases/tag/v1.0.0)
 <br>Yu's GitHub Profile CI
 * **[blockchain-forum](https://github.com/pseudoyu/blockchain-forum)**: [区块链学习论坛](https://github.com/pseudoyu/blockchain-forum/releases/tag/v0.0.1)
-<br>区块链学习论坛 - 一个基于gin框架和Vue框架搭建的前后端分离的web项目
+<br>一个基于gin框架和Vue框架搭建的前后端分离的区块链论坛
 * **[dotfiles](https://github.com/pseudoyu/dotfiles)**: [个人开发环境配置](https://github.com/pseudoyu/dotfiles/releases/tag/v1.0.0)
 <br>My macOS and Ubuntu Configuration Files
 * **[yu-blog](https://github.com/pseudoyu/yu-blog)**: [个人网站发布系统](https://github.com/pseudoyu/yu-blog/releases/tag/v1.0.0)
