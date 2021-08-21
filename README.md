@@ -82,6 +82,16 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 
 <!-- code_time ends -->
 
+#### 🤾‍♂️ Recently I Enjoy
+
+<!-- douban starts -->
+* <a href='http://movie.douban.com/subject/30174085/' target='_blank'>看过怒火·重案</a> - 2021-08-14
+* <a href='https://book.douban.com/subject/35292726/' target='_blank'>读过 UNIX 传奇</a> - 2021-07-10
+* <a href='http://movie.douban.com/subject/34660591/' target='_blank'>看过乐队的夏天 第二季</a> - 2021-06-26
+* <a href='http://movie.douban.com/subject/27148168/' target='_blank'>看过赘婿</a> - 2021-06-26
+* <a href='http://movie.douban.com/subject/34841067/' target='_blank'>看过你好，李焕英</a> - 2021-02-19
+<!-- douban ends -->
+
 #### 🏋️‍♀️ <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
 
 <!-- recent_releases starts -->
@@ -97,6 +107,6 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 * <a href=https://github.com/pseudoyu/udemy-java-exercises/releases/tag/v0.0.1 target='_blank'>udemy-java-exercises Udemy Java 课程代码</a>
 <!-- recent_releases ends -->
 
-#### 📈 my github stats
+#### 📈 My github stats
 
 <p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
