@@ -44,7 +44,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
   <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/code.gif?raw=true" width="500" height="320" />
 
-#### 📰 <a href="https://www.pseudoyu.com/zh/" target="_blank">Recent Posts</a>
+#### 📰 Recent Posts
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a>
@@ -82,7 +82,7 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 
 <!-- code_time ends -->
 
-#### 🎧 Recently I Enjoy
+#### 🎧 Recently I Input
 
 <!-- douban starts -->
 * <a href='http://movie.douban.com/subject/1291822/' target='_blank'>看过卢旺达饭店</a> - 2020-05-23
@@ -96,7 +96,7 @@ VimL       13 mins        ▊░░░░░░░░░░░░░░░░░
 
 <p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
 
-#### 💻 <a href="https://github.com/pseudoyu/pseudoyu/blob/master/releases.md" target="_blank">Recent Releases</a>
+#### 💻 Recent Releases
 
 <!-- recent_releases starts -->
 * <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a>
