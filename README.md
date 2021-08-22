@@ -33,8 +33,8 @@
 </a>
 
 [![followers](https://img.shields.io/github/followers/pseudoyu?label=Follow)](https://github.com/pseudoyu)
-[![yu-blog](https://img.shields.io/badge/blog-yu-9cf)](https://www.pseudoyu.com)
 [![@Pseudoyu](https://img.shields.io/badge/weibo-%40Pseudoyu-critical)](https://weibo.com/3675416370/profile)
+[![yu-blog](https://img.shields.io/badge/blog-yu-9cf)](https://www.pseudoyu.com)
 [![misty-520](https://img.shields.io/badge/misty-520-pink)](https://www.m1sty.com)
 [![build](https://github.com/pseudoyu/pseudoyu/actions/workflows/build.yml/badge.svg)](https://github.com/pseudoyu/pseudoyu/actions/workflows/build.yml)
 
