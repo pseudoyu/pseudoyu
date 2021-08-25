@@ -88,10 +88,10 @@ Python     1 hr 54 mins   ██░░░░░░░░░░░░░░░░
 
 #### 🚧 This Week I Work On
 <!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
+🏆  686 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 1 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
 #### 🎧 Recent Digests
