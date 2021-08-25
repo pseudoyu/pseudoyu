@@ -1,6 +1,7 @@
 name: update todoist
 
 on:
+  push:
   workflow_dispatch:
   schedule:
     # Runs everyday 2 hour
