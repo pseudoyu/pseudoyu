@@ -73,15 +73,6 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 - 💼 Love open-source, want to do interesting projects together? If you do, [email me](mailto:pseudoyu@connect.hku.hk)
 - 💬 Ask me about anything, I am happy to help
 
-#### 🚧 This Week I Work On
-
-<!-- TODO-IST:START -->
-🏆  686 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 1 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
-
 #### 👨🏻‍💻 This Week I Code With
 <!-- code_time starts -->
 
@@ -95,6 +86,14 @@ Python     1 hr 54 mins   ██░░░░░░░░░░░░░░░░
 
 <!-- code_time ends -->
 
+#### 🚧 This Week I Work On
+
+<!-- TODO-IST:START -->
+🏆  686 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 1 tasks so far           
+⏳  Longest streak is 0 days
+<!-- TODO-IST:END -->
 
 #### 🎧 Recent Digests
 
