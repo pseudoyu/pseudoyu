@@ -86,7 +86,7 @@ Python     1 hr 54 mins   ██░░░░░░░░░░░░░░░░
 
 <!-- code_time ends -->
 
-#### 🚧 This Week I Work On
+#### 🚀 This Week I Work On
 
 <!-- TODO-IST:START -->
 🏆  686 Karma Points           
