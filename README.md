@@ -95,6 +95,10 @@ Python     1 hr 54 mins   ██░░░░░░░░░░░░░░░░
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
+#### 📈 Github Stats
+
+<p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
+
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
@@ -104,10 +108,6 @@ Python     1 hr 54 mins   ██░░░░░░░░░░░░░░░░
 * <a href='https://book.douban.com/subject/30438790/' target='_blank'>读过罪与罚</a> - 2021-08-21
 * <a href='https://book.douban.com/subject/3697494/' target='_blank'>读过洞穴奇案</a> - 2021-08-21
 <!-- douban ends -->
-
-#### 📈 Github Stats
-
-<p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
 
 #### 💻 Recent Releases
 
