@@ -77,11 +77,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   5 hrs 27 mins  █████▊░░░░░░░░░░░░░░░  28.0%
-sh         5 hrs 6 mins   █████▌░░░░░░░░░░░░░░░  26.2%
-Go         3 hrs 12 mins  ███▍░░░░░░░░░░░░░░░░░  16.5%
-YAML       2 hrs          ██▏░░░░░░░░░░░░░░░░░░  10.3%
-Python     1 hr 54 mins   ██░░░░░░░░░░░░░░░░░░░   9.8%
+sh         5 hrs 45 mins  █████▍░░░░░░░░░░░░░░░  25.8%
+Markdown   5 hrs 44 mins  █████▍░░░░░░░░░░░░░░░  25.6%
+Go         4 hrs 28 mins  ████▏░░░░░░░░░░░░░░░░  20.0%
+YAML       2 hrs 21 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
+Python     1 hr 54 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
 ```
 
 <!-- code_time ends -->
@@ -89,10 +89,10 @@ Python     1 hr 54 mins   ██░░░░░░░░░░░░░░░░
 #### 🚀 Recently I Work On
 
 <!-- TODO-IST:START -->
-🏆  686 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 2 tasks so far           
-⏳  Longest streak is 0 days
+🏆  1,013 Karma Points           
+🌸  Completed 6 tasks today           
+✅  Completed 15 tasks so far           
+⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
 #### 📈 Github Stats
@@ -102,11 +102,11 @@ Python     1 hr 54 mins   ██░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/26835090/' target='_blank'>最近在读软技能</a> - 2021-08-25
 * <a href='http://movie.douban.com/subject/30337388/' target='_blank'>想看失控玩家</a> - 2021-08-21
 * <a href='https://book.douban.com/subject/30316475/' target='_blank'>想读漫长的告别</a> - 2021-08-21
 * <a href='https://book.douban.com/subject/26912631/' target='_blank'>读过道林·格雷的画像</a> - 2021-08-21
 * <a href='https://book.douban.com/subject/30438790/' target='_blank'>读过罪与罚</a> - 2021-08-21
-* <a href='https://book.douban.com/subject/3697494/' target='_blank'>读过洞穴奇案</a> - 2021-08-21
 <!-- douban ends -->
 
 #### 💻 Recent Releases
