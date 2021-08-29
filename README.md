@@ -52,10 +52,10 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a>
+* <a href=https://www.pseudoyu.com/zh/2021/08/29/go_error_handling/ target='_blank'>Go 错误处理</a>
 * <a href=https://www.pseudoyu.com/zh/2021/08/20/blockchain_paper_cnfs/ target='_blank'>基于 CNFS 的区块链网络存储与优化</a>
 * <a href=https://www.pseudoyu.com/zh/2021/08/16/blockchain_ethereum_mpt/ target='_blank'>Ethereum MPT(Merkle Patricia Tries) 详解</a>
 * <a href=https://www.pseudoyu.com/zh/2021/05/29/algorithm_data_structure_go/ target='_blank'>LeetCode 刷题常用数据结构（Go 篇）</a>
-* <a href=https://www.pseudoyu.com/zh/2021/05/10/uright_case_study/ target='_blank'>Uright - 区块链音乐版权管理ÐApp</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
@@ -77,11 +77,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         11 hrs 32 mins ████████████░░░░░░░░░  57.3%
-sh         3 hrs 34 mins  ███▋░░░░░░░░░░░░░░░░░  17.7%
-Other      1 hr 36 mins   █▋░░░░░░░░░░░░░░░░░░░   8.0%
-YAML       1 hr 25 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
-Markdown   1 hr 19 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Go         10 hrs 7 mins  ████████████▌░░░░░░░░  59.8%
+sh         2 hrs 44 mins  ███▍░░░░░░░░░░░░░░░░░  16.2%
+Other      1 hr 37 mins   ██░░░░░░░░░░░░░░░░░░░   9.6%
+YAML       1 hr 21 mins   █▋░░░░░░░░░░░░░░░░░░░   8.0%
+Markdown   27 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
 ```
 
 <!-- code_time ends -->
