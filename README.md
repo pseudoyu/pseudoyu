@@ -106,7 +106,7 @@ Markdown   1 hr 19 mins   █▍░░░░░░░░░░░░░░░░
 * <a href='https://book.douban.com/subject/30485869/' target='_blank'>最近在读Hyperledger Fabric源代码分析</a> - 2021-08-26
 * <a href='https://book.douban.com/subject/30177480/' target='_blank'>最近在读区块链技术进阶与实战</a> - 2021-08-26
 * <a href='https://book.douban.com/subject/26835090/' target='_blank'>读过软技能</a> - 2021-08-26
-* <a href='https://book.douban.com/subject/30316475/' target='_blank'>想读漫长的告别</a> - 2021-08-21
+* <a href='http://movie.douban.com/subject/30337388/' target='_blank'>想看失控玩家</a> - 2021-08-21
 <!-- douban ends -->
 
 #### 💻 Recent Releases
