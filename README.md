@@ -89,10 +89,10 @@ Other      1 hr 28 mins   █▍░░░░░░░░░░░░░░░░
 #### 🚀 Recently I Work On
 
 <!-- TODO-IST:START -->
-🏆  2,054 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 38 tasks so far           
-⏳  Longest streak is 2 days
+🏆  2,097 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 41 tasks so far           
+⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
 #### 📈 Github Stats
