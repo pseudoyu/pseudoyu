@@ -52,10 +52,10 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a>
+* <a href=https://www.pseudoyu.com/zh/2021/09/02/go_concurrency_sync_once/ target='_blank'>[译] Go sync.Once 的妙用</a>
 * <a href=https://www.pseudoyu.com/zh/2021/09/01/blockchain_hyperledger_fabric_gosdk_event/ target='_blank'>Hyperledger Fabric Go SDK 事件分析</a>
 * <a href=https://www.pseudoyu.com/zh/2021/08/29/go_error_handling/ target='_blank'>Go 错误处理总结与实践</a>
 * <a href=https://www.pseudoyu.com/zh/2021/08/20/blockchain_paper_cnfs/ target='_blank'>基于 CNFS 的区块链网络存储与优化</a>
-* <a href=https://www.pseudoyu.com/zh/2021/08/16/blockchain_ethereum_mpt/ target='_blank'>Ethereum MPT(Merkle Patricia Tries) 详解</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
@@ -104,9 +104,9 @@ Other      1 hr 32 mins   █▏░░░░░░░░░░░░░░░░
 <!-- douban starts -->
 * <a href='http://movie.douban.com/subject/11525673/' target='_blank'>看过布达佩斯大饭店</a> - 2021-09-01
 * <a href='http://movie.douban.com/subject/26895171/' target='_blank'>看过四重奏</a> - 2021-09-01
+* <a href='https://book.douban.com/subject/27127839/' target='_blank'>最近在读区块链原理、设计与应用</a> - 2021-09-01
 * <a href='http://movie.douban.com/subject/30337388/' target='_blank'>看过失控玩家</a> - 2021-08-29
 * <a href='https://book.douban.com/subject/26369699/' target='_blank'>读过被讨厌的勇气</a> - 2021-08-26
-* <a href='https://book.douban.com/subject/30177480/' target='_blank'>最近在读区块链技术进阶与实战</a> - 2021-08-26
 <!-- douban ends -->
 
 #### 💻 Recent Releases
