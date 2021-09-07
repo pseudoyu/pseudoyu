@@ -52,10 +52,10 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a>
+* <a href=https://www.pseudoyu.com/zh/2021/09/07/blockchain_baas_platform/ target='_blank'>区块链服务平台 (BaaS) 简介及架构</a>
 * <a href=https://www.pseudoyu.com/zh/2021/09/06/blockchain_crosschain/ target='_blank'>跨链技术原理与实战</a>
 * <a href=https://www.pseudoyu.com/zh/2021/09/02/go_concurrency_sync_once/ target='_blank'>[译] Go sync.Once 的妙用</a>
 * <a href=https://www.pseudoyu.com/zh/2021/09/01/blockchain_hyperledger_fabric_gosdk_event/ target='_blank'>Hyperledger Fabric Go SDK 事件分析</a>
-* <a href=https://www.pseudoyu.com/zh/2021/08/29/go_error_handling/ target='_blank'>Go 错误处理总结与实践</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
