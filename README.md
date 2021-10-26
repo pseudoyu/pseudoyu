@@ -77,11 +77,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Other      6 hrs 6 mins   ██████████▊░░░░░░░░░░  51.6%
-sh         3 hrs 30 mins  ██████▏░░░░░░░░░░░░░░  29.6%
-Groovy     51 mins        █▌░░░░░░░░░░░░░░░░░░░   7.3%
-SQL        21 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-CSS        16 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Other      6 hrs 17 mins  █████████▏░░░░░░░░░░░  43.6%
+sh         4 hrs 51 mins  ███████░░░░░░░░░░░░░░  33.7%
+Groovy     51 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
+Go         39 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+SQL        21 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 ```
 
 <!-- code_time ends -->
