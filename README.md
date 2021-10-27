@@ -52,10 +52,10 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a>
+* <a href=https://www.pseudoyu.com/zh/2021/10/27/sonarqube_code_check_setup/ target='_blank'>SonarQube 代码质量检查工具配置</a>
 * <a href=https://www.pseudoyu.com/zh/2021/09/09/blockchain_crosschain_bitxhub/ target='_blank'>BitXHub 跨链插件（Fabric）源码解读</a>
 * <a href=https://www.pseudoyu.com/zh/2021/09/08/blockchain_consensus/ target='_blank'>分布式系统与区块链共识机制</a>
 * <a href=https://www.pseudoyu.com/zh/2021/09/07/blockchain_baas_platform/ target='_blank'>区块链服务平台 (BaaS) 简介及架构</a>
-* <a href=https://www.pseudoyu.com/zh/2021/09/06/blockchain_crosschain/ target='_blank'>跨链技术原理与实战</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
