@@ -61,7 +61,6 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🔨 Languages and Tools
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/go.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/python.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/java.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/rust.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/mysql.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/ubuntu.png"></code>
@@ -70,7 +69,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/git.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/vim.png"></code>
 
-- 💼 Love open-source, want to do interesting projects together? If you do, [email me](mailto:pseudoyu@connect.hku.hk)
+- 💼 Love open-source, want to know me more? [email me](mailto:pseudoyu@connect.hku.hk)
 - 💬 Ask me about anything, I am happy to help
 
 #### 👨🏻‍💻 This Week I Code With
