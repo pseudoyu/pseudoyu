@@ -51,7 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
-
+* <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a>
+* <a href=https://www.pseudoyu.com/zh/2021/10/27/sonarqube_code_check_setup/ target='_blank'>SonarQube 代码质量检查工具配置</a>
+* <a href=https://www.pseudoyu.com/zh/2021/09/09/blockchain_crosschain_bitxhub/ target='_blank'>BitXHub 跨链插件（Fabric）源码解读</a>
+* <a href=https://www.pseudoyu.com/zh/2021/09/08/blockchain_consensus/ target='_blank'>分布式系统与区块链共识机制</a>
+* <a href=https://www.pseudoyu.com/zh/2021/09/07/blockchain_baas_platform/ target='_blank'>区块链服务平台 (BaaS) 简介及架构</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
@@ -72,11 +76,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         12 hrs 21 mins ███████████▉░░░░░░░░░  57.1%
-sh         4 hrs 50 mins  ████▋░░░░░░░░░░░░░░░░  22.4%
-Protoco... 1 hr 17 mins   █▎░░░░░░░░░░░░░░░░░░░   6.0%
-YAML       1 hr 9 mins    █░░░░░░░░░░░░░░░░░░░░   5.3%
-Bash       25 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Go         12 hrs 44 mins ████████████░░░░░░░░░  57.6%
+sh         5 hrs 23 mins  █████░░░░░░░░░░░░░░░░  24.4%
+Protoco... 1 hr 17 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
+YAML       53 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Bash       27 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 
 <!-- code_time ends -->
