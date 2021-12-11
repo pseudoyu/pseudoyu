@@ -76,11 +76,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-sh         10 hrs 56 mins ██████▉░░░░░░░░░░░░░░  33.0%
-Go         9 hrs 22 mins  █████▉░░░░░░░░░░░░░░░  28.3%
-YAML       3 hrs 42 mins  ██▎░░░░░░░░░░░░░░░░░░  11.2%
-Text       1 hr 26 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.4%
-Bash       1 hr 12 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+sh         11 hrs 24 mins ███████░░░░░░░░░░░░░░  33.5%
+Go         9 hrs 40 mins  █████▉░░░░░░░░░░░░░░░  28.4%
+YAML       3 hrs 58 mins  ██▍░░░░░░░░░░░░░░░░░░  11.7%
+Text       1 hr 21 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Bash       1 hr 11 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 <!-- code_time ends -->
