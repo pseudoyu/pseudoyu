@@ -85,15 +85,6 @@ Bash       34 mins        ▊░░░░░░░░░░░░░░░░░
 
 <!-- code_time ends -->
 
-#### 🚀 Recently I Work On
-
-<!-- TODO-IST:START -->
-🏆  4,371 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 153 tasks so far           
-⏳  Longest streak is 15 days
-<!-- TODO-IST:END -->
-
 #### 📈 Github Stats
 
 <p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
