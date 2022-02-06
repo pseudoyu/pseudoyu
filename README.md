@@ -91,11 +91,11 @@ Markdown   0 secs         ░░░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/2150220/' target='_blank'>在看白色巨塔</a> - 2022-02-06
 * <a href='http://movie.douban.com/subject/5300054/' target='_blank'>看过波西米亚狂想曲</a> - 2022-02-06
 * <a href='http://movie.douban.com/subject/10808442/' target='_blank'>看过爱在午夜降临前</a> - 2022-02-06
 * <a href='http://movie.douban.com/subject/1291990/' target='_blank'>看过爱在日落黄昏时</a> - 2022-02-06
 * <a href='http://movie.douban.com/subject/26302614/' target='_blank'>看过请回答1988</a> - 2022-02-06
-* <a href='http://movie.douban.com/subject/34858078/' target='_blank'>看过甜蜜家园</a> - 2022-02-06
 <!-- douban ends -->
 
 #### 💻 Recent Releases
