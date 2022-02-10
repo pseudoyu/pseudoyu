@@ -91,11 +91,11 @@ JSON       2 mins         ▏░░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/33424766/' target='_blank'>最近在读精通以太坊：开发智能合约和去中心化应用</a> - 2022-02-10
+* <a href='https://book.douban.com/subject/35571980/' target='_blank'>最近在读区块链架构与实现</a> - 2022-02-10
 * <a href='http://movie.douban.com/subject/25895901/' target='_blank'>看过海街日记</a> - 2022-02-10
 * <a href='http://movie.douban.com/subject/27179039/' target='_blank'>看过朱迪</a> - 2022-02-09
 * <a href='http://movie.douban.com/subject/2150220/' target='_blank'>看过白色巨塔</a> - 2022-02-08
-* <a href='http://movie.douban.com/subject/26947951/' target='_blank'>在看王国 第一季</a> - 2022-02-07
-* <a href='http://movie.douban.com/subject/35068653/' target='_blank'>看过误杀2</a> - 2022-02-06
 <!-- douban ends -->
 
 #### 💻 Recent Releases
