@@ -75,10 +75,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-PlantUM... 1 hr 10 mins   ████████████████████▊  99.0%
-sh         0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Go         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Python     1 hr 37 mins   ██████████▌░░░░░░░░░░  50.1%
+sh         1 hr 15 mins   ████████░░░░░░░░░░░░░  38.4%
+Solidity   13 mins        █▍░░░░░░░░░░░░░░░░░░░   7.0%
+Bash       6 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+JSON       2 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time ends -->
