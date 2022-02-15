@@ -75,11 +75,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Python     8 hrs 6 mins   ███████▉░░░░░░░░░░░░░  38.0%
-sh         5 hrs 20 mins  █████▎░░░░░░░░░░░░░░░  25.0%
-Markdown   3 hrs 24 mins  ███▎░░░░░░░░░░░░░░░░░  16.0%
-Solidity   2 hrs 27 mins  ██▍░░░░░░░░░░░░░░░░░░  11.5%
-Bash       1 hr 4 mins    █░░░░░░░░░░░░░░░░░░░░   5.0%
+Python     8 hrs 7 mins   ███████▎░░░░░░░░░░░░░  35.0%
+sh         5 hrs 32 mins  █████░░░░░░░░░░░░░░░░  23.8%
+Markdown   3 hrs 28 mins  ███▏░░░░░░░░░░░░░░░░░  14.9%
+Solidity   2 hrs 27 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
+YAML       1 hr 15 mins   █▏░░░░░░░░░░░░░░░░░░░   5.4%
 ```
 
 <!-- code_time ends -->
