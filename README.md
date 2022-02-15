@@ -86,7 +86,17 @@ YAML       1 hr 15 mins   █▏░░░░░░░░░░░░░░░░
 
 #### 📈 Github Stats
 
-<p align="center"> <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
+<table align="center" width="100%">
+  </tr>
+  <tr>
+    <td align="center">
+        <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
+    </td>
+    <td align="center">
+        <img src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&layout=compact&theme=gotham" alt="pseudoyu" />
+    </td>
+  </tr>
+</table>
 
 #### 🎧 Recent Digests
 
