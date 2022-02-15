@@ -90,10 +90,10 @@ YAML       1 hr 15 mins   █▏░░░░░░░░░░░░░░░░
   </tr>
   <tr>
     <td align="center">
-        <img src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
+        <img width="84%" src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
     </td>
     <td align="center">
-        <img src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&layout=compact&theme=gotham" alt="pseudoyu" />
+        <img width="100%" src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&layout=compact&theme=gotham" alt="pseudoyu" />
     </td>
   </tr>
 </table>
