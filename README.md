@@ -84,31 +84,6 @@ YAML       1 hr 15 mins   █▏░░░░░░░░░░░░░░░░
 
 <!-- code_time ends -->
 
-#### 🎧 Recent Digests
-
-<!-- douban starts -->
-* <a href='https://book.douban.com/subject/30316475/' target='_blank'>最近在读漫长的告别</a> - 2022-02-14
-* <a href='http://movie.douban.com/subject/27140017/' target='_blank'>看过非自然死亡</a> - 2022-02-13
-* <a href='https://book.douban.com/subject/34815132/' target='_blank'>读过圆圈正义</a> - 2022-02-13
-* <a href='http://movie.douban.com/subject/30306401/' target='_blank'>看过王国 第二季</a> - 2022-02-13
-* <a href='http://movie.douban.com/subject/26947951/' target='_blank'>看过王国 第一季</a> - 2022-02-12
-<!-- douban ends -->
-
-#### 💻 Recent Releases
-
-<!-- recent_releases starts -->
-* <a href=https://github.com/pseudoyu/learn-solidity/releases/tag/v1.0.0 target='_blank'>learn-solidity Solidity 智能合约开发学习</a>
-* <a href=https://github.com/pseudoyu/lottery-solidity/releases/tag/v1.0.0 target='_blank'>lottery-solidity 用 Solidity 编写的彩票智能合约 Demo</a>
-* <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a>
-* <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a>
-* <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a>
-* <a href=https://github.com/pseudoyu/comp7404-assignments/releases/tag/v1.0.0 target='_blank'>comp7404-assignments HKU COMP7404 课程代码</a>
-* <a href=https://github.com/pseudoyu/yu-blockchain/releases/tag/v1.0.0 target='_blank'>yu-blockchain 从零实现一个区块链</a>
-* <a href=https://github.com/pseudoyu/alfred-workflow/releases/tag/v0.0.1 target='_blank'>alfred-workflow 个人 Alfred 脚本</a>
-* <a href=https://github.com/pseudoyu/xDeepFM_for_Recommender_Systems/releases/tag/v1.0.0 target='_blank'>xDeepFM_for_Recommender_Systems xDeepFM for Recommender Systems 推荐系统</a>
-* <a href=https://github.com/pseudoyu/udemy-java/releases/tag/v0.0.1 target='_blank'>udemy-java Udemy Java 课程代码</a>
-<!-- recent_releases ends -->
-
 #### 📈 Github Stats
 
 <table align="center" width="100%">
@@ -143,3 +118,28 @@ YAML       1 hr 15 mins   █▏░░░░░░░░░░░░░░░░
     </td>
   </tr>
 </table>
+
+#### 🎧 Recent Digests
+
+<!-- douban starts -->
+* <a href='https://book.douban.com/subject/30316475/' target='_blank'>最近在读漫长的告别</a> - 2022-02-14
+* <a href='http://movie.douban.com/subject/27140017/' target='_blank'>看过非自然死亡</a> - 2022-02-13
+* <a href='https://book.douban.com/subject/34815132/' target='_blank'>读过圆圈正义</a> - 2022-02-13
+* <a href='http://movie.douban.com/subject/30306401/' target='_blank'>看过王国 第二季</a> - 2022-02-13
+* <a href='http://movie.douban.com/subject/26947951/' target='_blank'>看过王国 第一季</a> - 2022-02-12
+<!-- douban ends -->
+
+#### 💻 Recent Releases
+
+<!-- recent_releases starts -->
+* <a href=https://github.com/pseudoyu/learn-solidity/releases/tag/v1.0.0 target='_blank'>learn-solidity Solidity 智能合约开发学习</a>
+* <a href=https://github.com/pseudoyu/lottery-solidity/releases/tag/v1.0.0 target='_blank'>lottery-solidity 用 Solidity 编写的彩票智能合约 Demo</a>
+* <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a>
+* <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a>
+* <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a>
+* <a href=https://github.com/pseudoyu/comp7404-assignments/releases/tag/v1.0.0 target='_blank'>comp7404-assignments HKU COMP7404 课程代码</a>
+* <a href=https://github.com/pseudoyu/yu-blockchain/releases/tag/v1.0.0 target='_blank'>yu-blockchain 从零实现一个区块链</a>
+* <a href=https://github.com/pseudoyu/alfred-workflow/releases/tag/v0.0.1 target='_blank'>alfred-workflow 个人 Alfred 脚本</a>
+* <a href=https://github.com/pseudoyu/xDeepFM_for_Recommender_Systems/releases/tag/v1.0.0 target='_blank'>xDeepFM_for_Recommender_Systems xDeepFM for Recommender Systems 推荐系统</a>
+* <a href=https://github.com/pseudoyu/udemy-java/releases/tag/v0.0.1 target='_blank'>udemy-java Udemy Java 课程代码</a>
+<!-- recent_releases ends -->
