@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/profile_logo.svg" align="center" alt="Github Readme Stats" />
- <h3 align="center">👨🏻‍💻 Learning... 👨🏻‍💻</h3>
+ <h3 align="center">:octocat: Learning :octocat:</h3>
 </p>
 
 ### Hey there <img src='https://cdn.jsdelivr.net/gh/pseudoyu/image_hosting@master/hugo_images/hey.gif' alt='Hi' width="24"/> 
@@ -87,13 +87,34 @@ YAML       1 hr 15 mins   █▏░░░░░░░░░░░░░░░░
 #### 📈 Github Stats
 
 <table align="center" width="100%">
-  </tr>
   <tr>
     <td align="center">
-        <img width="84%" src="https://yu-readme.vercel.app/api?username=pseudoyu&show_icons=true&theme=gotham" alt="pseudoyu" />
+      <strong> :octocat: I'm proud to be part of these organizations :octocat: </strong><br>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/zhigui-projects">
+              <img src="https://avatars.githubusercontent.com/u/40972663?s=150&v=4" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/gocn">
+              <img src="https://avatars.githubusercontent.com/u/4868496?s=150&v=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
     <td align="center">
-        <img width="100%" src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&layout=compact&theme=gotham" alt="pseudoyu" />
+      <img width="120%" src="https://yu-readme.vercel.app/api?username=vinzvinci&count_private=true&theme=gotham&show_icons=true" />
+    </td>
+  </tr>
+  <tr>
+          <td align="center">
+            <img src="https://yu-readme.vercel.app/api/top-langs/?username=vinzvinci&layout=compact&theme=gotham">
+          </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudoyu&theme=gotham">
     </td>
   </tr>
 </table>
