@@ -106,12 +106,12 @@ YAML       1 hr 15 mins   █▏░░░░░░░░░░░░░░░░
       </table>
     </td>
     <td align="center">
-      <img width="120%" src="https://yu-readme.vercel.app/api?username=vinzvinci&count_private=true&theme=gotham&show_icons=true" />
+      <img width="120%" src="https://yu-readme.vercel.app/api?username=pseudoyu&count_private=true&theme=gotham&show_icons=true" />
     </td>
   </tr>
   <tr>
           <td align="center">
-            <img src="https://yu-readme.vercel.app/api/top-langs/?username=vinzvinci&layout=compact&theme=gotham">
+            <img src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&hide=html,php,css,javascript,typescript&layout=compact&theme=gotham">
           </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudoyu&theme=gotham">
