@@ -76,11 +76,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-sh         5 hrs 1 min    █████████▎░░░░░░░░░░░  44.1%
-Go         4 hrs 33 mins  ████████▍░░░░░░░░░░░░  40.1%
-Bash       35 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
-Text       13 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-YAML       12 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Go         4 hrs 16 mins  ██████████▍░░░░░░░░░░  49.6%
+sh         3 hrs 29 mins  ████████▌░░░░░░░░░░░░  40.5%
+Bash       16 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+YAML       12 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
+VimL       9 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time ends -->
@@ -123,11 +123,11 @@ YAML       12 mins        ▍░░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/26303622/' target='_blank'>看过大空头</a> - 2022-05-01
-* <a href='https://book.douban.com/subject/1465324/' target='_blank'>最近在读洛丽塔</a> - 2022-04-28
-* <a href='http://movie.douban.com/subject/30161936/' target='_blank'>看过黑镜 第五季</a> - 2022-04-25
-* <a href='http://movie.douban.com/subject/25966044/' target='_blank'>看过黑镜 第三季</a> - 2022-04-24
-* <a href='http://movie.douban.com/subject/11502153/' target='_blank'>看过黑镜 第二季</a> - 2022-04-24
+* <a href='http://movie.douban.com/subject/3286549/' target='_blank'>在看老友记  第九季</a> - 2022-05-05
+* <a href='http://movie.douban.com/subject/3286548/' target='_blank'>看过老友记  第八季</a> - 2022-05-05
+* <a href='http://movie.douban.com/subject/3286547/' target='_blank'>看过老友记  第七季</a> - 2022-05-05
+* <a href='http://movie.douban.com/subject/3286543/' target='_blank'>看过老友记  第六季</a> - 2022-05-05
+* <a href='http://movie.douban.com/subject/3286538/' target='_blank'>看过老友记  第五季</a> - 2022-05-05
 <!-- douban ends -->
 
 #### 💻 Recent Releases
