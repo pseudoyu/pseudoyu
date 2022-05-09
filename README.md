@@ -76,11 +76,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-PlantUM... 49 mins        ██████▊░░░░░░░░░░░░░░  32.7%
-Groovy     28 mins        ███▊░░░░░░░░░░░░░░░░░  18.4%
-Go         20 mins        ██▊░░░░░░░░░░░░░░░░░░  13.2%
-Bash       14 mins        ██░░░░░░░░░░░░░░░░░░░   9.7%
-SQL        11 mins        █▌░░░░░░░░░░░░░░░░░░░   7.3%
+Markdown   3 hrs 26 mins  ████████████▍░░░░░░░░  59.0%
+PlantUM... 49 mins        ██▉░░░░░░░░░░░░░░░░░░  14.3%
+Groovy     28 mins        █▋░░░░░░░░░░░░░░░░░░░   8.1%
+Go         21 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
+HTML       11 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
 ```
 
 <!-- code_time ends -->
