@@ -120,16 +120,17 @@ sh         30 mins        ▌░░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/26592971/' target='_blank'>在看瑞克和莫蒂 第三季</a> - 2022-05-15
+* <a href='http://movie.douban.com/subject/27166039/' target='_blank'>在看瑞克和莫蒂 第四季</a> - 2022-05-18
+* <a href='http://movie.douban.com/subject/26592971/' target='_blank'>看过瑞克和莫蒂 第三季</a> - 2022-05-18
 * <a href='http://movie.douban.com/subject/25865470/' target='_blank'>看过瑞克和莫蒂 第二季</a> - 2022-05-15
 * <a href='http://movie.douban.com/subject/11537954/' target='_blank'>看过瑞克和莫蒂 第一季</a> - 2022-05-14
 * <a href='http://movie.douban.com/subject/35234382/' target='_blank'>在看辉夜大小姐想让我告白：天才们的恋爱头脑战 第三季</a> - 2022-05-14
-* <a href='http://movie.douban.com/subject/35258427/' target='_blank'>在看间谍过家家</a> - 2022-05-14
 <!-- douban ends -->
 
 #### 💻 Recent Releases
 
 <!-- recent_releases starts -->
+* <a href=https://github.com/pseudoyu/yu-tools/releases/tag/v0.1 target='_blank'>yu-tools Yu's Personal Tools</a>
 * <a href=https://github.com/pseudoyu/top-blockchain-projects/releases/tag/v1.0.0 target='_blank'>top-blockchain-projects GitHub 区块链项目 star 排行榜</a>
 * <a href=https://github.com/pseudoyu/pseudoyu/releases/tag/v1.1.0 target='_blank'>pseudoyu 首页信息流展示</a>
 * <a href=https://github.com/pseudoyu/learn-solidity/releases/tag/v1.0.0 target='_blank'>learn-solidity Solidity 智能合约开发学习</a>
@@ -139,5 +140,4 @@ sh         30 mins        ▌░░░░░░░░░░░░░░░░░
 * <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a>
 * <a href=https://github.com/pseudoyu/comp7404-assignments/releases/tag/v1.0.0 target='_blank'>comp7404-assignments HKU COMP7404 课程代码</a>
 * <a href=https://github.com/pseudoyu/yu-blockchain/releases/tag/v1.0.0 target='_blank'>yu-blockchain 从零实现一个区块链</a>
-* <a href=https://github.com/pseudoyu/alfred-workflow/releases/tag/v0.0.1 target='_blank'>alfred-workflow 个人 Alfred 脚本</a>
 <!-- recent_releases ends -->
