@@ -73,11 +73,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   20 hrs 14 mins █████████████████▊░░░  84.7%
-Other      1 hr 13 mins   █░░░░░░░░░░░░░░░░░░░░   5.2%
-Go         36 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-PlantUM... 31 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-sh         24 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Markdown   19 hrs 25 mins ██████████████████▊░░  89.3%
+Other      1 hr 13 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
+sh         27 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+YAML       10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Text       8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time ends -->
