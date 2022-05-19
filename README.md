@@ -43,9 +43,6 @@ I'm [Yu Zhang](https://www.pseudoyu.com), Blockchain Developer, MSc Graduate in 
 
 I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time.
 
-
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/code.gif?raw=true" width="468" height="300" />
-
 #### 📰 Recent Posts
 
 <!-- blog starts -->
