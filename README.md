@@ -71,11 +71,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   10 hrs 58 mins ███████████████▌░░░░░  73.8%
-Solidity   2 hrs 1 min    ██▊░░░░░░░░░░░░░░░░░░  13.6%
-Other      51 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
-sh         35 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-Text       8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Markdown   10 hrs 42 mins ██████████████░░░░░░░  67.1%
+Solidity   2 hrs 1 min    ██▋░░░░░░░░░░░░░░░░░░  12.7%
+Other      1 hr 2 mins    █▎░░░░░░░░░░░░░░░░░░░   6.5%
+HTML       52 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%
+sh         35 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
 ```
 
 <!-- code_time ends -->
@@ -118,11 +118,11 @@ Text       8 mins         ▏░░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/35874097/' target='_blank'>想看网络炼狱：揭发N号房</a> - 2022-05-20
-* <a href='http://movie.douban.com/subject/35713161/' target='_blank'>想看守护解放西3</a> - 2022-05-19
-* <a href='http://movie.douban.com/subject/35231039/' target='_blank'>在看守护解放西2</a> - 2022-05-19
-* <a href='http://movie.douban.com/subject/34800399/' target='_blank'>看过守护解放西</a> - 2022-05-19
-* <a href='http://movie.douban.com/subject/27166039/' target='_blank'>看过瑞克和莫蒂 第四季</a> - 2022-05-18
+* <a href='http://movie.douban.com/subject/35207856/' target='_blank'>在看人世间</a> - 2022-05-20
+* <a href='http://movie.douban.com/subject/35874097/' target='_blank'>看过网络炼狱：揭发N号房</a> - 2022-05-20
+* <a href='http://movie.douban.com/subject/35436582/' target='_blank'>看过爱，死亡和机器人 第三季</a> - 2022-05-20
+* <a href='http://movie.douban.com/subject/35351365/' target='_blank'>在看夏日重现</a> - 2022-05-20
+* <a href='http://movie.douban.com/subject/34418203/' target='_blank'>看过爱，死亡和机器人 第二季</a> - 2022-05-20
 <!-- douban ends -->
 
 #### 💻 Recent Releases
