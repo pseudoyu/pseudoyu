@@ -50,10 +50,10 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a>
+* <a href=https://www.pseudoyu.com/zh/2022/05/21/free_blog_analysis_using_umami_vercel_and_heroku/ target='_blank'>从零开始搭建一个免费的个人博客数据统计系统（umami + Vercel + Heroku）</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/21/writing_a_simple_in_memory_key_value_database_in_go/ target='_blank'>[译] 用 Go 编写一个简单的内存键值数据库</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/08/personal_tools_in_2022_may/ target='_blank'>个人工具箱（2022 年 5 月）</a>
 * <a href=https://www.pseudoyu.com/zh/2022/03/24/free_blog_deploy_using_hugo_and_cusdis/ target='_blank'>免费的个人博客系统搭建及部署解决方案（Hugo + GitHub Pages + Cusdis）</a>
-* <a href=https://www.pseudoyu.com/zh/2022/02/15/building_middlewares_with_golang/ target='_blank'>[译] 理解并用 Go 语言实现一个 HTTP 中间件</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
