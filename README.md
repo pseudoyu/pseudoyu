@@ -50,7 +50,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/22/migrate_your_files_to_onedrive_using_mover_io/ target='_blank'>通过 mover.io 服务无缝迁移云端网盘文件至 oneDrive</a>
+* <a href=https://www.pseudoyu.com/zh/2022/05/22/migrate_your_files_to_onedrive_using_mover_io/ target='_blank'>通过 mover.io 服务无缝迁移云端网盘文件至 OneDrive</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/21/free_blog_analysis_using_umami_vercel_and_heroku/ target='_blank'>从零开始搭建一个免费的个人博客数据统计系统（umami + Vercel + Heroku）</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/21/writing_a_simple_in_memory_key_value_database_in_go/ target='_blank'>[译] 用 Go 编写一个简单的内存键值数据库</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/08/personal_tools_in_2022_may/ target='_blank'>个人工具箱（2022 年 5 月）</a>
