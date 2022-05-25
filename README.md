@@ -32,7 +32,7 @@
   <img align="left" alt="Yu's Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/coursera.svg"/>
 </a>
 
-[![@pseudoyu](https://img.shields.io/badge/weibo-%40Pseudoyu-critical)](https://weibo.com/3675416370/profile)
+[![@pseudoyu](https://img.shields.io/badge/weibo-%40pseudoyu-critical)](https://weibo.com/3675416370/profile)
 [![yu-blog](https://img.shields.io/badge/blog-yu-9cf)](https://www.pseudoyu.com)
 [![kitty-misty](https://img.shields.io/badge/kitty-misty-pink)](https://www.m1sty.com)
 [![followers](https://img.shields.io/github/followers/pseudoyu?label=followers)](https://github.com/pseudoyu)
