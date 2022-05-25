@@ -74,11 +74,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   17 hrs 1 min   █████████████▍░░░░░░░  64.0%
-Solidity   2 hrs 18 mins  █▊░░░░░░░░░░░░░░░░░░░   8.7%
-HTML       1 hr 50 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
-Go         1 hr 23 mins   █░░░░░░░░░░░░░░░░░░░░   5.3%
-Other      1 hr           ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Markdown   12 hrs 3 mins  ██████████▎░░░░░░░░░░  49.3%
+HTML       3 hrs 49 mins  ███▎░░░░░░░░░░░░░░░░░  15.7%
+Solidity   2 hrs 18 mins  █▉░░░░░░░░░░░░░░░░░░░   9.4%
+Go         1 hr 23 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Other      53 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
 ```
 
 <!-- code_time ends -->
