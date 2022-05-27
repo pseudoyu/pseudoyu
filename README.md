@@ -50,7 +50,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
 <!-- blog starts -->
 * <a href=https://www.pseudoyu.com/zh/about/ target='_blank'>关于</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/ target='_blank'>以太坊智能合约开发（Solidity） - 基础</a>
+* <a href=https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/ target='_blank'>Ethereum 智能合约开发（Solidity） - 基础</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/24/free_and_lightweight_blog_comment_system_using_cusdis_and_railway/ target='_blank'>轻量级开源免费博客评论系统解决方案 （Cusdis + Railway）</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/22/migrate_your_files_to_onedrive_using_mover_io/ target='_blank'>通过 mover.io 服务无缝迁移云端网盘文件至 OneDrive</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/21/free_blog_analysis_using_umami_vercel_and_heroku/ target='_blank'>从零开始搭建一个免费的个人博客数据统计系统（umami + Vercel + Heroku）</a>
@@ -74,11 +74,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   14 hrs 44 mins ██████████▉░░░░░░░░░░  51.9%
-HTML       3 hrs 49 mins  ██▊░░░░░░░░░░░░░░░░░░  13.5%
-Solidity   2 hrs 50 mins  ██░░░░░░░░░░░░░░░░░░░  10.0%
-Other      1 hr 38 mins   █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Go         1 hr 23 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
+Markdown   14 hrs 49 mins ██████████▋░░░░░░░░░░  51.1%
+HTML       3 hrs 53 mins  ██▊░░░░░░░░░░░░░░░░░░  13.4%
+Other      1 hr 54 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Go         1 hr 23 mins   █░░░░░░░░░░░░░░░░░░░░   4.8%
+Solidity   1 hr 11 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.1%
 ```
 
 <!-- code_time ends -->
