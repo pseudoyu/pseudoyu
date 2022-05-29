@@ -49,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/ target='_blank'>Hugo + GitHub Action，搭建你的博客自动发布系统</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/29/deploy_ghost_5_on_digital_ocean_vps/ target='_blank'>Ghost 5.0 来了，使用 Digital Ocean 一键部署吧</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/ target='_blank'>Ethereum 智能合约开发（Solidity） - 基础</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/24/free_and_lightweight_blog_comment_system_using_cusdis_and_railway/ target='_blank'>轻量级开源免费博客评论系统解决方案 （Cusdis + Railway）</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/22/migrate_your_files_to_onedrive_using_mover_io/ target='_blank'>通过 mover.io 服务无缝迁移云端网盘文件至 OneDrive</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/21/free_blog_analysis_using_umami_vercel_and_heroku/ target='_blank'>从零开始搭建一个免费的个人博客数据统计系统（umami + Vercel + Heroku）</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
