@@ -49,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/05/29/deploy_ghost_5_on_digital_ocean_vps/ target='_blank'>Ghost 5.0 来了，使用 Digital Ocean 一键部署吧</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/ target='_blank'>Ethereum 智能合约开发（Solidity） - 基础</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/24/free_and_lightweight_blog_comment_system_using_cusdis_and_railway/ target='_blank'>轻量级开源免费博客评论系统解决方案 （Cusdis + Railway）</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/22/migrate_your_files_to_onedrive_using_mover_io/ target='_blank'>通过 mover.io 服务无缝迁移云端网盘文件至 OneDrive</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/21/free_blog_analysis_using_umami_vercel_and_heroku/ target='_blank'>从零开始搭建一个免费的个人博客数据统计系统（umami + Vercel + Heroku）</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/21/writing_a_simple_in_memory_key_value_database_in_go/ target='_blank'>[译] 用 Go 编写一个简单的内存键值数据库</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
@@ -121,8 +121,8 @@ Solidity   1 hr 11 mins   ▉░░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/27194292/' target='_blank'>看过怪奇物语 第四季</a> - 2022-05-29
 * <a href='http://movie.douban.com/subject/35231039/' target='_blank'>看过守护解放西2</a> - 2022-05-29
-* <a href='http://movie.douban.com/subject/27194292/' target='_blank'>在看怪奇物语 第四季</a> - 2022-05-28
 * <a href='http://movie.douban.com/subject/35235301/' target='_blank'>在看暗夜行者</a> - 2022-05-26
 * <a href='http://movie.douban.com/subject/35450588/' target='_blank'>看过金钱通解</a> - 2022-05-25
 * <a href='http://movie.douban.com/subject/35207856/' target='_blank'>看过人世间</a> - 2022-05-23
