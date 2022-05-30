@@ -49,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/05/30/learn_solidity_from_scratch_web3py/ target='_blank'>Ethereum 智能合约开发（Solidity） - 玩转 Web3.py</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/ target='_blank'>Hugo + GitHub Action，搭建你的博客自动发布系统</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/29/deploy_ghost_5_on_digital_ocean_vps/ target='_blank'>Ghost 5.0 来了，使用 Digital Ocean 一键部署吧</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/ target='_blank'>Ethereum 智能合约开发（Solidity） - 基础</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/24/free_and_lightweight_blog_comment_system_using_cusdis_and_railway/ target='_blank'>轻量级开源免费博客评论系统解决方案 （Cusdis + Railway）</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/22/migrate_your_files_to_onedrive_using_mover_io/ target='_blank'>通过 mover.io 服务无缝迁移云端网盘文件至 OneDrive</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
@@ -74,11 +74,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   14 hrs 6 mins  ██████████▏░░░░░░░░░░  48.7%
-Go         3 hrs 4 mins   ██▏░░░░░░░░░░░░░░░░░░  10.6%
-HTML       2 hrs 20 mins  █▋░░░░░░░░░░░░░░░░░░░   8.1%
-XML        1 hr 24 mins   █░░░░░░░░░░░░░░░░░░░░   4.8%
-Other      1 hr 21 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Markdown   14 hrs 39 mins ███████████▋░░░░░░░░░  55.6%
+HTML       2 hrs 4 mins   █▋░░░░░░░░░░░░░░░░░░░   7.9%
+Go         1 hr 56 mins   █▌░░░░░░░░░░░░░░░░░░░   7.4%
+Other      1 hr 26 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
+XML        1 hr 20 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
 ```
 
 <!-- code_time ends -->
