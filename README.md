@@ -113,7 +113,8 @@ Other      1 hr 21 mins   ▉░░░░░░░░░░░░░░░░░
             <img src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&hide=html,php,css,typescript&layout=compact&theme=gotham">
           </td>
     <td align="center">
-      <img src="https://yu-github-readme-stats.herokuapp.com/?user=pseudoyu&theme=gotham">
+      <!-- <img src="https://yu-github-readme-stats.herokuapp.com/?user=pseudoyu&theme=gotham"> -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudoyu&theme=gotham">
     </td>
   </tr>
 </table>
