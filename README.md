@@ -49,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/04/macos_window_management_solution_using_yabai_and_skhd/ target='_blank'>基于 yabai 和 skhd 的 macOS 窗口管理系统</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/30/learn_solidity_from_scratch_web3py/ target='_blank'>Ethereum 智能合约开发（Solidity） - 玩转 Web3.py</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/ target='_blank'>Hugo + GitHub Action，搭建你的博客自动发布系统</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/29/deploy_ghost_5_on_digital_ocean_vps/ target='_blank'>Ghost 5.0 来了，使用 Digital Ocean 一键部署吧</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/ target='_blank'>Ethereum 智能合约开发（Solidity） - 基础</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
@@ -74,11 +74,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   18 hrs 38 mins ███████████▋░░░░░░░░░  55.6%
-sh         3 hrs 36 mins  ██▎░░░░░░░░░░░░░░░░░░  10.8%
-Bash       2 hrs 27 mins  █▌░░░░░░░░░░░░░░░░░░░   7.3%
-Other      1 hr 58 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
-HTML       1 hr 2 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Markdown   17 hrs 55 mins ███████████▉░░░░░░░░░  56.9%
+sh         3 hrs 32 mins  ██▎░░░░░░░░░░░░░░░░░░  11.3%
+Bash       2 hrs 21 mins  █▌░░░░░░░░░░░░░░░░░░░   7.5%
+Other      1 hr 58 mins   █▎░░░░░░░░░░░░░░░░░░░   6.3%
+HTML       1 hr 2 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.3%
 ```
 
 <!-- code_time ends -->
@@ -122,7 +122,7 @@ HTML       1 hr 2 mins    ▋░░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/35322421/' target='_blank'>在看我的解放日志</a> - 2022-06-03
+* <a href='http://movie.douban.com/subject/35322421/' target='_blank'>看过我的解放日志</a> - 2022-06-05
 * <a href='http://movie.douban.com/subject/2133337/' target='_blank'>看过斯图尔特：倒带人生</a> - 2022-06-03
 * <a href='http://movie.douban.com/subject/35713161/' target='_blank'>看过守护解放西3</a> - 2022-06-01
 * <a href='http://movie.douban.com/subject/27194292/' target='_blank'>看过怪奇物语 第四季</a> - 2022-05-29
