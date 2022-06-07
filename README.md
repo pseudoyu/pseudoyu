@@ -49,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/06/08/learn_solidity_from_scratch_ethersjs/ target='_blank'>Ethereum 智能合约开发（Solidity） - 玩转 ethers.js</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/ target='_blank'>[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/04/macos_window_management_solution_using_yabai_and_skhd/ target='_blank'>基于 yabai 和 skhd 的 macOS 窗口管理系统</a>
 * <a href=https://www.pseudoyu.com/zh/2022/05/30/learn_solidity_from_scratch_web3py/ target='_blank'>Ethereum 智能合约开发（Solidity） - 玩转 Web3.py</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/ target='_blank'>Hugo + GitHub Action，搭建你的博客自动发布系统</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
@@ -138,8 +138,8 @@ Other      2 hrs 5 mins   █▏░░░░░░░░░░░░░░░░
 * <a href=https://github.com/pseudoyu/top-blockchain-projects/releases/tag/v1.0.0 target='_blank'>top-blockchain-projects 优质区块链项目排行榜</a>
 * <a href=https://github.com/pseudoyu/pseudoyu/releases/tag/v1.1.0 target='_blank'>pseudoyu 首页信息流展示</a>
 * <a href=https://github.com/pseudoyu/learn-solidity/releases/tag/v1.0.0 target='_blank'>learn-solidity Solidity 智能合约开发学习</a>
-* <a href=https://github.com/pseudoyu/lottery-solidity/releases/tag/v1.0.0 target='_blank'>lottery-solidity 用 Solidity 编写的彩票智能合约 Demo</a>
 * <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a>
 * <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a>
 * <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a>
+* <a href=https://github.com/pseudoyu/comp7404-assignments/releases/tag/v1.0.0 target='_blank'>comp7404-assignments HKU COMP7404 课程代码</a>
 <!-- recent_releases ends -->
