@@ -49,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
-* <a href=https://www.pseudoyu.com/zh/2022/06/08/learn_solidity_from_scratch_ethersjs/ target='_blank'>Ethereum 智能合约开发（Solidity） - 玩转 ethers.js</a>
+* <a href=https://www.pseudoyu.com/zh/2022/06/09/learn_solidity_from_scratch_hardhat/ target='_blank'>Solidity 智能合约开发 - Hardhat 框架使用</a>
+* <a href=https://www.pseudoyu.com/zh/2022/06/08/learn_solidity_from_scratch_ethersjs/ target='_blank'>Solidity 智能合约开发 - 玩转 ethers.js</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/ target='_blank'>[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a>
-* <a href=https://www.pseudoyu.com/zh/2022/06/04/macos_window_management_solution_using_yabai_and_skhd/ target='_blank'>基于 yabai 和 skhd 的 macOS 窗口管理系统</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/30/learn_solidity_from_scratch_web3py/ target='_blank'>Ethereum 智能合约开发（Solidity） - 玩转 Web3.py</a>
+* <a href=https://www.pseudoyu.com/zh/2022/06/04/macos_window_management_solution_using_yabai_and_skhd/ target='_blank'>让窗口管理也能自动化，基于 yabai+skhd 的 macOS 窗口管理系统</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
@@ -122,11 +122,11 @@ Other      1 hr 53 mins   █▏░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/1292337/' target='_blank'>看过无人知晓</a> - 2022-06-09
+* <a href='http://movie.douban.com/subject/1306885/' target='_blank'>想看幻之光</a> - 2022-06-09
 * <a href='http://movie.douban.com/subject/2222996/' target='_blank'>看过步履不停</a> - 2022-06-08
 * <a href='http://movie.douban.com/subject/35360296/' target='_blank'>想看偶然与想象</a> - 2022-06-08
 * <a href='http://movie.douban.com/subject/10571509/' target='_blank'>想看如父如子</a> - 2022-06-08
-* <a href='http://movie.douban.com/subject/26694988/' target='_blank'>想看比海更深</a> - 2022-06-08
-* <a href='http://movie.douban.com/subject/35235301/' target='_blank'>看过暗夜行者</a> - 2022-06-08
 <!-- douban ends -->
 
 #### 💻 Recent Releases
