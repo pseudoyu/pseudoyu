@@ -110,7 +110,7 @@ sh         1 hr 55 mins   █░░░░░░░░░░░░░░░░░
   </tr>
   <tr>
           <td align="center">
-            <img src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&hide=html,php,css,typescript&layout=compact&theme=gotham">
+            <img src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&hide=html,php,css,typescript,python,java,smarty&layout=compact&theme=gotham">
           </td>
     <td align="center">
       <!-- <img src="https://yu-github-readme-stats.herokuapp.com/?user=pseudoyu&theme=gotham"> -->
