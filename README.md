@@ -74,11 +74,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   19 hrs 11 mins ██████████▋░░░░░░░░░░  50.8%
-JavaScript 6 hrs 8 mins   ███▍░░░░░░░░░░░░░░░░░  16.3%
-Go         5 hrs 4 mins   ██▊░░░░░░░░░░░░░░░░░░  13.5%
-Rust       3 hrs 58 mins  ██▏░░░░░░░░░░░░░░░░░░  10.5%
-Other      53 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+Markdown   14 hrs 19 mins ████████░░░░░░░░░░░░░  38.3%
+Rust       8 hrs 24 mins  ████▋░░░░░░░░░░░░░░░░  22.5%
+JavaScript 6 hrs 8 mins   ███▍░░░░░░░░░░░░░░░░░  16.4%
+Go         5 hrs 4 mins   ██▊░░░░░░░░░░░░░░░░░░  13.6%
+Other      51 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
 
 <!-- code_time ends -->
@@ -122,11 +122,11 @@ Other      53 mins        ▍░░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/1418200/' target='_blank'>看过傲慢与偏见</a> - 2022-06-11
 * <a href='http://movie.douban.com/subject/1291568/' target='_blank'>看过东京物语</a> - 2022-06-10
 * <a href='http://movie.douban.com/subject/35360296/' target='_blank'>看过偶然与想象</a> - 2022-06-10
 * <a href='http://movie.douban.com/subject/1291835/' target='_blank'>看过迷失东京</a> - 2022-06-10
 * <a href='http://movie.douban.com/subject/1292337/' target='_blank'>看过无人知晓</a> - 2022-06-09
-* <a href='http://movie.douban.com/subject/1306885/' target='_blank'>想看幻之光</a> - 2022-06-09
 <!-- douban ends -->
 
 #### 💻 Recent Releases
