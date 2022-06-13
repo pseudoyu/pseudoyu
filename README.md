@@ -49,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/06/12/why_i_still_write_blog_in_2022/ target='_blank'>2022 年了，聊聊我为什么还在写博客</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/09/learn_solidity_from_scratch_hardhat/ target='_blank'>Solidity 智能合约开发 - Hardhat 框架使用</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/08/learn_solidity_from_scratch_ethersjs/ target='_blank'>Solidity 智能合约开发 - 玩转 ethers.js</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/ target='_blank'>[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a>
-* <a href=https://www.pseudoyu.com/zh/2022/06/04/macos_window_management_solution_using_yabai_and_skhd/ target='_blank'>让窗口管理也能自动化，基于 yabai+skhd 的 macOS 窗口管理系统</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
@@ -74,11 +74,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   14 hrs 19 mins ████████░░░░░░░░░░░░░  38.3%
-Rust       8 hrs 24 mins  ████▋░░░░░░░░░░░░░░░░  22.5%
-JavaScript 6 hrs 8 mins   ███▍░░░░░░░░░░░░░░░░░  16.4%
-Go         5 hrs 4 mins   ██▊░░░░░░░░░░░░░░░░░░  13.6%
-Other      51 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Rust       12 hrs 43 mins ██████▍░░░░░░░░░░░░░░  30.9%
+Markdown   12 hrs 11 mins ██████▏░░░░░░░░░░░░░░  29.6%
+JavaScript 6 hrs 36 mins  ███▎░░░░░░░░░░░░░░░░░  16.0%
+Go         5 hrs 4 mins   ██▌░░░░░░░░░░░░░░░░░░  12.3%
+JSON       1 hr 1 min     ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 ```
 
 <!-- code_time ends -->
