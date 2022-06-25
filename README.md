@@ -49,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
-* <a href=https://www.pseudoyu.com/zh/2022/06/12/why_i_still_write_blog_in_2022/ target='_blank'>2022 年了，聊聊我为什么还在写博客</a>
-* <a href=https://www.pseudoyu.com/zh/2022/06/09/learn_solidity_from_scratch_hardhat/ target='_blank'>Solidity 智能合约开发 - Hardhat 框架使用</a>
-* <a href=https://www.pseudoyu.com/zh/2022/06/08/learn_solidity_from_scratch_ethersjs/ target='_blank'>Solidity 智能合约开发 - 玩转 ethers.js</a>
-* <a href=https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/ target='_blank'>[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾</a>
-* <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a>
+* <a href=https://www.pseudoyu.com/zh/2022/06/12/why_i_still_write_blog_in_2022/ target='_blank'>2022 年了，聊聊我为什么还在写博客</a> - Sun, 12 Jun 2022 13:48:58 +0000
+* <a href=https://www.pseudoyu.com/zh/2022/06/09/learn_solidity_from_scratch_hardhat/ target='_blank'>Solidity 智能合约开发 - Hardhat 框架使用</a> - 
+* <a href=https://www.pseudoyu.com/zh/2022/06/08/learn_solidity_from_scratch_ethersjs/ target='_blank'>Solidity 智能合约开发 - 玩转 ethers.js</a> - Wed, 08 Jun 2022 00:25:45 +0800
+* <a href=https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/ target='_blank'>[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾</a> - Mon, 06 Jun 2022 18:21:45 +0800
+* <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a> - Mon, 06 Jun 2022 00:01:29 +0800
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -132,14 +132,14 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 💻 Recent Releases
 
 <!-- recent_releases starts -->
-* <a href=https://github.com/pseudoyu/blockchain-guide/releases/tag/v0.1.0 target='_blank'>blockchain-guide 区块链入门指南</a>
-* <a href=https://github.com/pseudoyu/yu-blog/releases/tag/v1.1.0 target='_blank'>yu-blog 个人网站发布系统</a>
-* <a href=https://github.com/pseudoyu/yu-tools/releases/tag/v0.1 target='_blank'>yu-tools 个人工具箱</a>
-* <a href=https://github.com/pseudoyu/top-blockchain-projects/releases/tag/v1.0.0 target='_blank'>top-blockchain-projects 优质区块链项目排行榜</a>
-* <a href=https://github.com/pseudoyu/pseudoyu/releases/tag/v1.1.0 target='_blank'>pseudoyu 首页信息流展示</a>
-* <a href=https://github.com/pseudoyu/learn-solidity/releases/tag/v1.0.0 target='_blank'>learn-solidity Solidity 智能合约开发学习</a>
-* <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a>
-* <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a>
-* <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a>
-* <a href=https://github.com/pseudoyu/comp7404-assignments/releases/tag/v1.0.0 target='_blank'>comp7404-assignments HKU COMP7404 课程代码</a>
+* <a href=https://github.com/pseudoyu/blockchain-guide/releases/tag/v0.1.0 target='_blank'>blockchain-guide 区块链入门指南</a> - 2022-05-22
+* <a href=https://github.com/pseudoyu/yu-blog/releases/tag/v1.1.0 target='_blank'>yu-blog 个人网站发布系统</a> - 2022-05-22
+* <a href=https://github.com/pseudoyu/yu-tools/releases/tag/v0.1 target='_blank'>yu-tools 个人工具箱</a> - 2022-05-17
+* <a href=https://github.com/pseudoyu/top-blockchain-projects/releases/tag/v1.0.0 target='_blank'>top-blockchain-projects 优质区块链项目排行榜</a> - 2022-05-12
+* <a href=https://github.com/pseudoyu/pseudoyu/releases/tag/v1.1.0 target='_blank'>pseudoyu 首页信息流展示</a> - 2022-02-15
+* <a href=https://github.com/pseudoyu/learn-solidity/releases/tag/v1.0.0 target='_blank'>learn-solidity Solidity 智能合约开发学习</a> - 2022-02-10
+* <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a> - 2021-08-20
+* <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a> - 2021-08-20
+* <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a> - 2021-08-20
+* <a href=https://github.com/pseudoyu/comp7404-assignments/releases/tag/v1.0.0 target='_blank'>comp7404-assignments HKU COMP7404 课程代码</a> - 2021-08-20
 <!-- recent_releases ends -->
