@@ -46,6 +46,16 @@ I'm [Yu Zhang](https://www.pseudoyu.com), Blockchain Developer, MSc Graduate in 
 
 I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time.
 
+#### 🔨 Languages and Tools
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/go.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/rust.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/ethereum.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/git.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/vim.png"></code>
+
+- 💼 Love open-source, [email me](mailto:pseudoyu@connect.hku.hk)
+- 💬 Ask me about anything
+
 #### 📰 Recent Posts
 
 <!-- blog starts -->
@@ -70,16 +80,6 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 * <a href='https://book.douban.com/subject/35819419/' target='_blank'>想读可能性的艺术</a> - 2022-06-15
 * <a href='https://book.douban.com/subject/35635639/' target='_blank'>想读法治的细节</a> - 2022-06-15
 <!-- douban ends -->
-
-#### 🔨 Languages and Tools
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/go.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/rust.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/ethereum.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/git.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/vim.png"></code>
-
-- 💼 Love open-source, [email me](mailto:pseudoyu@connect.hku.hk)
-- 💬 Ask me about anything
 
 #### 👨🏻‍💻 This Week I Code With
 
