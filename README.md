@@ -66,37 +66,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 - 💼 Love open-source, [email me](mailto:pseudoyu@connect.hku.hk)
 - 💬 Ask me about anything
 
+#### 👨🏻‍💻 This Week I Work on
+
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
-
-#### 📟 This Week I Code With
 
 <img src=https://raw.githubusercontent.com/pseudoyu/pseudoyu/master/images/wakatime_weekly_language_stats.svg>
 
 </td>
 <td valign="top" width="50%">
 
-#### 👨🏻‍💻 This Week I Work on
-
 <img src=https://raw.githubusercontent.com/pseudoyu/pseudoyu/master/images/wakatime_weekly_project_stats.svg>
 
 </td>
 </tr>
 </table>
-
-#### 👨🏻‍💻 This Week I Code With
-<!-- code_time starts -->
-
-```text
-Go         10 hrs 47 mins ███████▏░░░░░░░░░░░░░  34.0%
-JavaScript 7 hrs 18 mins  ████▊░░░░░░░░░░░░░░░░  23.1%
-sh         3 hrs 40 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
-Markdown   2 hrs 55 mins  █▉░░░░░░░░░░░░░░░░░░░   9.2%
-JSON       1 hr 5 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-```
-
-<!-- code_time ends -->
 
 #### 📈 Github Stats
 
