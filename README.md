@@ -103,7 +103,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <strong> :octocat: I'm proud to be part of these organizations :octocat: </strong><br>
+      <strong> 🌟 I'm proud to be part of these organizations 🌟 </strong><br>
       <table>
         <tr>
           <td align="center">
