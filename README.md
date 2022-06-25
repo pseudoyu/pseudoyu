@@ -56,6 +56,16 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a>
 <!-- blog ends -->
 
+#### 🎧 Recent Digests
+
+<!-- douban starts -->
+* <a href='http://movie.douban.com/subject/26290409/' target='_blank'>看过黑客军团 第一季</a> - 2022-06-25
+* <a href='http://movie.douban.com/subject/1437389/' target='_blank'>想看操作系统革命</a> - 2022-06-22
+* <a href='http://movie.douban.com/subject/3124124/' target='_blank'>想看代码奔腾</a> - 2022-06-22
+* <a href='https://book.douban.com/subject/35819419/' target='_blank'>想读可能性的艺术</a> - 2022-06-15
+* <a href='https://book.douban.com/subject/35635639/' target='_blank'>想读法治的细节</a> - 2022-06-15
+<!-- douban ends -->
+
 #### 🔨 Languages and Tools
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/go.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/rust.png"></code>
@@ -118,16 +128,6 @@ I want to learn things and become a better person. I enjoy reading, thinking and
     </td>
   </tr>
 </table>
-
-#### 🎧 Recent Digests
-
-<!-- douban starts -->
-* <a href='http://movie.douban.com/subject/26290409/' target='_blank'>看过黑客军团 第一季</a> - 2022-06-25
-* <a href='http://movie.douban.com/subject/1437389/' target='_blank'>想看操作系统革命</a> - 2022-06-22
-* <a href='http://movie.douban.com/subject/3124124/' target='_blank'>想看代码奔腾</a> - 2022-06-22
-* <a href='https://book.douban.com/subject/35819419/' target='_blank'>想读可能性的艺术</a> - 2022-06-15
-* <a href='https://book.douban.com/subject/35635639/' target='_blank'>想读法治的细节</a> - 2022-06-15
-<!-- douban ends -->
 
 #### 💻 Recent Releases
 

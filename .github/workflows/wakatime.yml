@@ -1,4 +1,4 @@
-name: Wakatime Charts
+name: wakatime
 
 on:
   push:
