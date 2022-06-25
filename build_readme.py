@@ -131,7 +131,7 @@ if __name__ == "__main__":
     md = "\n".join(
         [
             "* <a href={url} target='_blank'>{repo} {release}</a> - {published_at}".format(**release)
-            "* <a href={url} target='_blank'>{repo} {release}</a>".format(**release)
+            # "* <a href={url} target='_blank'>{repo} {release}</a>".format(**release)
             for release in releases[:10]
         ]
     )
@@ -143,7 +143,7 @@ if __name__ == "__main__":
         [
             (
                 "* **[{repo}]({repo_url})**: [{release}]({url})- {published_at}\n"
-                "* **[{repo}]({repo_url})**: [{release}]({url})\n"
+                # "* **[{repo}]({repo_url})**: [{release}]({url})\n"
                 "<br>{description}"
             ).format(**release)
             for release in releases
@@ -173,7 +173,7 @@ if __name__ == "__main__":
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
         ["* <a href={url} target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
-        ["* <a href={url} target='_blank'>{title}</a>".format(**entry) for entry in entries]
+        # ["* <a href={url} target='_blank'>{title}</a>".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
