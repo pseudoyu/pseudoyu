@@ -76,7 +76,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 - 💼 Love open-source, [email me](mailto:pseudoyu@connect.hku.hk)
 - 💬 Ask me about anything
 
-#### 👨🏻‍💻 This Week I Work on
+#### 👨🏻‍💻 This Week I Code With
 
 <table width="960px">
 <tr>
@@ -93,7 +93,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 </tr>
 </table>
 
-#### 📈 Github Stats
+#### :octocat: Github Stats
 
 <table align="center" width="100%">
   <tr>
