@@ -172,9 +172,7 @@ if __name__ == "__main__":
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
-        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
-        # ["* <a href={url} target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
-        # ["* <a href={url} target='_blank'>{title}</a>".format(**entry) for entry in entries]
+        ["* <a href={url} target='_blank'>{title}</a>".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
