@@ -4,8 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # Runs everyday at 8 AM
-    - cron: "0 0 * * *"
+    - cron: "0 0 */1 * *"
 
 jobs:
   build:
