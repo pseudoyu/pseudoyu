@@ -1,0 +1,17 @@
+name: Wakatime Charts
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 */1 * *'
+
+jobs:
+  update-charts:
+    name: Update wakatime stats charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tw93/wakatime-charts@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # only required if using the action in repository other than profile
