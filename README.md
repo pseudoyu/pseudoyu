@@ -65,10 +65,6 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/ target='_blank'>[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/04/macos_window_management_solution_using_yabai_and_skhd/ target='_blank'>让窗口管理也能自动化，基于 yabai+skhd 的 macOS 窗口管理系统</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/30/learn_solidity_from_scratch_web3py/ target='_blank'>Solidity 智能合约开发 - 玩转 Web3.py</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/ target='_blank'>Hugo + GitHub Action，搭建你的博客自动发布系统</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/29/deploy_ghost_5_on_digital_ocean_vps/ target='_blank'>Ghost 5.0 来了，使用 Digital Ocean 一键部署吧</a>
-* <a href=https://www.pseudoyu.com/zh/2022/05/25/learn_solidity_from_scratch_basic/ target='_blank'>Solidity 智能合约开发 - 基础</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
