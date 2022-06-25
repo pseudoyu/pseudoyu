@@ -49,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/06/12/why_i_still_write_blog_in_2022/ target='_blank'>2022 年了，聊聊我为什么还在写博客</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/09/learn_solidity_from_scratch_hardhat/ target='_blank'>Solidity 智能合约开发 - Hardhat 框架使用</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/08/learn_solidity_from_scratch_ethersjs/ target='_blank'>Solidity 智能合约开发 - 玩转 ethers.js</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/ target='_blank'>[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a>
-* <a href=https://www.pseudoyu.com/zh/2022/06/04/macos_window_management_solution_using_yabai_and_skhd/ target='_blank'>让窗口管理也能自动化，基于 yabai+skhd 的 macOS 窗口管理系统</a>
 <!-- blog ends -->
 
 #### 🔨 Languages and Tools
@@ -89,11 +89,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   19 hrs 30 mins ██████████▊░░░░░░░░░░  51.7%
-JavaScript 6 hrs 8 mins   ███▍░░░░░░░░░░░░░░░░░  16.3%
-Go         4 hrs 43 mins  ██▋░░░░░░░░░░░░░░░░░░  12.5%
-Other      2 hrs 4 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
-sh         1 hr 55 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
+Go         10 hrs 47 mins ███████▏░░░░░░░░░░░░░  34.0%
+JavaScript 7 hrs 18 mins  ████▊░░░░░░░░░░░░░░░░  23.1%
+sh         3 hrs 40 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
+Markdown   2 hrs 55 mins  █▉░░░░░░░░░░░░░░░░░░░   9.2%
+JSON       1 hr 5 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.4%
 ```
 
 <!-- code_time ends -->
@@ -137,11 +137,11 @@ sh         1 hr 55 mins   █░░░░░░░░░░░░░░░░░
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/1291835/' target='_blank'>看过迷失东京</a> - 2022-06-10
-* <a href='http://movie.douban.com/subject/1292337/' target='_blank'>看过无人知晓</a> - 2022-06-09
-* <a href='http://movie.douban.com/subject/1306885/' target='_blank'>想看幻之光</a> - 2022-06-09
-* <a href='http://movie.douban.com/subject/2222996/' target='_blank'>看过步履不停</a> - 2022-06-08
-* <a href='http://movie.douban.com/subject/35360296/' target='_blank'>想看偶然与想象</a> - 2022-06-08
+* <a href='http://movie.douban.com/subject/26290409/' target='_blank'>看过黑客军团 第一季</a> - 2022-06-25
+* <a href='http://movie.douban.com/subject/1437389/' target='_blank'>想看操作系统革命</a> - 2022-06-22
+* <a href='http://movie.douban.com/subject/3124124/' target='_blank'>想看代码奔腾</a> - 2022-06-22
+* <a href='https://book.douban.com/subject/35819419/' target='_blank'>想读可能性的艺术</a> - 2022-06-15
+* <a href='https://book.douban.com/subject/35635639/' target='_blank'>想读法治的细节</a> - 2022-06-15
 <!-- douban ends -->
 
 #### 💻 Recent Releases
