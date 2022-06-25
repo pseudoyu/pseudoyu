@@ -49,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
-* <a href=https://www.pseudoyu.com/zh/2022/06/12/why_i_still_write_blog_in_2022/ target='_blank'>2022 年了，聊聊我为什么还在写博客</a> - Sun, 12 Jun 2022 13:48:58 +0000
-* <a href=https://www.pseudoyu.com/zh/2022/06/09/learn_solidity_from_scratch_hardhat/ target='_blank'>Solidity 智能合约开发 - Hardhat 框架使用</a> - 
-* <a href=https://www.pseudoyu.com/zh/2022/06/08/learn_solidity_from_scratch_ethersjs/ target='_blank'>Solidity 智能合约开发 - 玩转 ethers.js</a> - Wed, 08 Jun 2022 00:25:45 +0800
-* <a href=https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/ target='_blank'>[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾</a> - Mon, 06 Jun 2022 18:21:45 +0800
-* <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a> - Mon, 06 Jun 2022 00:01:29 +0800
+* <a href=https://www.pseudoyu.com/zh/2022/06/12/why_i_still_write_blog_in_2022/ target='_blank'>2022 年了，聊聊我为什么还在写博客</a>
+* <a href=https://www.pseudoyu.com/zh/2022/06/09/learn_solidity_from_scratch_hardhat/ target='_blank'>Solidity 智能合约开发 - Hardhat 框架使用</a>
+* <a href=https://www.pseudoyu.com/zh/2022/06/08/learn_solidity_from_scratch_ethersjs/ target='_blank'>Solidity 智能合约开发 - 玩转 ethers.js</a>
+* <a href=https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/ target='_blank'>[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾</a>
+* <a href=https://www.pseudoyu.com/zh/2022/06/06/yearly_review_25/ target='_blank'>25 岁的自白：花束般的恋爱</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
