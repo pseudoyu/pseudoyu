@@ -70,11 +70,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35234382/' target='_blank'>看过辉夜大小姐想让我告白：究极浪漫</a> - 2022-06-27
+* <a href='http://movie.douban.com/subject/26431328/' target='_blank'>看过黑客军团 第二季</a> - 2022-06-27
 * <a href='http://movie.douban.com/subject/26290409/' target='_blank'>看过黑客军团 第一季</a> - 2022-06-25
 * <a href='http://movie.douban.com/subject/1437389/' target='_blank'>想看操作系统革命</a> - 2022-06-22
 * <a href='http://movie.douban.com/subject/3124124/' target='_blank'>想看代码奔腾</a> - 2022-06-22
-* <a href='https://book.douban.com/subject/35819419/' target='_blank'>想读可能性的艺术</a> - 2022-06-15
-* <a href='https://book.douban.com/subject/35635639/' target='_blank'>想读法治的细节</a> - 2022-06-15
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
