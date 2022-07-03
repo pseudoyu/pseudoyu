@@ -59,22 +59,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/07/03/weekly_review_20220703/ target='_blank'>周报 #02 - 关于工作、焦虑与成长</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/01/two_phase_commit_contract_practice_in_solidity/ target='_blank'>通过状态锁在 Solidity 智能合约中实现两阶段提交</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/28/weekly_review_20220626/ target='_blank'>周报 #01 - 关于情感、安全感与认真生活</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/12/why_i_still_write_blog_in_2022/ target='_blank'>2022 年了，聊聊我为什么还在写博客</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/09/learn_solidity_from_scratch_hardhat/ target='_blank'>Solidity 智能合约开发 - Hardhat 框架使用</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/08/learn_solidity_from_scratch_ethersjs/ target='_blank'>Solidity 智能合约开发 - 玩转 ethers.js</a>
-* <a href=https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/ target='_blank'>[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/35162178/' target='_blank'>看过剑指高分</a> - 2022-07-02
-* <a href='http://movie.douban.com/subject/27605486/' target='_blank'>看过黑客军团 第四季</a> - 2022-07-01
-* <a href='http://movie.douban.com/subject/26881131/' target='_blank'>看过黑客军团 第三季</a> - 2022-06-28
-* <a href='http://movie.douban.com/subject/35234382/' target='_blank'>看过辉夜大小姐想让我告白：究极浪漫</a> - 2022-06-27
-* <a href='http://movie.douban.com/subject/26431328/' target='_blank'>看过黑客军团 第二季</a> - 2022-06-27
+* <a href='http://movie.douban.com/subject/1293839/' target='_blank'>看过罗马假日</a> - 2022-07-03
+* <a href='http://movie.douban.com/subject/30458949/' target='_blank'>看过无依之地</a> - 2022-07-03
+* <a href='http://movie.douban.com/subject/1418199/' target='_blank'>想看火线 第一季</a> - 2022-07-03
+* <a href='http://movie.douban.com/subject/35258427/' target='_blank'>看过间谍过家家</a> - 2022-07-03
+* <a href='http://movie.douban.com/subject/10512661/' target='_blank'>看过银翼杀手2049</a> - 2022-07-03
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
