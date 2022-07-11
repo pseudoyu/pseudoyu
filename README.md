@@ -59,22 +59,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/07/11/weekly_review_20220711/ target='_blank'>周报 #03 - 关于健康、目标与生活的节奏感</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/10/my_config_and_beautify_solution_of_macos_terminal/ target='_blank'>Warp，iTerm2 还是 Alacritty？我的终端折腾小记</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/05/access_your_local_devices_using_reverse_proxy_tool_frp/ target='_blank'>基于 frp 内网穿透的瘦客户端开发工作流</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/03/weekly_review_20220703/ target='_blank'>周报 #02 - 关于工作、焦虑与成长</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/01/two_phase_commit_contract_practice_in_solidity/ target='_blank'>通过状态锁在 Solidity 智能合约中实现两阶段提交</a>
 * <a href=https://www.pseudoyu.com/zh/2022/06/28/weekly_review_20220626/ target='_blank'>周报 #01 - 关于情感、安全感与认真生活</a>
-* <a href=https://www.pseudoyu.com/zh/2022/06/12/why_i_still_write_blog_in_2022/ target='_blank'>2022 年了，聊聊我为什么还在写博客</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35620761/' target='_blank'>在看鬼灭之刃 无限列车篇</a> - 2022-07-11
+* <a href='http://movie.douban.com/subject/35539827/' target='_blank'>在看继母的拖油瓶是我的前女友</a> - 2022-07-10
 * <a href='http://movie.douban.com/subject/30466931/' target='_blank'>看过波斯语课</a> - 2022-07-09
 * <a href='https://book.douban.com/subject/35128340/' target='_blank'>最近在读Working in Public</a> - 2022-07-07
 * <a href='https://book.douban.com/subject/34429983/' target='_blank'>最近在读蒂姆·库克传</a> - 2022-07-07
-* <a href='http://movie.douban.com/subject/26952963/' target='_blank'>想看新奇</a> - 2022-07-07
-* <a href='https://book.douban.com/subject/27614904/' target='_blank'>最近在读房思琪的初恋乐园</a> - 2022-07-07
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
