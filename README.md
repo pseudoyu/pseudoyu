@@ -59,12 +59,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/07/24/weekly_review_20220724/ target='_blank'>周报 #04 - 关于休假、亲情与城市的归属感</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/11/weekly_review_20220711/ target='_blank'>周报 #03 - 关于健康、目标与生活的节奏感</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/10/my_config_and_beautify_solution_of_macos_terminal/ target='_blank'>Warp，iTerm2 还是 Alacritty？我的终端折腾小记</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/05/access_your_local_devices_using_reverse_proxy_tool_frp/ target='_blank'>基于 frp 内网穿透的瘦客户端开发工作流</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/03/weekly_review_20220703/ target='_blank'>周报 #02 - 关于工作、焦虑与成长</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/01/two_phase_commit_contract_practice_in_solidity/ target='_blank'>通过状态锁在 Solidity 智能合约中实现两阶段提交</a>
-* <a href=https://www.pseudoyu.com/zh/2022/06/28/weekly_review_20220626/ target='_blank'>周报 #01 - 关于情感、安全感与认真生活</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
