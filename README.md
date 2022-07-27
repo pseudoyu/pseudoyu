@@ -1,9 +1,9 @@
 <p align="center">
- <img width="100px" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/profile_logo.svg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/profile_logo.svg" align="center" alt="Github Readme Stats" />
  <h3 align="center">:octocat: Learning :octocat:</h3>
 </p>
 
-### Hey there <img src='https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/hey.gif' alt='Hi' width="24"/> 
+### Hey there <img src='https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/hey.gif' alt='Hi' width="24"/> 
 <a href="https://twitter.com/pseudo_yu">
   <img align="left" alt="Yu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"/>
 </a>
@@ -40,18 +40,18 @@
 
 <br />
 
-![dino](https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/dino.gif)
+![dino](https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/dino.gif)
 
 I'm [Yu Zhang](https://www.pseudoyu.com), Blockchain Developer, MSc Graduate in ECIC(Electronic Commerce and Internet Computing) @ The University of Hong Kong (HKU). Love to learn and build things. Follow me on [GitHub](https://github.com/pseudoyu). Know me on [Telegram Channel](https://t.me/pseudoyulife).
 
 I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time.
 
 #### 🔨 Languages and Tools
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/go.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/rust.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/ethereum.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/git.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/pseudoyu/image-hosting@master/images/vim.png"></code>
+<code><img height="20" src="https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/go.png"></code>
+<code><img height="20" src="https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/rust.png"></code>
+<code><img height="20" src="https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/ethereum.png"></code>
+<code><img height="20" src="https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/git.png"></code>
+<code><img height="20" src="https://pseudoyu.oss-cn-hangzhou.aliyuncs.com/images/vim.png"></code>
 
 - 💼 Love open-source, [email me](mailto:pseudoyu@connect.hku.hk)
 - 💬 Ask me about anything
