@@ -5,13 +5,12 @@
 
 ### Hey there <img src='./images/hey.gif' alt='Hi' width="24"/> 
 
-[![@pseudoyu](https://img.shields.io/badge/weibo-%40pseudoyu-critical?style=flat-square)](https://weibo.com/3675416370/profile)
-[![yu-blog](https://img.shields.io/badge/blog-yu-9cf?style=flat-square)](https://www.pseudoyu.com)
-[![kitty-misty](https://img.shields.io/badge/kitty-misty-pink?style=flat-square)](https://www.m1sty.com)
-
-[![GitHub](https://img.shields.io/github/followers/STRRL?logo=github&style=flat-square)](https://github.com/pseudoyu)
+[![GitHub](https://img.shields.io/github/followers/pseudoyu?logo=github&style=flat-square)](https://github.com/pseudoyu)
 [![Twitter](https://img.shields.io/twitter/follow/pseudo_yu?logo=twitter&style=flat-square)](https://twitter.com/pseudo_yu)
 [![Visits Badge](https://badges.strrl.dev/visits/pseudoyu/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
+[![yu-blog](https://img.shields.io/badge/blog-yu-9cf?style=flat-square)](https://www.pseudoyu.com)
+[![@pseudoyu](https://img.shields.io/badge/weibo-%40pseudoyu-critical?style=flat-square)](https://weibo.com/3675416370/profile)
+[![kitty-misty](https://img.shields.io/badge/kitty-misty-pink?style=flat-square)](https://www.m1sty.com)
 
 <br />
 
