@@ -20,7 +20,11 @@ I'm [Yu Zhang](https://www.pseudoyu.com), Blockchain Developer, MSc Graduate in 
 
 I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time.
 
-#### 🔨 Languages and Tools
+#### 🔨 Activities and Tech Stacks
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
+[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
+[![Commits Badge](https://badges.strrl.dev/commits/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
+[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
 <code><img height="20" src="./images/go.png"></code>
 <code><img height="20" src="./images/rust.png"></code>
 <code><img height="20" src="./images/ethereum.png"></code>
