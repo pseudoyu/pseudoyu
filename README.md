@@ -1,24 +1,8 @@
 <p align="center">
- <img width="100px" src="./images/profile_logo.svg" align="center" alt="Github Readme Stats" />
  <h3 align="center">:octocat: Learning :octocat:</h3>
 </p>
 
 ### Hey there <img src='./images/hey.gif' alt='Hi' width="24"/> 
-<a href="https://www.youtube.com/channel/UCR0O0s303tGBi3P02hstQPA/">
-  <img align="left" alt="Yu's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg"/>
-</a>
-<a href="https://www.instagram.com/pseudo.yu/">
-  <img align="left" alt="Yu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/pseudoyu/">
-  <img align="left" alt="Yu's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode-cn.com/u/pseudoyu/">
-  <img align="left" alt="Yu's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
-</a>
-<a href="https://www.coursera.org/user/ffe947f087d1f63b161c3fcb310a6578">
-  <img align="left" alt="Yu's Coursera" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/coursera.svg"/>
-</a>
 
 [![yu-blog](https://img.shields.io/badge/blog-yu-9cf?style=flat-square)](https://www.pseudoyu.com)
 [![@pseudoyu](https://img.shields.io/badge/weibo-%40pseudoyu-critical?style=flat-square)](https://weibo.com/3675416370/profile)
@@ -29,17 +13,12 @@
 
 <br />
 
-![dino](./images/dino.gif)
-
 I'm [Yu Zhang](https://www.pseudoyu.com), Blockchain Developer, MSc Graduate in ECIC(Electronic Commerce and Internet Computing) @ The University of Hong Kong (HKU). Love to learn and build things. Follow me on [GitHub](https://github.com/pseudoyu). Know me on [Telegram Channel](https://t.me/pseudoyulife).
 
 I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time.
 
-#### 🔨 Tech Stacks and Activities
+#### 🔨 Coding Activities
 
-<code><img height="20" src="./images/go.png"></code>
-<code><img height="20" src="./images/rust.png"></code>
-<code><img height="20" src="./images/ethereum.png"></code>
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
