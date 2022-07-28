@@ -2,7 +2,7 @@
  <h3 align="center">:octocat: Learning :octocat:</h3>
 </p>
 
-### Hey there <img src='./images/hey.gif' alt='Hi' width="24"/> 
+### Hi there ✋
 
 [![yu-blog](https://img.shields.io/badge/blog-yu-9cf?style=flat-square)](https://www.pseudoyu.com)
 [![@pseudoyu](https://img.shields.io/badge/weibo-%40pseudoyu-critical?style=flat-square)](https://weibo.com/3675416370/profile)
