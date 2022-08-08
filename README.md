@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/08/07/weekly_review_20220807/ target='_blank'>周报 #06 - 关于真诚、游戏与自我调整</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/31/weekly_review_20220731/ target='_blank'>周报 #05 - 关于工作、时间的掌控感与新朋友</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/24/weekly_review_20220724/ target='_blank'>周报 #04 - 关于休假、亲情与城市的归属感</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/11/weekly_review_20220711/ target='_blank'>周报 #03 - 关于健康、目标与生活的节奏感</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/10/my_config_and_beautify_solution_of_macos_terminal/ target='_blank'>Warp，iTerm2 还是 Alacritty？我的终端折腾小记</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/05/access_your_local_devices_using_reverse_proxy_tool_frp/ target='_blank'>基于 frp 内网穿透的瘦客户端开发工作流</a>
-* <a href=https://www.pseudoyu.com/zh/2022/07/03/weekly_review_20220703/ target='_blank'>周报 #02 - 关于工作、焦虑与成长</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/35720728/' target='_blank'>最近在读Go语言精进之路</a> - 2022-08-07
+* <a href='https://book.douban.com/subject/35571980/' target='_blank'>读过区块链架构与实现</a> - 2022-08-07
 * <a href='http://movie.douban.com/subject/35445834/' target='_blank'>想看绝望写手 第一季</a> - 2022-08-06
 * <a href='http://movie.douban.com/subject/34982236/' target='_blank'>看过天才基本法</a> - 2022-08-06
 * <a href='http://movie.douban.com/subject/35183042/' target='_blank'>看过独行月球</a> - 2022-07-31
-* <a href='http://movie.douban.com/subject/35955852/' target='_blank'>看过全网最痛恨的男人</a> - 2022-07-30
-* <a href='https://book.douban.com/subject/6021440/' target='_blank'>想读黑客与画家</a> - 2022-07-28
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
