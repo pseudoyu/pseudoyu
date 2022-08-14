@@ -50,20 +50,16 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
 #### 👨🏻‍💻 This Week I Code With
 
-<table width="960px">
-<tr>
-<td valign="top" width="50%">
+<!-- code_time starts -->
 
-<img src=https://raw.githubusercontent.com/pseudoyu/pseudoyu/master/images/wakatime_weekly_language_stats.svg>
+```text
+Markdown   8 hrs 45 mins  ███████████████████▎░  91.7%
+sh         46 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
+Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+YAML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+```
 
-</td>
-<td valign="top" width="50%">
-
-<img src=https://raw.githubusercontent.com/pseudoyu/pseudoyu/master/images/wakatime_weekly_project_stats.svg>
-
-</td>
-</tr>
-</table>
+<!-- code_time ends -->
 
 #### :octocat: Github Stats
 
