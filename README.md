@@ -51,14 +51,6 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 👨🏻‍💻 This Week I Code With
 
 <!-- code_time starts -->
-
-```text
-Markdown   8 hrs 45 mins  ███████████████████▎░  91.7%
-sh         46 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
-Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-YAML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-```
-
 <!-- code_time ends -->
 
 #### :octocat: Github Stats
