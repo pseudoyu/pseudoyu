@@ -41,11 +41,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35073886/' target='_blank'>看过分手的决心</a> - 2022-08-14
 * <a href='https://book.douban.com/subject/35593780/' target='_blank'>想读工作、消费主义和新穷人</a> - 2022-08-13
 * <a href='http://movie.douban.com/subject/35890480/' target='_blank'>在看石子和羽男-这种事情也好告吗？-</a> - 2022-08-08
 * <a href='https://book.douban.com/subject/35720728/' target='_blank'>最近在读Go语言精进之路</a> - 2022-08-07
 * <a href='https://book.douban.com/subject/35571980/' target='_blank'>读过区块链架构与实现</a> - 2022-08-07
-* <a href='http://movie.douban.com/subject/35445834/' target='_blank'>想看绝望写手 第一季</a> - 2022-08-06
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,10 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   8 hrs 45 mins  ███████████████████▎░  91.7%
-sh         46 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
-Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-YAML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Markdown   8 hrs 12 mins  █████████████████▏░░░  82.0%
+Bash       54 mins        █▉░░░░░░░░░░░░░░░░░░░   9.0%
+sh         46 mins        █▋░░░░░░░░░░░░░░░░░░░   7.8%
+Python     4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+YAML       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time ends -->
