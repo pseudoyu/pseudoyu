@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/08/22/weekly_review_20220822/ target='_blank'>周报 #08 - 职业杂谈、404 Not Found 与猫</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/15/weekly_review_20220815/ target='_blank'>周报 #07 - 关于学习、考证与工作追求</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/07/weekly_review_20220807/ target='_blank'>周报 #06 - 关于真诚、游戏与自我调整</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/31/weekly_review_20220731/ target='_blank'>周报 #05 - 关于工作、时间的掌控感与新朋友</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/24/weekly_review_20220724/ target='_blank'>周报 #04 - 关于休假、亲情与城市的归属感</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/11/weekly_review_20220711/ target='_blank'>周报 #03 - 关于健康、目标与生活的节奏感</a>
-* <a href=https://www.pseudoyu.com/zh/2022/07/10/my_config_and_beautify_solution_of_macos_terminal/ target='_blank'>Warp，iTerm2 还是 Alacritty？我的终端折腾小记</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://www.douban.com/game/26967619/' target='_blank'>最近在玩八方旅人 Octopath Traveler</a> - 2022-08-23
+* <a href='http://movie.douban.com/subject/35131346/' target='_blank'>看过隐入尘烟</a> - 2022-08-22
+* <a href='http://movie.douban.com/subject/36033619/' target='_blank'>看过喵星人的奇思妙想</a> - 2022-08-22
 * <a href='http://www.douban.com/game/35377547/' target='_blank'>玩过宝可梦传说 阿尔宙斯 Pokémon Legends アルセウス</a> - 2022-08-22
 * <a href='http://www.douban.com/game/30474617/' target='_blank'>玩过宝可梦 剑 ポケットモンスター ソード</a> - 2022-08-22
-* <a href='http://www.douban.com/game/30421907/' target='_blank'>玩过隐形守护者</a> - 2022-08-22
-* <a href='http://www.douban.com/game/35377548/' target='_blank'>玩过宝可梦 晶灿钻石 ポケットモンスター ブリリアントダイヤモンド</a> - 2022-08-22
-* <a href='http://www.douban.com/game/27067717/' target='_blank'>玩过奇异人生：暴风前夕 Life is Strange：Before The Storm</a> - 2022-08-22
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   7 hrs 50 mins  ████████▏░░░░░░░░░░░░  39.0%
-Other      3 hrs 57 mins  ████▏░░░░░░░░░░░░░░░░  19.7%
-sh         2 hrs 40 mins  ██▊░░░░░░░░░░░░░░░░░░  13.3%
-Solidity   2 hrs 29 mins  ██▌░░░░░░░░░░░░░░░░░░  12.4%
-YAML       54 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+Other      3 hrs 57 mins  █████░░░░░░░░░░░░░░░░  24.2%
+Markdown   3 hrs 32 mins  ████▌░░░░░░░░░░░░░░░░  21.6%
+sh         2 hrs 58 mins  ███▊░░░░░░░░░░░░░░░░░  18.2%
+Solidity   2 hrs 26 mins  ███▏░░░░░░░░░░░░░░░░░  14.9%
+YAML       1 hr 6 mins    █▍░░░░░░░░░░░░░░░░░░░   6.8%
 ```
 
 <!-- code_time ends -->
