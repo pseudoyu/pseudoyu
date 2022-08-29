@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/08/29/weekly_review_20220829/ target='_blank'>周报 #09 - 没有色彩的 Yu 和他的巡礼之年</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/22/weekly_review_20220822/ target='_blank'>周报 #08 - 职业杂谈、404 Not Found 与猫</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/15/weekly_review_20220815/ target='_blank'>周报 #07 - 关于学习、考证与工作追求</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/07/weekly_review_20220807/ target='_blank'>周报 #06 - 关于真诚、游戏与自我调整</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/31/weekly_review_20220731/ target='_blank'>周报 #05 - 关于工作、时间的掌控感与新朋友</a>
 * <a href=https://www.pseudoyu.com/zh/2022/07/24/weekly_review_20220724/ target='_blank'>周报 #04 - 关于休假、亲情与城市的归属感</a>
-* <a href=https://www.pseudoyu.com/zh/2022/07/11/weekly_review_20220711/ target='_blank'>周报 #03 - 关于健康、目标与生活的节奏感</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35935299/' target='_blank'>想看彩排 第一季</a> - 2022-08-29
+* <a href='https://book.douban.com/subject/30144095/' target='_blank'>想读海边的卡夫卡</a> - 2022-08-29
+* <a href='https://book.douban.com/subject/6021440/' target='_blank'>最近在读黑客与画家</a> - 2022-08-29
 * <a href='https://book.douban.com/subject/26889236/' target='_blank'>最近在读我的职业是小说家</a> - 2022-08-29
 * <a href='https://book.douban.com/subject/25733470/' target='_blank'>读过没有色彩的多崎作和他的巡礼之年</a> - 2022-08-28
-* <a href='https://book.douban.com/subject/26425831/' target='_blank'>读过斯通纳</a> - 2022-08-28
-* <a href='http://movie.douban.com/subject/35198592/' target='_blank'>在看医院五日</a> - 2022-08-27
-* <a href='http://movie.douban.com/subject/34825964/' target='_blank'>在看龙之家族 第一季</a> - 2022-08-27
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
