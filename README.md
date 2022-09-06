@@ -30,12 +30,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/09/05/database_postgres_basic/ target='_blank'>PostgreSQL 基础与实践</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/04/weekly_review_20220904/ target='_blank'>周报 #10 - 重返过去、遗憾与当下</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/29/weekly_review_20220829/ target='_blank'>周报 #09 - 没有色彩的 Yu 和他的巡礼之年</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/22/weekly_review_20220822/ target='_blank'>周报 #08 - 职业杂谈、404 Not Found 与猫</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/15/weekly_review_20220815/ target='_blank'>周报 #07 - 关于学习、考证与工作追求</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/07/weekly_review_20220807/ target='_blank'>周报 #06 - 关于真诚、游戏与自我调整</a>
-* <a href=https://www.pseudoyu.com/zh/2022/07/31/weekly_review_20220731/ target='_blank'>周报 #05 - 关于工作、时间的掌控感与新朋友</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   5 hrs 5 mins   █████████████▍░░░░░░░  63.8%
-YAML       39 mins        █▋░░░░░░░░░░░░░░░░░░░   8.3%
-sh         38 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
-Go         20 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
-JSON       14 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
+Markdown   7 hrs 35 mins  █████████████▍░░░░░░░  63.9%
+sh         1 hr 13 mins   ██▏░░░░░░░░░░░░░░░░░░  10.2%
+YAML       40 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Text       31 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Go         30 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
 ```
 
 <!-- code_time ends -->
