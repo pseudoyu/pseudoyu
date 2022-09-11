@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/09/10/vulnerability_management_for_go/ target='_blank'>[译] Go 新漏洞管理工具：govulncheck</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/07/container_docker_basic/ target='_blank'>Docker 基础与实践</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/05/database_postgres_basic/ target='_blank'>PostgreSQL 基础与实践</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/04/weekly_review_20220904/ target='_blank'>周报 #10 - 重返过去、遗憾与当下</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/29/weekly_review_20220829/ target='_blank'>周报 #09 - 没有色彩的 Yu 和他的巡礼之年</a>
 * <a href=https://www.pseudoyu.com/zh/2022/08/22/weekly_review_20220822/ target='_blank'>周报 #08 - 职业杂谈、404 Not Found 与猫</a>
-* <a href=https://www.pseudoyu.com/zh/2022/08/15/weekly_review_20220815/ target='_blank'>周报 #07 - 关于学习、考证与工作追求</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/25921812/' target='_blank'>看过驴得水</a> - 2022-09-10
 * <a href='https://book.douban.com/subject/1102259/' target='_blank'>想读人月神话</a> - 2022-09-09
 * <a href='http://movie.douban.com/subject/3168993/' target='_blank'>看过求婚大作战特别篇</a> - 2022-09-04
 * <a href='http://movie.douban.com/subject/2018131/' target='_blank'>看过求婚大作战</a> - 2022-09-04
 * <a href='https://book.douban.com/subject/4238362/' target='_blank'>最近在读送你一颗子弹</a> - 2022-09-03
-* <a href='http://movie.douban.com/subject/26635329/' target='_blank'>看过火花</a> - 2022-09-03
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,7 +53,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   13 hrs 19 mins █████████░░░░░░░░░░░░  43.3%
+Markdown   13 hrs 14 mins █████████░░░░░░░░░░░░  43.1%
 Go         8 hrs 19 mins  █████▋░░░░░░░░░░░░░░░  27.1%
 sh         3 hrs 41 mins  ██▌░░░░░░░░░░░░░░░░░░  12.0%
 Protoco... 1 hr 17 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.2%
