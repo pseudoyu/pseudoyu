@@ -30,12 +30,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/09/19/weekly_review_20220919/ target='_blank'>周报 #12 - 赛博空间、自我定义与界限</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/13/weekly_review_20220913/ target='_blank'>周报 #11 - 心情、旅行与不期而遇</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/10/vulnerability_management_for_go/ target='_blank'>[译] Go 新漏洞管理工具：govulncheck</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/07/container_docker_basic/ target='_blank'>Docker 基础与实践</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/05/database_postgres_basic/ target='_blank'>PostgreSQL 基础与实践</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/04/weekly_review_20220904/ target='_blank'>周报 #10 - 重返过去、遗憾与当下</a>
-* <a href=https://www.pseudoyu.com/zh/2022/08/29/weekly_review_20220829/ target='_blank'>周报 #09 - 没有色彩的 Yu 和他的巡礼之年</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         3 hrs 30 mins  ██████▌░░░░░░░░░░░░░░  31.2%
-Markdown   3 hrs 26 mins  ██████▍░░░░░░░░░░░░░░  30.5%
-sh         2 hrs 47 mins  █████▏░░░░░░░░░░░░░░░  24.7%
-Solidity   45 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
-SQL        17 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Go         5 hrs 36 mins  ███████░░░░░░░░░░░░░░  33.9%
+sh         3 hrs 44 mins  ████▊░░░░░░░░░░░░░░░░  22.7%
+Markdown   3 hrs 40 mins  ████▋░░░░░░░░░░░░░░░░  22.2%
+Protoco... 1 hr 53 mins   ██▍░░░░░░░░░░░░░░░░░░  11.4%
+protobuf   41 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
 ```
 
 <!-- code_time ends -->
