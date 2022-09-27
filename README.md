@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/09/26/weekly_review_20220926/ target='_blank'>周报 #13 - 忙里偷闲的乐趣</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/19/weekly_review_20220919/ target='_blank'>周报 #12 - 赛博空间、自我定义与界限</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/13/weekly_review_20220913/ target='_blank'>周报 #11 - 心情、旅行与不期而遇</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/10/vulnerability_management_for_go/ target='_blank'>[译] Go 新漏洞管理工具：govulncheck</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/07/container_docker_basic/ target='_blank'>Docker 基础与实践</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/05/database_postgres_basic/ target='_blank'>PostgreSQL 基础与实践</a>
-* <a href=https://www.pseudoyu.com/zh/2022/09/04/weekly_review_20220904/ target='_blank'>周报 #10 - 重返过去、遗憾与当下</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/35275350/' target='_blank'>想看First Love 初恋</a> - 2022-09-26
+* <a href='https://book.douban.com/subject/36071759/' target='_blank'>想读创造</a> - 2022-09-26
+* <a href='https://book.douban.com/subject/20376604/' target='_blank'>想读源泉</a> - 2022-09-26
+* <a href='http://movie.douban.com/subject/35275350/' target='_blank'>想看初恋</a> - 2022-09-26
 * <a href='http://movie.douban.com/subject/26607693/' target='_blank'>看过敦刻尔克</a> - 2022-09-26
 * <a href='https://book.douban.com/subject/1902303/' target='_blank'>最近在读Man's Search for Meaning</a> - 2022-09-25
-* <a href='http://movie.douban.com/subject/35088783/' target='_blank'>看过真相捕捉 第二季</a> - 2022-09-25
-* <a href='http://movie.douban.com/subject/35240235/' target='_blank'>看过不</a> - 2022-09-25
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         12 hrs 1 min   █████████▋░░░░░░░░░░░  46.0%
-sh         5 hrs 47 mins  ████▋░░░░░░░░░░░░░░░░  22.2%
-Markdown   3 hrs 51 mins  ███░░░░░░░░░░░░░░░░░░  14.8%
-Protoco... 2 hrs 17 mins  █▊░░░░░░░░░░░░░░░░░░░   8.8%
-protobuf   52 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Go         10 hrs 27 mins ████████▌░░░░░░░░░░░░  40.5%
+sh         5 hrs 51 mins  ████▊░░░░░░░░░░░░░░░░  22.7%
+Markdown   3 hrs 21 mins  ██▋░░░░░░░░░░░░░░░░░░  13.0%
+Protoco... 2 hrs 6 mins   █▋░░░░░░░░░░░░░░░░░░░   8.1%
+YAML       1 hr 35 mins   █▎░░░░░░░░░░░░░░░░░░░   6.2%
 ```
 
 <!-- code_time ends -->
