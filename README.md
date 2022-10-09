@@ -30,12 +30,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/10/09/weekly_review_20221009/ target='_blank'>周报 #14 - 被搁置的生活与自我</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/26/weekly_review_20220926/ target='_blank'>周报 #13 - 忙里偷闲的乐趣</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/19/weekly_review_20220919/ target='_blank'>周报 #12 - 赛博空间、自我定义与界限</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/13/weekly_review_20220913/ target='_blank'>周报 #11 - 心情、旅行与不期而遇</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/10/vulnerability_management_for_go/ target='_blank'>[译] Go 新漏洞管理工具：govulncheck</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/07/container_docker_basic/ target='_blank'>Docker 基础与实践</a>
-* <a href=https://www.pseudoyu.com/zh/2022/09/05/database_postgres_basic/ target='_blank'>PostgreSQL 基础与实践</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
