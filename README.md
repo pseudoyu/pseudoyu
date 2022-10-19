@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/10/18/weekly_review_20221018/ target='_blank'>周报 #15 - 内观与外求</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/09/weekly_review_20221009/ target='_blank'>周报 #14 - 被搁置的生活与自我</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/26/weekly_review_20220926/ target='_blank'>周报 #13 - 忙里偷闲的乐趣</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/19/weekly_review_20220919/ target='_blank'>周报 #12 - 赛博空间、自我定义与界限</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/13/weekly_review_20220913/ target='_blank'>周报 #11 - 心情、旅行与不期而遇</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/10/vulnerability_management_for_go/ target='_blank'>[译] Go 新漏洞管理工具：govulncheck</a>
-* <a href=https://www.pseudoyu.com/zh/2022/09/07/container_docker_basic/ target='_blank'>Docker 基础与实践</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/26932940/' target='_blank'>最近在读Programming in Lua, Fourth Edition</a> - 2022-10-18
+* <a href='https://book.douban.com/subject/23858315/' target='_blank'>读过毛姆读书随笔</a> - 2022-10-18
+* <a href='http://movie.douban.com/subject/4922787/' target='_blank'>看过后宫·甄嬛传</a> - 2022-10-18
+* <a href='http://movie.douban.com/subject/34990593/' target='_blank'>在看万神殿 第一季</a> - 2022-10-18
 * <a href='https://book.douban.com/subject/3344676/' target='_blank'>最近在读常识</a> - 2022-10-14
-* <a href='http://movie.douban.com/subject/7064681/' target='_blank'>看过狼的孩子雨和雪</a> - 2022-10-14
-* <a href='http://movie.douban.com/subject/35700395/' target='_blank'>看过坠落</a> - 2022-10-13
-* <a href='http://movie.douban.com/subject/35256195/' target='_blank'>在看电锯人</a> - 2022-10-13
-* <a href='http://movie.douban.com/subject/35890480/' target='_blank'>看过石子和羽男-这种事情也好告吗？-</a> - 2022-10-13
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         4 hrs 34 mins  ████████▍░░░░░░░░░░░░  40.0%
-Markdown   2 hrs 32 mins  ████▋░░░░░░░░░░░░░░░░  22.2%
-sh         1 hr 26 mins   ██▋░░░░░░░░░░░░░░░░░░  12.5%
-YAML       1 hr 3 mins    █▉░░░░░░░░░░░░░░░░░░░   9.2%
-Other      46 mins        █▍░░░░░░░░░░░░░░░░░░░   6.8%
+Markdown   5 hrs 47 mins  ███████▉░░░░░░░░░░░░░  38.0%
+Go         4 hrs 34 mins  ██████▎░░░░░░░░░░░░░░  30.0%
+sh         1 hr 26 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
+Other      1 hr 18 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
+YAML       1 hr 3 mins    █▍░░░░░░░░░░░░░░░░░░░   7.0%
 ```
 
 <!-- code_time ends -->
