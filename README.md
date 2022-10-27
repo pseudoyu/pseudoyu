@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/10/27/weekly_review_20221027/ target='_blank'>周报 #16 - 纯粹性学习</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/18/weekly_review_20221018/ target='_blank'>周报 #15 - 内观与外求</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/09/weekly_review_20221009/ target='_blank'>周报 #14 - 被搁置的生活与自我</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/26/weekly_review_20220926/ target='_blank'>周报 #13 - 忙里偷闲的乐趣</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/19/weekly_review_20220919/ target='_blank'>周报 #12 - 赛博空间、自我定义与界限</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/13/weekly_review_20220913/ target='_blank'>周报 #11 - 心情、旅行与不期而遇</a>
-* <a href=https://www.pseudoyu.com/zh/2022/09/10/vulnerability_management_for_go/ target='_blank'>[译] Go 新漏洞管理工具：govulncheck</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/30314848/' target='_blank'>看过瞬息全宇宙</a> - 2022-10-27
 * <a href='http://movie.douban.com/subject/34825964/' target='_blank'>看过龙之家族 第一季</a> - 2022-10-25
 * <a href='http://movie.douban.com/subject/35500137/' target='_blank'>看过串流先锋</a> - 2022-10-22
 * <a href='http://movie.douban.com/subject/30198955/' target='_blank'>在看边缘世界 第一季</a> - 2022-10-22
 * <a href='http://movie.douban.com/subject/1950330/' target='_blank'>看过罗马</a> - 2022-10-22
-* <a href='https://book.douban.com/subject/36108789/' target='_blank'>想读计算机体系结构：量化研究方法（第6版）</a> - 2022-10-21
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         15 hrs 54 mins ██████▋░░░░░░░░░░░░░░  31.8%
-Lua        5 hrs 19 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
-C++        3 hrs 57 mins  █▋░░░░░░░░░░░░░░░░░░░   7.9%
-sh         3 hrs 45 mins  █▌░░░░░░░░░░░░░░░░░░░   7.5%
-Markdown   3 hrs 31 mins  █▍░░░░░░░░░░░░░░░░░░░   7.0%
+Go         10 hrs 45 mins █████░░░░░░░░░░░░░░░░  24.2%
+Lua        5 hrs 19 mins  ██▌░░░░░░░░░░░░░░░░░░  12.0%
+sh         4 hrs 44 mins  ██▏░░░░░░░░░░░░░░░░░░  10.7%
+C++        3 hrs 57 mins  █▉░░░░░░░░░░░░░░░░░░░   8.9%
+Rust       3 hrs 2 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
 ```
 
 <!-- code_time ends -->
