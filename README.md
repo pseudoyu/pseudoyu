@@ -41,11 +41,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/36108789/' target='_blank'>最近在读计算机体系结构：量化研究方法（第6版）</a> - 2022-10-27
+* <a href='https://book.douban.com/subject/1012611/' target='_blank'>读过乌合之众</a> - 2022-10-27
 * <a href='http://movie.douban.com/subject/30314848/' target='_blank'>看过瞬息全宇宙</a> - 2022-10-27
 * <a href='http://movie.douban.com/subject/34825964/' target='_blank'>看过龙之家族 第一季</a> - 2022-10-25
 * <a href='http://movie.douban.com/subject/35500137/' target='_blank'>看过串流先锋</a> - 2022-10-22
-* <a href='http://movie.douban.com/subject/30198955/' target='_blank'>在看边缘世界 第一季</a> - 2022-10-22
-* <a href='http://movie.douban.com/subject/1950330/' target='_blank'>看过罗马</a> - 2022-10-22
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         10 hrs 45 mins █████░░░░░░░░░░░░░░░░  24.2%
-Lua        5 hrs 19 mins  ██▌░░░░░░░░░░░░░░░░░░  12.0%
-sh         4 hrs 44 mins  ██▏░░░░░░░░░░░░░░░░░░  10.7%
-C++        3 hrs 57 mins  █▉░░░░░░░░░░░░░░░░░░░   8.9%
-Rust       3 hrs 2 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
+Go         5 hrs 52 mins  ███▏░░░░░░░░░░░░░░░░░  15.3%
+Markdown   5 hrs 24 mins  ██▉░░░░░░░░░░░░░░░░░░  14.1%
+Lua        5 hrs 19 mins  ██▉░░░░░░░░░░░░░░░░░░  13.9%
+sh         4 hrs 26 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
+C++        3 hrs 57 mins  ██▏░░░░░░░░░░░░░░░░░░  10.3%
 ```
 
 <!-- code_time ends -->
