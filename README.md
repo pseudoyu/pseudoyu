@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/10/31/weekly_review_20221031/ target='_blank'>周报 #17 - 他和他的猫</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/27/weekly_review_20221027/ target='_blank'>周报 #16 - 纯粹性学习</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/18/weekly_review_20221018/ target='_blank'>周报 #15 - 内观与外求</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/09/weekly_review_20221009/ target='_blank'>周报 #14 - 被搁置的生活与自我</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/26/weekly_review_20220926/ target='_blank'>周报 #13 - 忙里偷闲的乐趣</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/19/weekly_review_20220919/ target='_blank'>周报 #12 - 赛博空间、自我定义与界限</a>
-* <a href=https://www.pseudoyu.com/zh/2022/09/13/weekly_review_20220913/ target='_blank'>周报 #11 - 心情、旅行与不期而遇</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/26708200/' target='_blank'>看过她和她的猫</a> - 2022-10-31
 * <a href='https://book.douban.com/subject/26889236/' target='_blank'>最近在读我的职业是小说家</a> - 2022-10-30
 * <a href='https://book.douban.com/subject/35234117/' target='_blank'>读过五种时间</a> - 2022-10-30
 * <a href='https://book.douban.com/subject/35222513/' target='_blank'>想读程序设计方法（第2版）</a> - 2022-10-29
 * <a href='http://www.douban.com/game/33375088/' target='_blank'>最近在玩女神异闻录5 皇家版 ペルソナ5 ザ・ロイヤル</a> - 2022-10-29
-* <a href='https://book.douban.com/subject/36108789/' target='_blank'>最近在读计算机体系结构：量化研究方法（第6版）</a> - 2022-10-27
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
