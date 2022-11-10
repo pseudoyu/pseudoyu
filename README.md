@@ -30,21 +30,21 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/11/08/weekly_review_20221108/ target='_blank'>周报 #18 - 陪伴与另一种生活</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/31/weekly_review_20221031/ target='_blank'>周报 #17 - 他和他的猫</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/27/weekly_review_20221027/ target='_blank'>周报 #16 - 纯粹性学习</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/18/weekly_review_20221018/ target='_blank'>周报 #15 - 内观与外求</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/09/weekly_review_20221009/ target='_blank'>周报 #14 - 被搁置的生活与自我</a>
 * <a href=https://www.pseudoyu.com/zh/2022/09/26/weekly_review_20220926/ target='_blank'>周报 #13 - 忙里偷闲的乐趣</a>
-* <a href=https://www.pseudoyu.com/zh/2022/09/19/weekly_review_20220919/ target='_blank'>周报 #12 - 赛博空间、自我定义与界限</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35604644/' target='_blank'>在看她和她的她</a> - 2022-11-09
 * <a href='https://book.douban.com/subject/2516411/' target='_blank'>想读How to Become a Straight-A Student</a> - 2022-11-03
 * <a href='http://movie.douban.com/subject/36118904/' target='_blank'>看过Hacking Google Season 1</a> - 2022-11-02
 * <a href='https://book.douban.com/subject/26826089/' target='_blank'>最近在读那些古怪又让人忧心的问题</a> - 2022-11-02
-* <a href='http://movie.douban.com/subject/35604644/' target='_blank'>想看她和她的她</a> - 2022-11-02
 * <a href='https://book.douban.com/subject/36048997/' target='_blank'>最近在读自学大全</a> - 2022-11-01
 <!-- douban ends -->
 
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-JavaScript 4 hrs 15 mins  █████▏░░░░░░░░░░░░░░░  24.4%
-sh         3 hrs 55 mins  ████▋░░░░░░░░░░░░░░░░  22.5%
-Go         2 hrs 9 mins   ██▌░░░░░░░░░░░░░░░░░░  12.4%
-PlantUM... 1 hr 53 mins   ██▎░░░░░░░░░░░░░░░░░░  10.9%
-Other      1 hr 4 mins    █▎░░░░░░░░░░░░░░░░░░░   6.2%
+JavaScript 5 hrs 41 mins  █████▌░░░░░░░░░░░░░░░  26.3%
+sh         4 hrs 4 mins   ███▉░░░░░░░░░░░░░░░░░  18.8%
+Markdown   3 hrs 38 mins  ███▌░░░░░░░░░░░░░░░░░  16.8%
+Go         2 hrs 1 min    █▉░░░░░░░░░░░░░░░░░░░   9.3%
+PlantUM... 1 hr 53 mins   █▊░░░░░░░░░░░░░░░░░░░   8.7%
 ```
 
 <!-- code_time ends -->
