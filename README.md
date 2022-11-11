@@ -41,11 +41,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/36084407/' target='_blank'>想读100 Go Mistakes and How to Avoid Them</a> - 2022-11-10
 * <a href='http://movie.douban.com/subject/35604644/' target='_blank'>在看她和她的她</a> - 2022-11-09
 * <a href='https://book.douban.com/subject/2516411/' target='_blank'>想读How to Become a Straight-A Student</a> - 2022-11-03
 * <a href='http://movie.douban.com/subject/36118904/' target='_blank'>看过Hacking Google Season 1</a> - 2022-11-02
 * <a href='https://book.douban.com/subject/26826089/' target='_blank'>最近在读那些古怪又让人忧心的问题</a> - 2022-11-02
-* <a href='https://book.douban.com/subject/36048997/' target='_blank'>最近在读自学大全</a> - 2022-11-01
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-JavaScript 5 hrs 41 mins  █████▌░░░░░░░░░░░░░░░  26.3%
-sh         4 hrs 4 mins   ███▉░░░░░░░░░░░░░░░░░  18.8%
-Markdown   3 hrs 38 mins  ███▌░░░░░░░░░░░░░░░░░  16.8%
-Go         2 hrs 1 min    █▉░░░░░░░░░░░░░░░░░░░   9.3%
-PlantUM... 1 hr 53 mins   █▊░░░░░░░░░░░░░░░░░░░   8.7%
+JavaScript 6 hrs 27 mins  █████▏░░░░░░░░░░░░░░░  24.7%
+sh         4 hrs 48 mins  ███▊░░░░░░░░░░░░░░░░░  18.4%
+Go         4 hrs 25 mins  ███▌░░░░░░░░░░░░░░░░░  17.0%
+Markdown   3 hrs 42 mins  ██▉░░░░░░░░░░░░░░░░░░  14.2%
+PlantUM... 1 hr 53 mins   █▌░░░░░░░░░░░░░░░░░░░   7.3%
 ```
 
 <!-- code_time ends -->
