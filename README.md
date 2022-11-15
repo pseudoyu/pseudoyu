@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-JavaScript 12 hrs 48 mins ███████▋░░░░░░░░░░░░░  36.4%
-sh         5 hrs 46 mins  ███▍░░░░░░░░░░░░░░░░░  16.4%
-Go         5 hrs 11 mins  ███░░░░░░░░░░░░░░░░░░  14.7%
-Markdown   4 hrs 34 mins  ██▋░░░░░░░░░░░░░░░░░░  13.0%
-YAML       2 hrs 11 mins  █▎░░░░░░░░░░░░░░░░░░░   6.2%
+JavaScript 10 hrs 57 mins ███████░░░░░░░░░░░░░░  33.7%
+Go         6 hrs 40 mins  ████▎░░░░░░░░░░░░░░░░  20.6%
+Markdown   4 hrs 51 mins  ███▏░░░░░░░░░░░░░░░░░  14.9%
+sh         3 hrs 51 mins  ██▍░░░░░░░░░░░░░░░░░░  11.9%
+Solidity   2 hrs 12 mins  █▍░░░░░░░░░░░░░░░░░░░   6.8%
 ```
 
 <!-- code_time ends -->
