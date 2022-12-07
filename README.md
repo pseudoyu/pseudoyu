@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/12/06/weekly_review_20221206/ target='_blank'>周报 #21 - 重新捡起的生活</a>
 * <a href=https://www.pseudoyu.com/zh/2022/11/27/weekly_review_20221127/ target='_blank'>周报 #20 - 丧失的消费欲</a>
 * <a href=https://www.pseudoyu.com/zh/2022/11/17/weekly_review_20221117/ target='_blank'>周报 #19 - 忆一次创业经历</a>
 * <a href=https://www.pseudoyu.com/zh/2022/11/08/weekly_review_20221108/ target='_blank'>周报 #18 - 陪伴与另一种生活</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/31/weekly_review_20221031/ target='_blank'>周报 #17 - 他和他的猫</a>
 * <a href=https://www.pseudoyu.com/zh/2022/10/27/weekly_review_20221027/ target='_blank'>周报 #16 - 纯粹性学习</a>
-* <a href=https://www.pseudoyu.com/zh/2022/10/18/weekly_review_20221018/ target='_blank'>周报 #15 - 内观与外求</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/35235151/' target='_blank'>在看唐朝诡事录</a> - 2022-12-02
+* <a href='http://movie.douban.com/subject/30198955/' target='_blank'>看过边缘世界 第一季</a> - 2022-12-06
+* <a href='http://movie.douban.com/subject/35235151/' target='_blank'>看过唐朝诡事录</a> - 2022-12-06
+* <a href='http://movie.douban.com/subject/35364243/' target='_blank'>看过星期三</a> - 2022-12-06
 * <a href='https://book.douban.com/subject/25881855/' target='_blank'>想读大教堂与集市</a> - 2022-12-02
-* <a href='http://movie.douban.com/subject/35364243/' target='_blank'>在看星期三</a> - 2022-11-28
 * <a href='http://movie.douban.com/subject/35275350/' target='_blank'>看过初恋</a> - 2022-11-28
-* <a href='http://movie.douban.com/subject/26304167/' target='_blank'>想看出租车</a> - 2022-11-27
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-JavaScript 10 hrs 42 mins ████████▊░░░░░░░░░░░░  41.8%
-JSON       5 hrs 31 mins  ████▌░░░░░░░░░░░░░░░░  21.5%
-Markdown   2 hrs 42 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
-Go         2 hrs 21 mins  █▉░░░░░░░░░░░░░░░░░░░   9.2%
-YAML       1 hr 8 mins    ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+JavaScript 7 hrs 55 mins  █████████▌░░░░░░░░░░░  45.6%
+Markdown   2 hrs 55 mins  ███▌░░░░░░░░░░░░░░░░░  16.9%
+Go         1 hr 32 mins   █▊░░░░░░░░░░░░░░░░░░░   8.9%
+YAML       1 hr 21 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
+JSON       1 hr 10 mins   █▍░░░░░░░░░░░░░░░░░░░   6.7%
 ```
 
 <!-- code_time ends -->
