@@ -89,7 +89,7 @@ JSON       1 hr 10 mins   █▎░░░░░░░░░░░░░░░░
   </tr>
   <tr>
           <td align="center">
-            <img src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&hide=html,php,css,scss,typescript,python,java,javascript,Svelte,smarty&layout=compact&theme=gotham">
+            <img src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&hide=html,php,css,java,Svelte,smarty&layout=compact&theme=gotham">
           </td>
     <td align="center">
       <!-- <img src="https://yu-github-readme-stats.herokuapp.com/?user=pseudoyu&theme=gotham"> -->
