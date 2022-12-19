@@ -30,12 +30,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/12/19/weekly_review_20221219/ target='_blank'>周报 #23 - 如何学习一门新的技术（文科转码选手浅谈）</a>
 * <a href=https://www.pseudoyu.com/zh/2022/12/13/weekly_review_20221213/ target='_blank'>周报 #22 - 内卷与焦虑感</a>
 * <a href=https://www.pseudoyu.com/zh/2022/12/08/go_style_guide/ target='_blank'>[译] Google Go 风格指南</a>
 * <a href=https://www.pseudoyu.com/zh/2022/12/06/weekly_review_20221206/ target='_blank'>周报 #21 - 重新捡起的生活</a>
 * <a href=https://www.pseudoyu.com/zh/2022/11/27/weekly_review_20221127/ target='_blank'>周报 #20 - 丧失的消费欲</a>
 * <a href=https://www.pseudoyu.com/zh/2022/11/17/weekly_review_20221117/ target='_blank'>周报 #19 - 忆一次创业经历</a>
-* <a href=https://www.pseudoyu.com/zh/2022/11/08/weekly_review_20221108/ target='_blank'>周报 #18 - 陪伴与另一种生活</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -53,10 +53,10 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-JavaScript 45 hrs 36 mins ██████████████▋░░░░░░  69.7%
-HTML       6 hrs 14 mins  ██░░░░░░░░░░░░░░░░░░░   9.6%
-Go         3 hrs 57 mins  █▎░░░░░░░░░░░░░░░░░░░   6.0%
-Markdown   2 hrs 34 mins  ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+JavaScript 39 hrs 31 mins ████████████▍░░░░░░░░  59.2%
+HTML       11 hrs 19 mins ███▌░░░░░░░░░░░░░░░░░  17.0%
+Markdown   4 hrs 48 mins  █▌░░░░░░░░░░░░░░░░░░░   7.2%
+Go         3 hrs 57 mins  █▏░░░░░░░░░░░░░░░░░░░   5.9%
 Other      1 hr 46 mins   ▌░░░░░░░░░░░░░░░░░░░░   2.7%
 ```
 
