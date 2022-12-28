@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2022/12/27/weekly_review_20221227/ target='_blank'>周报 #24 - Love Actually | 真爱至上</a>
 * <a href=https://www.pseudoyu.com/zh/2022/12/19/weekly_review_20221219/ target='_blank'>周报 #23 - 如何学习一门新的技术（文科转码选手浅谈）</a>
 * <a href=https://www.pseudoyu.com/zh/2022/12/13/weekly_review_20221213/ target='_blank'>周报 #22 - 内卷与焦虑感</a>
 * <a href=https://www.pseudoyu.com/zh/2022/12/08/go_style_guide/ target='_blank'>[译] Google Go 风格指南</a>
 * <a href=https://www.pseudoyu.com/zh/2022/12/06/weekly_review_20221206/ target='_blank'>周报 #21 - 重新捡起的生活</a>
 * <a href=https://www.pseudoyu.com/zh/2022/11/27/weekly_review_20221127/ target='_blank'>周报 #20 - 丧失的消费欲</a>
-* <a href=https://www.pseudoyu.com/zh/2022/11/17/weekly_review_20221117/ target='_blank'>周报 #19 - 忆一次创业经历</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35699947/' target='_blank'>想看台湾犯罪故事</a> - 2022-12-27
+* <a href='http://movie.douban.com/subject/30181230/' target='_blank'>想看我们与恶的距离</a> - 2022-12-27
 * <a href='http://movie.douban.com/subject/34908091/' target='_blank'>看过天官赐福</a> - 2022-12-23
 * <a href='http://movie.douban.com/subject/35724582/' target='_blank'>看过间谍过家家 Part 2</a> - 2022-12-23
 * <a href='http://movie.douban.com/subject/35208467/' target='_blank'>想看想见你</a> - 2022-12-23
-* <a href='http://movie.douban.com/subject/2157156/' target='_blank'>想看似水年华</a> - 2022-12-13
-* <a href='http://movie.douban.com/subject/34444648/' target='_blank'>在看三体</a> - 2022-12-10
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-JavaScript 6 hrs 53 mins  ████████▌░░░░░░░░░░░░  40.6%
-Go         3 hrs 10 mins  ███▉░░░░░░░░░░░░░░░░░  18.7%
-Solidity   1 hr 49 mins   ██▏░░░░░░░░░░░░░░░░░░  10.7%
-HTML       1 hr 46 mins   ██▏░░░░░░░░░░░░░░░░░░  10.4%
-Other      1 hr 28 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
+JavaScript 7 hrs 9 mins   ██████▎░░░░░░░░░░░░░░  30.3%
+Go         5 hrs 15 mins  ████▋░░░░░░░░░░░░░░░░  22.2%
+Solidity   2 hrs 42 mins  ██▍░░░░░░░░░░░░░░░░░░  11.4%
+Markdown   2 hrs 36 mins  ██▎░░░░░░░░░░░░░░░░░░  11.0%
+Other      2 hrs 23 mins  ██▏░░░░░░░░░░░░░░░░░░  10.1%
 ```
 
 <!-- code_time ends -->
