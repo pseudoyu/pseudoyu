@@ -41,11 +41,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35634023/' target='_blank'>想看灵能百分百 Ⅲ</a> - 2022-12-28
+* <a href='http://movie.douban.com/subject/27011763/' target='_blank'>想看灵能百分百 II</a> - 2022-12-28
+* <a href='http://movie.douban.com/subject/26677934/' target='_blank'>在看灵能百分百</a> - 2022-12-28
 * <a href='http://movie.douban.com/subject/35699947/' target='_blank'>想看台湾犯罪故事</a> - 2022-12-27
 * <a href='http://movie.douban.com/subject/30181230/' target='_blank'>想看我们与恶的距离</a> - 2022-12-27
-* <a href='http://movie.douban.com/subject/34908091/' target='_blank'>看过天官赐福</a> - 2022-12-23
-* <a href='http://movie.douban.com/subject/35724582/' target='_blank'>看过间谍过家家 Part 2</a> - 2022-12-23
-* <a href='http://movie.douban.com/subject/35208467/' target='_blank'>想看想见你</a> - 2022-12-23
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-JavaScript 7 hrs 9 mins   ██████▎░░░░░░░░░░░░░░  30.3%
-Go         5 hrs 15 mins  ████▋░░░░░░░░░░░░░░░░  22.2%
-Solidity   2 hrs 42 mins  ██▍░░░░░░░░░░░░░░░░░░  11.4%
-Markdown   2 hrs 36 mins  ██▎░░░░░░░░░░░░░░░░░░  11.0%
-Other      2 hrs 23 mins  ██▏░░░░░░░░░░░░░░░░░░  10.1%
+Go         9 hrs 51 mins  █████████▏░░░░░░░░░░░  43.9%
+JavaScript 4 hrs 6 mins   ███▊░░░░░░░░░░░░░░░░░  18.2%
+Markdown   2 hrs 36 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
+Solidity   2 hrs 34 mins  ██▍░░░░░░░░░░░░░░░░░░  11.4%
+Other      1 hr 41 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
 ```
 
 <!-- code_time ends -->
