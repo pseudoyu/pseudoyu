@@ -30,22 +30,18 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/01/12/golang_120_language_changes/ target='_blank'>[译] Go 1.20 新变化！第一部分：语言特性</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/09/weekly_review_20230109/ target='_blank'>周报 #25 - 基于 Crossbell 的个人信息输出与同步系统（重构）</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/02/moment_in_peking_the_autumn/ target='_blank'>摄影集 #02 - Moment In Peking (The Autumn)</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/01/cat_in_the_box/ target='_blank'>摄影集 #01 - Cat In The Box</a>
 * <a href=https://www.pseudoyu.com/zh/2022/12/31/yearly_review_2022/ target='_blank'>2022 年末回顾 - 迷茫、低谷与改变</a>
 * <a href=https://www.pseudoyu.com/zh/2022/12/27/weekly_review_20221227/ target='_blank'>周报 #24 - Love Actually | 真爱至上</a>
-* <a href=https://www.pseudoyu.com/zh/2022/12/19/weekly_review_20221219/ target='_blank'>周报 #23 - 如何学习一门新的技术（文科转码选手浅谈）</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://www.douban.com/game/25884401/' target='_blank'>想玩海市蜃楼之馆 ファタモルガーナの館</a> - 2023-01-12
-* <a href='http://movie.douban.com/subject/35674355/' target='_blank'>在看中国奇谭</a> - 2023-01-10
-* <a href='http://movie.douban.com/subject/26761416/' target='_blank'>想看至暗时刻</a> - 2023-01-07
-* <a href='http://movie.douban.com/subject/35699947/' target='_blank'>在看台湾犯罪故事</a> - 2023-01-05
-* <a href='https://book.douban.com/subject/30186025/' target='_blank'>想读风格感觉</a> - 2023-01-05
+
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +49,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   12 hrs 52 mins ███████▋░░░░░░░░░░░░░  36.4%
-Go         9 hrs 27 mins  █████▌░░░░░░░░░░░░░░░  26.8%
-JavaScript 3 hrs 43 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
-Other      3 hrs 10 mins  █▉░░░░░░░░░░░░░░░░░░░   9.0%
-Solidity   2 hrs 11 mins  █▎░░░░░░░░░░░░░░░░░░░   6.2%
+Markdown   15 hrs 24 mins █████████▍░░░░░░░░░░░  45.1%
+Go         7 hrs 2 mins   ████▎░░░░░░░░░░░░░░░░  20.6%
+JavaScript 3 hrs 49 mins  ██▎░░░░░░░░░░░░░░░░░░  11.2%
+Other      2 hrs 33 mins  █▌░░░░░░░░░░░░░░░░░░░   7.5%
+Solidity   2 hrs 18 mins  █▍░░░░░░░░░░░░░░░░░░░   6.7%
 ```
 
 <!-- code_time ends -->
