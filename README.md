@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/01/15/weekly_review_20230115/ target='_blank'>周报 #26 - 博客、客制化键盘和新服务器</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/12/golang_120_language_changes/ target='_blank'>[译] Go 1.20 新变化！第一部分：语言特性</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/09/weekly_review_20230109/ target='_blank'>周报 #25 - 基于 Crossbell 的个人信息输出与同步系统（重构）</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/02/moment_in_peking_the_autumn/ target='_blank'>摄影集 #02 - Moment In Peking (The Autumn)</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/01/cat_in_the_box/ target='_blank'>摄影集 #01 - Cat In The Box</a>
 * <a href=https://www.pseudoyu.com/zh/2022/12/31/yearly_review_2022/ target='_blank'>2022 年末回顾 - 迷茫、低谷与改变</a>
-* <a href=https://www.pseudoyu.com/zh/2022/12/27/weekly_review_20221227/ target='_blank'>周报 #24 - Love Actually | 真爱至上</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35634023/' target='_blank'>看过灵能百分百 Ⅲ</a> - 2023-01-16
+* <a href='http://movie.douban.com/subject/27011763/' target='_blank'>看过灵能百分百 II</a> - 2023-01-16
 * <a href='http://movie.douban.com/subject/26677934/' target='_blank'>看过灵能百分百</a> - 2023-01-14
 * <a href='http://movie.douban.com/subject/1418199/' target='_blank'>想看火线 第一季</a> - 2023-01-13
 * <a href='http://movie.douban.com/subject/26946524/' target='_blank'>想看人民公仆 第一季</a> - 2023-01-12
-* <a href='http://www.douban.com/game/25884401/' target='_blank'>想玩海市蜃楼之馆 ファタモルガーナの館</a> - 2023-01-12
-* <a href='http://movie.douban.com/subject/35674355/' target='_blank'>在看中国奇谭</a> - 2023-01-10
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   11 hrs 16 mins ██████▌░░░░░░░░░░░░░░  31.5%
-Go         10 hrs 8 mins  █████▉░░░░░░░░░░░░░░░  28.4%
-JavaScript 6 hrs 29 mins  ███▊░░░░░░░░░░░░░░░░░  18.1%
-Other      2 hrs 39 mins  █▌░░░░░░░░░░░░░░░░░░░   7.5%
-Solidity   1 hr 12 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Markdown   13 hrs 21 mins ██████▋░░░░░░░░░░░░░░  32.1%
+Go         10 hrs 37 mins █████▎░░░░░░░░░░░░░░░  25.5%
+JavaScript 6 hrs 30 mins  ███▎░░░░░░░░░░░░░░░░░  15.6%
+Other      2 hrs 20 mins  █▏░░░░░░░░░░░░░░░░░░░   5.6%
+HTML       1 hr 56 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.7%
 ```
 
 <!-- code_time ends -->
