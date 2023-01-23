@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/01/22/weekly_review_20230122/ target='_blank'>周报 #27 - 何以为家</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/15/weekly_review_20230115/ target='_blank'>周报 #26 - 博客、客制化键盘和新服务器</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/12/golang_120_language_changes/ target='_blank'>[译] Go 1.20 新变化！第一部分：语言特性</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/09/weekly_review_20230109/ target='_blank'>周报 #25 - 基于 Crossbell 的个人信息输出与同步系统（重构）</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/02/moment_in_peking_the_autumn/ target='_blank'>摄影集 #02 - Moment In Peking (The Autumn)</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/01/cat_in_the_box/ target='_blank'>摄影集 #01 - Cat In The Box</a>
-* <a href=https://www.pseudoyu.com/zh/2022/12/31/yearly_review_2022/ target='_blank'>2022 年末回顾 - 迷茫、低谷与改变</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/35143790/' target='_blank'>想读蛤蟆先生去看心理医生</a> - 2023-01-22
 * <a href='https://book.douban.com/subject/35966120/' target='_blank'>最近在读始于极限</a> - 2023-01-20
 * <a href='https://book.douban.com/subject/30144097/' target='_blank'>最近在读世界尽头与冷酷仙境</a> - 2023-01-18
 * <a href='http://movie.douban.com/subject/25848328/' target='_blank'>想看最后生还者</a> - 2023-01-16
 * <a href='http://movie.douban.com/subject/26647087/' target='_blank'>在看三体</a> - 2023-01-16
-* <a href='http://movie.douban.com/subject/26596140/' target='_blank'>在看文豪野犬</a> - 2023-01-16
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-JavaScript 5 hrs 22 mins  ████░░░░░░░░░░░░░░░░░  19.4%
-Go         5 hrs 21 mins  ████░░░░░░░░░░░░░░░░░  19.3%
-Markdown   5 hrs 5 mins   ███▊░░░░░░░░░░░░░░░░░  18.4%
-YAML       2 hrs 12 mins  █▋░░░░░░░░░░░░░░░░░░░   7.9%
-CSS        1 hr 57 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
+JavaScript 5 hrs 20 mins  █████░░░░░░░░░░░░░░░░  23.9%
+Go         4 hrs 51 mins  ████▌░░░░░░░░░░░░░░░░  21.8%
+Markdown   4 hrs 16 mins  ████░░░░░░░░░░░░░░░░░  19.1%
+Other      1 hr 54 mins   █▊░░░░░░░░░░░░░░░░░░░   8.5%
+sh         1 hr 45 mins   █▋░░░░░░░░░░░░░░░░░░░   7.9%
 ```
 
 <!-- code_time ends -->
