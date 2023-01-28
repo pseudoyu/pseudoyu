@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   4 hrs 56 mins  ███████░░░░░░░░░░░░░░  33.7%
-sh         3 hrs 24 mins  ████▉░░░░░░░░░░░░░░░░  23.3%
-JavaScript 1 hr 58 mins   ██▊░░░░░░░░░░░░░░░░░░  13.4%
-MDX        1 hr 8 mins    █▋░░░░░░░░░░░░░░░░░░░   7.8%
-TypeScript 55 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
+Markdown   5 hrs 20 mins  ███████▋░░░░░░░░░░░░░  36.9%
+sh         3 hrs 10 mins  ████▌░░░░░░░░░░░░░░░░  21.8%
+JavaScript 1 hr 25 mins   ██░░░░░░░░░░░░░░░░░░░   9.8%
+MDX        1 hr 8 mins    █▋░░░░░░░░░░░░░░░░░░░   7.9%
+TypeScript 1 hr 7 mins    █▌░░░░░░░░░░░░░░░░░░░   7.7%
 ```
 
 <!-- code_time ends -->
