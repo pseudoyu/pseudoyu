@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/01/31/weekly_review_20230131/ target='_blank'>周报 #28 - Mastodon、故乡与捉迷藏的猫</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/22/weekly_review_20230122/ target='_blank'>周报 #27 - 何以为家</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/15/weekly_review_20230115/ target='_blank'>周报 #26 - 博客、客制化键盘和新服务器</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/12/golang_120_language_changes/ target='_blank'>[译] Go 1.20 新变化！第一部分：语言特性</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/09/weekly_review_20230109/ target='_blank'>周报 #25 - 基于 Crossbell 的个人信息输出与同步系统（重构）</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/02/moment_in_peking_the_autumn/ target='_blank'>摄影集 #02 - Moment In Peking (The Autumn)</a>
-* <a href=https://www.pseudoyu.com/zh/2023/01/01/cat_in_the_box/ target='_blank'>摄影集 #01 - Cat In The Box</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/26889236/' target='_blank'>读过我的职业是小说家</a> - 2023-01-31
 * <a href='http://movie.douban.com/subject/25848328/' target='_blank'>在看最后生还者 第一季</a> - 2023-01-30
 * <a href='http://movie.douban.com/subject/36070624/' target='_blank'>看过静雪</a> - 2023-01-30
 * <a href='http://movie.douban.com/subject/35769236/' target='_blank'>想看鬼灭之刃 锻刀村篇</a> - 2023-01-28
 * <a href='https://book.douban.com/subject/35860385/' target='_blank'>想读The NFT Handbook</a> - 2023-01-26
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>想看狂飙</a> - 2023-01-25
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-sh         4 hrs 3 mins   █████▎░░░░░░░░░░░░░░░  25.3%
-Markdown   2 hrs 47 mins  ███▋░░░░░░░░░░░░░░░░░  17.4%
-Go         2 hrs 5 mins   ██▋░░░░░░░░░░░░░░░░░░  13.0%
-JavaScript 1 hr 23 mins   █▊░░░░░░░░░░░░░░░░░░░   8.7%
-Other      1 hr 15 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
+Markdown   3 hrs 46 mins  █████▋░░░░░░░░░░░░░░░  26.9%
+sh         3 hrs          ████▌░░░░░░░░░░░░░░░░  21.5%
+Go         2 hrs 5 mins   ███░░░░░░░░░░░░░░░░░░  14.9%
+Other      1 hr 9 mins    █▋░░░░░░░░░░░░░░░░░░░   8.3%
+Solidity   1 hr 9 mins    █▋░░░░░░░░░░░░░░░░░░░   8.3%
 ```
 
 <!-- code_time ends -->
