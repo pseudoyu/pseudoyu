@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/02/06/weekly_review_20230206/ target='_blank'>周报 #29 - 日语学习经验、Steam Deck 与居酒屋</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/31/weekly_review_20230131/ target='_blank'>周报 #28 - Mastodon、故乡与捉迷藏的猫</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/22/weekly_review_20230122/ target='_blank'>周报 #27 - 何以为家</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/15/weekly_review_20230115/ target='_blank'>周报 #26 - 博客、客制化键盘和新服务器</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/12/golang_120_language_changes/ target='_blank'>[译] Go 1.20 新变化！第一部分：语言特性</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/09/weekly_review_20230109/ target='_blank'>周报 #25 - 基于 Crossbell 的个人信息输出与同步系统（重构）</a>
-* <a href=https://www.pseudoyu.com/zh/2023/01/02/moment_in_peking_the_autumn/ target='_blank'>摄影集 #02 - Moment In Peking (The Autumn)</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/26649682/' target='_blank'>看过深海</a> - 2023-02-06
+* <a href='http://movie.douban.com/subject/26647087/' target='_blank'>看过三体</a> - 2023-02-06
+* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>看过狂飙</a> - 2023-02-06
 * <a href='https://book.douban.com/subject/36073906/' target='_blank'>想读当我们不再理解世界</a> - 2023-02-06
 * <a href='https://book.douban.com/subject/26889236/' target='_blank'>读过我的职业是小说家</a> - 2023-01-31
-* <a href='http://movie.douban.com/subject/25848328/' target='_blank'>在看最后生还者 第一季</a> - 2023-01-30
-* <a href='http://movie.douban.com/subject/36070624/' target='_blank'>看过静雪</a> - 2023-01-30
-* <a href='http://movie.douban.com/subject/35769236/' target='_blank'>想看鬼灭之刃 锻刀村篇</a> - 2023-01-28
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   4 hrs 8 mins   ███████▋░░░░░░░░░░░░░  36.7%
-JavaScript 1 hr 39 mins   ███░░░░░░░░░░░░░░░░░░  14.7%
-Solidity   1 hr 37 mins   ███░░░░░░░░░░░░░░░░░░  14.4%
-Go         1 hr 14 mins   ██▎░░░░░░░░░░░░░░░░░░  10.9%
-sh         1 hr 4 mins    ██░░░░░░░░░░░░░░░░░░░   9.6%
+Markdown   6 hrs 8 mins   ███████▍░░░░░░░░░░░░░  35.4%
+Go         5 hrs 22 mins  ██████▌░░░░░░░░░░░░░░  31.0%
+JavaScript 1 hr 39 mins   ██░░░░░░░░░░░░░░░░░░░   9.6%
+Solidity   1 hr 37 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
+sh         58 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
 ```
 
 <!-- code_time ends -->
