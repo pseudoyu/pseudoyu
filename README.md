@@ -41,11 +41,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35067931/' target='_blank'>想看柔美的细胞小将</a> - 2023-02-07
 * <a href='http://movie.douban.com/subject/26649682/' target='_blank'>看过深海</a> - 2023-02-06
 * <a href='http://movie.douban.com/subject/26647087/' target='_blank'>看过三体</a> - 2023-02-06
 * <a href='http://movie.douban.com/subject/35465232/' target='_blank'>看过狂飙</a> - 2023-02-06
 * <a href='https://book.douban.com/subject/36073906/' target='_blank'>想读当我们不再理解世界</a> - 2023-02-06
-* <a href='https://book.douban.com/subject/26889236/' target='_blank'>读过我的职业是小说家</a> - 2023-01-31
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   6 hrs 8 mins   ███████▍░░░░░░░░░░░░░  35.4%
-Go         5 hrs 22 mins  ██████▌░░░░░░░░░░░░░░  31.0%
-JavaScript 1 hr 39 mins   ██░░░░░░░░░░░░░░░░░░░   9.6%
-Solidity   1 hr 37 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
-sh         58 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
+Markdown   6 hrs 55 mins  ███████▌░░░░░░░░░░░░░  36.1%
+Go         5 hrs 56 mins  ██████▍░░░░░░░░░░░░░░  30.9%
+JavaScript 1 hr 51 mins   ██░░░░░░░░░░░░░░░░░░░   9.6%
+sh         1 hr 33 mins   █▋░░░░░░░░░░░░░░░░░░░   8.1%
+Solidity   1 hr 6 mins    █▏░░░░░░░░░░░░░░░░░░░   5.8%
 ```
 
 <!-- code_time ends -->
