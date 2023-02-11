@@ -30,12 +30,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/02/10/cosmos_introduction_and_explaination/ target='_blank'>Cosmos 区块链架构与 Tendermint 共识机制</a>
 * <a href=https://www.pseudoyu.com/zh/2023/02/06/weekly_review_20230206/ target='_blank'>周报 #29 - 日语学习经验、Steam Deck 与居酒屋</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/31/weekly_review_20230131/ target='_blank'>周报 #28 - Mastodon、故乡与捉迷藏的猫</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/22/weekly_review_20230122/ target='_blank'>周报 #27 - 何以为家</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/15/weekly_review_20230115/ target='_blank'>周报 #26 - 博客、客制化键盘和新服务器</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/12/golang_120_language_changes/ target='_blank'>[译] Go 1.20 新变化！第一部分：语言特性</a>
-* <a href=https://www.pseudoyu.com/zh/2023/01/09/weekly_review_20230109/ target='_blank'>周报 #25 - 基于 Crossbell 的个人信息输出与同步系统（重构）</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
