@@ -30,12 +30,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/02/12/weekly_review_20230212/ target='_blank'>周报 #30 - 开源预算、写作初心与对技术的谦卑</a>
 * <a href=https://www.pseudoyu.com/zh/2023/02/10/cosmos_introduction_and_explaination/ target='_blank'>Cosmos 区块链架构与 Tendermint 共识机制</a>
 * <a href=https://www.pseudoyu.com/zh/2023/02/06/weekly_review_20230206/ target='_blank'>周报 #29 - 日语学习经验、Steam Deck 与居酒屋</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/31/weekly_review_20230131/ target='_blank'>周报 #28 - Mastodon、故乡与捉迷藏的猫</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/22/weekly_review_20230122/ target='_blank'>周报 #27 - 何以为家</a>
 * <a href=https://www.pseudoyu.com/zh/2023/01/15/weekly_review_20230115/ target='_blank'>周报 #26 - 博客、客制化键盘和新服务器</a>
-* <a href=https://www.pseudoyu.com/zh/2023/01/12/golang_120_language_changes/ target='_blank'>[译] Go 1.20 新变化！第一部分：语言特性</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   10 hrs 15 mins ██████░░░░░░░░░░░░░░░  29.0%
-Go         9 hrs 18 mins  █████▌░░░░░░░░░░░░░░░  26.3%
-TypeScript 4 hrs 38 mins  ██▊░░░░░░░░░░░░░░░░░░  13.1%
-JavaScript 3 hrs 23 mins  ██░░░░░░░░░░░░░░░░░░░   9.6%
-Other      2 hrs 46 mins  █▋░░░░░░░░░░░░░░░░░░░   7.8%
+Markdown   11 hrs 9 mins  █████▉░░░░░░░░░░░░░░░  28.5%
+Go         9 hrs 12 mins  ████▉░░░░░░░░░░░░░░░░  23.6%
+TypeScript 5 hrs 25 mins  ██▉░░░░░░░░░░░░░░░░░░  13.9%
+JavaScript 3 hrs 30 mins  █▉░░░░░░░░░░░░░░░░░░░   9.0%
+Other      2 hrs 47 mins  █▌░░░░░░░░░░░░░░░░░░░   7.2%
 ```
 
 <!-- code_time ends -->
