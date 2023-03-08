@@ -30,12 +30,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/03/07/weekly_review_20230307/ target='_blank'>周报 #33 - 北京 x 故事 x 离别</a>
 * <a href=https://www.pseudoyu.com/zh/2023/02/26/weekly_review_20230226/ target='_blank'>周报 #32 - 武汉、久别重逢与流动的心绪</a>
 * <a href=https://www.pseudoyu.com/zh/2023/02/20/weekly_review_20230220/ target='_blank'>周报 #31 - 开源、前端开发与 ChatGPT 实践</a>
 * <a href=https://www.pseudoyu.com/zh/2023/02/12/weekly_review_20230212/ target='_blank'>周报 #30 - 开源预算、写作初心与对技术的谦卑</a>
 * <a href=https://www.pseudoyu.com/zh/2023/02/10/cosmos_introduction_and_explaination/ target='_blank'>Cosmos 区块链架构与 Tendermint 共识机制</a>
 * <a href=https://www.pseudoyu.com/zh/2023/02/06/weekly_review_20230206/ target='_blank'>周报 #29 - 日语学习经验、Steam Deck 与居酒屋</a>
-* <a href=https://www.pseudoyu.com/zh/2023/01/31/weekly_review_20230131/ target='_blank'>周报 #28 - Mastodon、故乡与捉迷藏的猫</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         6 hrs 2 mins   ████████░░░░░░░░░░░░░  38.5%
-sh         4 hrs 42 mins  ██████▎░░░░░░░░░░░░░░  30.0%
-JavaScript 2 hrs 57 mins  ███▉░░░░░░░░░░░░░░░░░  18.8%
-Solidity   1 hr 17 mins   █▋░░░░░░░░░░░░░░░░░░░   8.3%
-Other      28 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+Go         4 hrs 35 mins  ██████▎░░░░░░░░░░░░░░  29.8%
+sh         4 hrs          █████▍░░░░░░░░░░░░░░░  26.0%
+JavaScript 2 hrs 45 mins  ███▊░░░░░░░░░░░░░░░░░  17.9%
+Markdown   2 hrs 19 mins  ███▏░░░░░░░░░░░░░░░░░  15.1%
+Solidity   1 hr 4 mins    █▍░░░░░░░░░░░░░░░░░░░   7.0%
 ```
 
 <!-- code_time ends -->
