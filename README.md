@@ -13,7 +13,7 @@
 
 <br />
 
-I'm [Yu Zhang](https://www.pseudoyu.com), Blockchain Developer, MSc Graduate in ECIC(Electronic Commerce and Internet Computing) @ The University of Hong Kong (HKU). Love to learn and build things. Follow me on [GitHub](https://github.com/pseudoyu). Know me on [Telegram Channel](https://t.me/pseudoyulife).
+I'm [pseudoyu](https://www.pseudoyu.com), Blockchain Developer, MSc Graduate in ECIC(Electronic Commerce and Internet Computing) @ The University of Hong Kong (HKU). Love to learn and build things. Follow me on [GitHub](https://github.com/pseudoyu). Know me on [Telegram Channel](https://t.me/pseudoyulife).
 
 I want to learn things and become a better person. I enjoy reading, thinking and writing in my leisure time.
 
@@ -72,7 +72,7 @@ JSON       1 min          ▏░░░░░░░░░░░░░░░░░
         <tr>
           <td align="center">
             <a href="https://github.com/gocn">
-              <img src="https://avatars.githubusercontent.com/u/4868496?s=150&v=4" />
+              <img src="https://avatars.githubusercontent.com/u/82145280?s=200&v=4" />
             </a>
           </td>
           <td align="center">
