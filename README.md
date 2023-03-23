@@ -71,7 +71,7 @@ JSON       1 min          ▏░░░░░░░░░░░░░░░░░
       <table>
         <tr>
           <td align="center">
-            <a href="https://github.com/gocn">
+            <a href="https://github.com/NaturalSelectionLabs">
               <img src="https://avatars.githubusercontent.com/u/82145280?s=200&v=4" />
             </a>
           </td>
