@@ -30,22 +30,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/04/30/weekly_review_20230430/ target='_blank'>周报 #38 - Foundry 合约测试、Logseq 任务管理与 Surge Ponte 远程开发</a>
 * <a href=https://www.pseudoyu.com/zh/2023/04/18/weekly_review_20230418/ target='_blank'>周报 #37 - 浮生半月闲（ 武汉 | 香港 | 五月天）</a>
 * <a href=https://www.pseudoyu.com/zh/2023/04/02/weekly_review_20230402/ target='_blank'>周报 #36 - 肠胃炎、捏捏近况与新的旅途</a>
 * <a href=https://www.pseudoyu.com/zh/2023/03/24/weekly_review_20230324/ target='_blank'>周报 #35 - 登报、搬家和生病的捏捏</a>
 * <a href=https://www.pseudoyu.com/zh/2023/03/13/weekly_review_20230313/ target='_blank'>周报 #34 - Don't Stop the Clocks</a>
 * <a href=https://www.pseudoyu.com/zh/2023/03/07/weekly_review_20230307/ target='_blank'>周报 #33 - 北京 x 故事 x 离别</a>
-* <a href=https://www.pseudoyu.com/zh/2023/02/26/weekly_review_20230226/ target='_blank'>周报 #32 - 武汉、久别重逢与流动的心绪</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35936775/' target='_blank'>在看【我推的孩子】</a> - 2023-04-29
 * <a href='http://movie.douban.com/subject/35769236/' target='_blank'>在看鬼灭之刃 锻刀村篇</a> - 2023-04-25
 * <a href='http://movie.douban.com/subject/35101436/' target='_blank'>在看成瘾剂量</a> - 2023-04-01
 * <a href='https://book.douban.com/subject/36091022/' target='_blank'>最近在读毛姆随笔集</a> - 2023-03-26
 * <a href='http://movie.douban.com/subject/27028592/' target='_blank'>看过重生计划 完结篇</a> - 2023-03-20
-* <a href='http://movie.douban.com/subject/26328122/' target='_blank'>看过重生计划</a> - 2023-03-20
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -53,11 +53,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Solidity   7 hrs 31 mins  ███████▏░░░░░░░░░░░░░  34.1%
-Go         7 hrs 25 mins  ███████░░░░░░░░░░░░░░  33.6%
-Other      1 hr 44 mins   █▋░░░░░░░░░░░░░░░░░░░   7.9%
-YAML       1 hr 43 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
-TypeScript 1 hr 1 min     ▉░░░░░░░░░░░░░░░░░░░░   4.6%
+Solidity   7 hrs 46 mins  ██████▍░░░░░░░░░░░░░░  30.4%
+Go         7 hrs 25 mins  ██████░░░░░░░░░░░░░░░  29.1%
+Other      3 hrs 39 mins  ██▉░░░░░░░░░░░░░░░░░░  14.3%
+YAML       1 hr 43 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
+sh         1 hr 29 mins   █▏░░░░░░░░░░░░░░░░░░░   5.8%
 ```
 
 <!-- code_time ends -->
