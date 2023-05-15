@@ -52,11 +52,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         7 hrs 29 mins  ███████████▋░░░░░░░░░  55.7%
-TypeScript 2 hrs 29 mins  ███▉░░░░░░░░░░░░░░░░░  18.5%
-Other      51 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
-sh         44 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
-Solidity   30 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+Go         7 hrs 29 mins  ███████████▉░░░░░░░░░  56.8%
+TypeScript 2 hrs 29 mins  ███▉░░░░░░░░░░░░░░░░░  18.9%
+Other      51 mins        █▍░░░░░░░░░░░░░░░░░░░   6.5%
+sh         42 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+Solidity   27 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 <!-- code_time ends -->
