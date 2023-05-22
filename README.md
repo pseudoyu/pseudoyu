@@ -29,22 +29,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/05/20/weekly_review_20230520/ target='_blank'>周报 #39 - 初患新冠、过去的心绪与失而复得的分享欲</a>
 * <a href=https://www.pseudoyu.com/zh/2023/04/30/weekly_review_20230430/ target='_blank'>周报 #38 - Foundry 合约测试、Logseq 任务管理与 Surge Ponte 远程开发</a>
 * <a href=https://www.pseudoyu.com/zh/2023/04/18/weekly_review_20230418/ target='_blank'>周报 #37 - 浮生半月闲（ 武汉 | 香港 | 五月天）</a>
 * <a href=https://www.pseudoyu.com/zh/2023/04/02/weekly_review_20230402/ target='_blank'>周报 #36 - 肠胃炎、捏捏近况与新的旅途</a>
 * <a href=https://www.pseudoyu.com/zh/2023/03/24/weekly_review_20230324/ target='_blank'>周报 #35 - 登报、搬家和生病的捏捏</a>
 * <a href=https://www.pseudoyu.com/zh/2023/03/13/weekly_review_20230313/ target='_blank'>周报 #34 - Don't Stop the Clocks</a>
-* <a href=https://www.pseudoyu.com/zh/2023/03/07/weekly_review_20230307/ target='_blank'>周报 #33 - 北京 x 故事 x 离别</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35256195/' target='_blank'>看过电锯人</a> - 2023-05-21
+* <a href='http://movie.douban.com/subject/35417872/' target='_blank'>看过异世界归来的舅舅</a> - 2023-05-21
+* <a href='http://movie.douban.com/subject/4195678/' target='_blank'>看过四叠半神话大系</a> - 2023-05-21
 * <a href='https://book.douban.com/subject/5321895/' target='_blank'>想读那些忧伤的年轻人</a> - 2023-05-12
 * <a href='http://movie.douban.com/subject/35588177/' target='_blank'>想看漫长的季节</a> - 2023-05-03
-* <a href='http://movie.douban.com/subject/35936775/' target='_blank'>在看【我推的孩子】</a> - 2023-04-29
-* <a href='http://movie.douban.com/subject/35769236/' target='_blank'>在看鬼灭之刃 锻刀村篇</a> - 2023-04-25
-* <a href='http://movie.douban.com/subject/35101436/' target='_blank'>在看成瘾剂量</a> - 2023-04-01
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -52,11 +52,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         30 hrs 16 mins ██████████████████▎░░  87.0%
-YAML       2 hrs 22 mins  █▍░░░░░░░░░░░░░░░░░░░   6.8%
-Other      1 hr           ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-Markdown   29 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-SSH Config 14 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Go         30 hrs 25 mins ████████████████▍░░░░  78.3%
+Markdown   3 hrs 41 mins  █▉░░░░░░░░░░░░░░░░░░░   9.5%
+YAML       2 hrs 22 mins  █▎░░░░░░░░░░░░░░░░░░░   6.1%
+Other      1 hr 9 mins    ▌░░░░░░░░░░░░░░░░░░░░   3.0%
+JSON       23 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time ends -->
