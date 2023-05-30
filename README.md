@@ -29,12 +29,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/05/30/weekly_review_20230530/ target='_blank'>周报 #40 - 开源之夏、代码之外与流逝的睡眠</a>
 * <a href=https://www.pseudoyu.com/zh/2023/05/20/weekly_review_20230520/ target='_blank'>周报 #39 - 初患新冠、过去的心绪与失而复得的分享欲</a>
 * <a href=https://www.pseudoyu.com/zh/2023/04/30/weekly_review_20230430/ target='_blank'>周报 #38 - Foundry 合约测试、Logseq 任务管理与 Surge Ponte 远程开发</a>
 * <a href=https://www.pseudoyu.com/zh/2023/04/18/weekly_review_20230418/ target='_blank'>周报 #37 - 浮生半月闲（ 武汉 | 香港 | 五月天）</a>
 * <a href=https://www.pseudoyu.com/zh/2023/04/02/weekly_review_20230402/ target='_blank'>周报 #36 - 肠胃炎、捏捏近况与新的旅途</a>
 * <a href=https://www.pseudoyu.com/zh/2023/03/24/weekly_review_20230324/ target='_blank'>周报 #35 - 登报、搬家和生病的捏捏</a>
-* <a href=https://www.pseudoyu.com/zh/2023/03/13/weekly_review_20230313/ target='_blank'>周报 #34 - Don't Stop the Clocks</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
