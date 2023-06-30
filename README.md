@@ -52,8 +52,9 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         3 hrs 13 mins  ███████████████████░░  90.6%
-YAML       20 mins        █▉░░░░░░░░░░░░░░░░░░░   9.4%
+Go         3 hrs 42 mins  █████████████████▌░░░  83.5%
+YAML       30 mins        ██▍░░░░░░░░░░░░░░░░░░  11.4%
+Text       13 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
 ```
 
 <!-- code_time ends -->
