@@ -6,7 +6,6 @@
 
 [![yu-blog](https://img.shields.io/badge/blog-yu-9cf?style=flat-square)](https://www.pseudoyu.com)
 [![@pseudoyu](https://img.shields.io/badge/weibo-%40pseudoyu-critical?style=flat-square)](https://weibo.com/3675416370/profile)
-[![kitty-misty](https://img.shields.io/badge/kitty-misty-pink?style=flat-square)](https://github.com/M1styDay)
 [![GitHub](https://img.shields.io/github/followers/pseudoyu?logo=github&style=flat-square)](https://github.com/pseudoyu)
 [![Visits Badge](https://badges.strrl.dev/visits/pseudoyu/pseudoyu?style=flat-square)](https://github.com/pseudoyu)
 
