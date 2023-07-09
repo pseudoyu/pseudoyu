@@ -40,11 +40,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/30358098/' target='_blank'>想看摇曳露营△ 第二季</a> - 2023-07-09
+* <a href='http://movie.douban.com/subject/27077082/' target='_blank'>想看摇曳露营△</a> - 2023-07-09
+* <a href='http://movie.douban.com/subject/35901863/' target='_blank'>看过黑镜 第六季</a> - 2023-07-09
+* <a href='http://movie.douban.com/subject/36155049/' target='_blank'>想看古相思曲</a> - 2023-07-09
 * <a href='http://movie.douban.com/subject/35660795/' target='_blank'>看过消失的她</a> - 2023-06-28
-* <a href='https://book.douban.com/subject/26697791/' target='_blank'>最近在读鲁迅杂文集</a> - 2023-06-22
-* <a href='http://movie.douban.com/subject/35580265/' target='_blank'>看过某个男人</a> - 2023-06-22
-* <a href='http://movie.douban.com/subject/35769236/' target='_blank'>看过鬼灭之刃 锻刀村篇</a> - 2023-06-19
-* <a href='http://movie.douban.com/subject/35901863/' target='_blank'>在看黑镜 第六季</a> - 2023-06-18
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
