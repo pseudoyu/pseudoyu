@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/09/05/my_personal_pkm_input_output_system/ target='_blank'>个人信息获取与知识管理系统（Heptabase + Logseq + Readwise）</a>
 * <a href=https://www.pseudoyu.com/zh/2023/08/15/weekly_review_20230815/ target='_blank'>周报 #44 - 静寂工人、xLog 与日常</a>
 * <a href=https://www.pseudoyu.com/zh/2023/07/10/weekly_review_20230710/ target='_blank'>周报 #43 - In the Mood for Love</a>
 * <a href=https://www.pseudoyu.com/zh/2023/06/21/weekly_review_20230621/ target='_blank'>周报 #42 - 感情观、生活状态与自我</a>
 * <a href=https://www.pseudoyu.com/zh/2023/06/12/weekly_review_20230612/ target='_blank'>周报 #41 - 生日的仪式感、时间管理与北京之行</a>
 * <a href=https://www.pseudoyu.com/zh/2023/06/06/yearly_review_26/ target='_blank'>26 岁的自白：推石头的人</a>
-* <a href=https://www.pseudoyu.com/zh/2023/05/30/weekly_review_20230530/ target='_blank'>周报 #40 - 开源之夏、代码之外与流逝的睡眠</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/35627242/' target='_blank'>想读我们内心的冲突</a> - 2023-09-01
-* <a href='https://book.douban.com/subject/36366986/' target='_blank'>想读日本游戏开发者口述史</a> - 2023-08-29
-* <a href='https://book.douban.com/subject/36484131/' target='_blank'>最近在读The PARA Method</a> - 2023-08-29
-* <a href='https://book.douban.com/subject/35761116/' target='_blank'>最近在读Building a Second Brain</a> - 2023-08-29
-* <a href='http://movie.douban.com/subject/35573308/' target='_blank'>看过绝世网红</a> - 2023-08-26
+* <a href='http://movie.douban.com/subject/34807113/' target='_blank'>看过走进比尔：解码比尔·盖茨</a> - 2023-09-05
+* <a href='https://book.douban.com/subject/26660579/' target='_blank'>想读直视骄阳：征服死亡恐惧</a> - 2023-09-04
+* <a href='https://book.douban.com/subject/36331321/' target='_blank'>想读Impromptu</a> - 2023-09-04
+* <a href='https://book.douban.com/subject/26349517/' target='_blank'>想读非普通读者</a> - 2023-09-04
+* <a href='https://book.douban.com/subject/35506012/' target='_blank'>想读The Missing README</a> - 2023-09-04
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Solidity   15 hrs 26 mins ███████████░░░░░░░░░░  52.8%
-Go         7 hrs 38 mins  █████▍░░░░░░░░░░░░░░░  26.1%
-YAML       1 hr 43 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
-TypeScript 1 hr 6 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-Ezhil      32 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Solidity   21 hrs 51 mins ████████████▋░░░░░░░░  60.5%
+Go         8 hrs 17 mins  ████▊░░░░░░░░░░░░░░░░  22.9%
+YAML       1 hr 45 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
+TypeScript 1 hr 7 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Ezhil      42 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 
 <!-- code_time ends -->
