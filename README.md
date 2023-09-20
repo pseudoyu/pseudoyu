@@ -40,9 +40,10 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 
 <!-- douban starts -->
 * <a href='http://movie.douban.com/subject/35593344/' target='_blank'>看过奥本海默</a> - 2023-09-17
+* <a href='https://book.douban.com/subject/36414284/' target='_blank'>最近在读Elon Musk</a> - 2023-09-16
 * <a href='http://movie.douban.com/subject/2338055/' target='_blank'>想看西部世界 第一季</a> - 2023-09-12
 * <a href='http://movie.douban.com/subject/33394370/' target='_blank'>在看街头绝味 第一季</a> - 2023-09-10
-* <a href='http://movie.douban.com/subject/34807113/' target='_blank'>看过走进比尔：解码比尔·盖茨</a> - 2023-09-05
+* <a href='https://book.douban.com/subject/26774193/' target='_blank'>想读神经症与人的成长</a> - 2023-09-06
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -50,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         12 hrs 33 mins █████████████▎░░░░░░░  63.6%
-Markdown   4 hrs 59 mins  █████▎░░░░░░░░░░░░░░░  25.3%
-Python     1 hr 42 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
-YAML       10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
-Objecti... 9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Go         17 hrs 25 mins ██████████████▉░░░░░░  71.0%
+Markdown   4 hrs 59 mins  ████▎░░░░░░░░░░░░░░░░  20.4%
+Python     1 hr 42 mins   █▍░░░░░░░░░░░░░░░░░░░   6.9%
+YAML       12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Other      5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
 <!-- code_time ends -->
