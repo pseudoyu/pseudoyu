@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/11/07/weekly_review_20231107/ target='_blank'>周报 #48 - 内蒙之行、清迈游民、重启的周报与生活</a>
 * <a href=https://www.pseudoyu.com/zh/2023/09/17/weekly_review_20230917/ target='_blank'>周报 #47 - 采访、拳击与工作状态</a>
 * <a href=https://www.pseudoyu.com/zh/2023/09/13/weekly_review_20230913/ target='_blank'>周报 #46 - 告别长发、周报初心与合约开发</a>
 * <a href=https://www.pseudoyu.com/zh/2023/09/05/my_personal_pkm_input_output_system/ target='_blank'>个人信息获取与知识管理系统（Heptabase + Logseq + Readwise）</a>
 * <a href=https://www.pseudoyu.com/zh/2023/09/04/weekly_review_20230904/ target='_blank'>周报 #45 - 读书笔记、知识管理与双城生活</a>
 * <a href=https://www.pseudoyu.com/zh/2023/08/15/weekly_review_20230815/ target='_blank'>周报 #44 - 静寂工人、xLog 与日常</a>
-* <a href=https://www.pseudoyu.com/zh/2023/07/10/weekly_review_20230710/ target='_blank'>周报 #43 - In the Mood for Love</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         1 hr 43 mins   █████▌░░░░░░░░░░░░░░░  26.4%
-Solidity   1 hr 3 mins    ███▍░░░░░░░░░░░░░░░░░  16.2%
-Markdown   1 hr 1 min     ███▎░░░░░░░░░░░░░░░░░  15.6%
-TypeScript 58 mins        ███▏░░░░░░░░░░░░░░░░░  14.9%
-YAML       43 mins        ██▎░░░░░░░░░░░░░░░░░░  11.2%
+Markdown   4 hrs          ██████▌░░░░░░░░░░░░░░  31.4%
+Solidity   3 hrs 56 mins  ██████▍░░░░░░░░░░░░░░  30.8%
+Go         1 hr 43 mins   ██▊░░░░░░░░░░░░░░░░░░  13.5%
+TypeScript 1 hr 6 mins    █▊░░░░░░░░░░░░░░░░░░░   8.7%
+YAML       43 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
 ```
 
 <!-- code_time ends -->
