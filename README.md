@@ -28,22 +28,18 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/11/21/weekly_review_20231122/ target='_blank'>周报 #50 - 天坛漫步、重拾阅读和费曼学习法</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/12/weekly_review_20231112/ target='_blank'>周报 #49 - 烧焦的键盘、庞贝神话展、健康调整与神奇的梦</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/07/weekly_review_20231107/ target='_blank'>周报 #48 - 内蒙之行、清迈游民、重启的周报与生活</a>
 * <a href=https://www.pseudoyu.com/zh/2023/09/17/weekly_review_20230917/ target='_blank'>周报 #47 - 采访、拳击与工作状态</a>
 * <a href=https://www.pseudoyu.com/zh/2023/09/13/weekly_review_20230913/ target='_blank'>周报 #46 - 告别长发、周报初心与合约开发</a>
 * <a href=https://www.pseudoyu.com/zh/2023/09/05/my_personal_pkm_input_output_system/ target='_blank'>个人信息获取与知识管理系统（Heptabase + Logseq + Readwise）</a>
-* <a href=https://www.pseudoyu.com/zh/2023/09/04/weekly_review_20230904/ target='_blank'>周报 #45 - 读书笔记、知识管理与双城生活</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/36190888/' target='_blank'>在看间谍过家家 第二季</a> - 2023-11-20
-* <a href='http://movie.douban.com/subject/27081753/' target='_blank'>看过机智牢房生活</a> - 2023-11-20
-* <a href='http://movie.douban.com/subject/27069431/' target='_blank'>看过冥王</a> - 2023-11-20
-* <a href='https://book.douban.com/subject/36550765/' target='_blank'>最近在读今日简史</a> - 2023-11-17
-* <a href='https://book.douban.com/subject/36484131/' target='_blank'>读过The PARA Method</a> - 2023-11-17
+
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -51,11 +47,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         4 hrs 44 mins  █████████▉░░░░░░░░░░░  47.6%
-Solidity   2 hrs 48 mins  █████▉░░░░░░░░░░░░░░░  28.2%
-YAML       44 mins        █▌░░░░░░░░░░░░░░░░░░░   7.5%
-Other      21 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-JSON       19 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Go         3 hrs 55 mins  ███████░░░░░░░░░░░░░░  33.8%
+Markdown   2 hrs 54 mins  █████▎░░░░░░░░░░░░░░░  25.1%
+Solidity   2 hrs 48 mins  █████░░░░░░░░░░░░░░░░  24.3%
+YAML       44 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
+Other      23 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
 ```
 
 <!-- code_time ends -->
