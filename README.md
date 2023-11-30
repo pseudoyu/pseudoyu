@@ -28,20 +28,20 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/11/29/weekly_review_20231129/ target='_blank'>周报 #51 - 追星小鹿 Lawrence 与生病</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/21/weekly_review_20231122/ target='_blank'>周报 #50 - 天坛漫步、重拾阅读和费曼学习法</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/12/weekly_review_20231112/ target='_blank'>周报 #49 - 烧焦的键盘、庞贝神话展、健康调整与神奇的梦</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/07/weekly_review_20231107/ target='_blank'>周报 #48 - 内蒙之行、清迈游民、重启的周报与生活</a>
 * <a href=https://www.pseudoyu.com/zh/2023/09/17/weekly_review_20230917/ target='_blank'>周报 #47 - 采访、拳击与工作状态</a>
 * <a href=https://www.pseudoyu.com/zh/2023/09/13/weekly_review_20230913/ target='_blank'>周报 #46 - 告别长发、周报初心与合约开发</a>
-* <a href=https://www.pseudoyu.com/zh/2023/09/05/my_personal_pkm_input_output_system/ target='_blank'>个人信息获取与知识管理系统（Heptabase + Logseq + Readwise）</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/6764127/' target='_blank'>读过Up At the Villa</a> - 2023-11-29
 * <a href='https://book.douban.com/subject/34978919/' target='_blank'>想读拒看新聞的生活藝術</a> - 2023-11-27
 * <a href='https://book.douban.com/subject/26774193/' target='_blank'>最近在读神经症与人的成长</a> - 2023-11-27
-* <a href='https://book.douban.com/subject/6764127/' target='_blank'>最近在读Up At the Villa</a> - 2023-11-25
 * <a href='http://movie.douban.com/subject/36190888/' target='_blank'>在看间谍过家家 第二季</a> - 2023-11-20
 * <a href='http://movie.douban.com/subject/27081753/' target='_blank'>看过机智牢房生活</a> - 2023-11-20
 <!-- douban ends -->
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         6 hrs 24 mins  ██████████▍░░░░░░░░░░  49.5%
-Markdown   2 hrs 46 mins  ████▍░░░░░░░░░░░░░░░░  21.4%
-Solidity   1 hr 43 mins   ██▊░░░░░░░░░░░░░░░░░░  13.4%
-TypeScript 1 hr 15 mins   ██░░░░░░░░░░░░░░░░░░░   9.7%
-Bash       27 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Go         9 hrs 4 mins   ███████████▍░░░░░░░░░  54.8%
+Markdown   3 hrs 45 mins  ████▊░░░░░░░░░░░░░░░░  22.6%
+Solidity   1 hr 43 mins   ██▏░░░░░░░░░░░░░░░░░░  10.4%
+TypeScript 1 hr 15 mins   █▌░░░░░░░░░░░░░░░░░░░   7.6%
+Bash       27 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
 ```
 
 <!-- code_time ends -->
