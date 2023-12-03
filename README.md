@@ -1,5 +1,5 @@
 <p align="center">
- <h3 align="center">:octocat: Learning :octocat:</h3>
+ <h3 align="center">🧑🏻‍💻 Learning 🧑🏻‍💻</h3>
 </p>
 
 ### Hi there ✋
