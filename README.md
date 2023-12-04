@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/ target='_blank'>周报 #52 - 自谦型人格与感情的另一个视角</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/29/weekly_review_20231129/ target='_blank'>周报 #51 - 追星小鹿 Lawrence 与生病</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/21/weekly_review_20231122/ target='_blank'>周报 #50 - 天坛漫步、重拾阅读和费曼学习法</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/12/weekly_review_20231112/ target='_blank'>周报 #49 - 烧焦的键盘、庞贝神话展、健康调整与神奇的梦</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/07/weekly_review_20231107/ target='_blank'>周报 #48 - 内蒙之行、清迈游民、重启的周报与生活</a>
 * <a href=https://www.pseudoyu.com/zh/2023/09/17/weekly_review_20230917/ target='_blank'>周报 #47 - 采访、拳击与工作状态</a>
-* <a href=https://www.pseudoyu.com/zh/2023/09/13/weekly_review_20230913/ target='_blank'>周报 #46 - 告别长发、周报初心与合约开发</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/26774193/' target='_blank'>读过神经症与人的成长</a> - 2023-12-03
 * <a href='http://movie.douban.com/subject/36093351/' target='_blank'>在看葬送的芙莉莲</a> - 2023-12-02
 * <a href='https://book.douban.com/subject/35754687/' target='_blank'>最近在读What My Bones Know</a> - 2023-12-01
 * <a href='https://book.douban.com/subject/6764127/' target='_blank'>读过Up At the Villa</a> - 2023-11-29
 * <a href='https://book.douban.com/subject/34978919/' target='_blank'>想读拒看新聞的生活藝術</a> - 2023-11-27
-* <a href='https://book.douban.com/subject/26774193/' target='_blank'>最近在读神经症与人的成长</a> - 2023-11-27
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -51,10 +51,10 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         13 hrs 22 mins █████████████▏░░░░░░░  63.1%
-Markdown   3 hrs 44 mins  ███▋░░░░░░░░░░░░░░░░░  17.7%
-Solidity   1 hr 43 mins   █▋░░░░░░░░░░░░░░░░░░░   8.2%
-TypeScript 1 hr 24 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Go         13 hrs 22 mins ████████████▊░░░░░░░░  61.3%
+Markdown   4 hrs 19 mins  ████▏░░░░░░░░░░░░░░░░  19.8%
+Solidity   1 hr 43 mins   █▋░░░░░░░░░░░░░░░░░░░   7.9%
+TypeScript 1 hr 24 mins   █▎░░░░░░░░░░░░░░░░░░░   6.5%
 Bash       34 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
 ```
 
