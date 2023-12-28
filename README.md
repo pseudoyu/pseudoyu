@@ -74,8 +74,8 @@ go.mod     2 mins         ░░░░░░░░░░░░░░░░░░
             </a>
           </td>
           <td align="center">
-            <a href="https://github.com/thewancc">
-              <img src="https://avatars.githubusercontent.com/u/120248860?s=150&v=4" />
+            <a href="https://github.com/rss3-network">
+              <img src="https://avatars.githubusercontent.com/u/152575164?s=200&v=4" />
             </a>
           </td>
         </tr>
