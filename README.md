@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         11 hrs 25 mins █████████████████▏░░░  81.8%
-YAML       1 hr 37 mins   ██▍░░░░░░░░░░░░░░░░░░  11.6%
-Solidity   33 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-go.mod     7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Other      6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Go         12 hrs 26 mins ███████████████▊░░░░░  75.6%
+YAML       3 hrs 7 mins   ███▉░░░░░░░░░░░░░░░░░  18.9%
+Solidity   33 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Other      7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Text       6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
 
 <!-- code_time ends -->
