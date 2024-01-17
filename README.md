@@ -39,7 +39,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-
+* <a href='https://book.douban.com/subject/36084340/' target='_blank'>想读命运</a> - 2024-01-16
+* <a href='https://book.douban.com/subject/30208077/' target='_blank'>想读禅与摩托车维修艺术</a> - 2024-01-16
+* <a href='http://movie.douban.com/subject/3892394/' target='_blank'>想看仁医</a> - 2024-01-15
+* <a href='http://movie.douban.com/subject/33425914/' target='_blank'>想看做工的人</a> - 2024-01-15
+* <a href='http://movie.douban.com/subject/33456512/' target='_blank'>想看涉过愤怒的海</a> - 2024-01-15
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -47,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         10 hrs         ██████████████▍░░░░░░  68.8%
-YAML       3 hrs 31 mins  █████░░░░░░░░░░░░░░░░  24.3%
-Other      28 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+Go         10 hrs 1 min   ██████████████▉░░░░░░  71.3%
+YAML       3 hrs 9 mins   ████▋░░░░░░░░░░░░░░░░  22.5%
+Other      28 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
 Makefile   17 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-Solidity   7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Text       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time ends -->
