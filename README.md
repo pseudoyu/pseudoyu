@@ -51,7 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         0 secs         █████████████████████ 100.0%
+Other      48 mins        ██████▍░░░░░░░░░░░░░░  30.8%
+HTML       34 mins        ████▌░░░░░░░░░░░░░░░░  21.7%
+TOML       32 mins        ████▎░░░░░░░░░░░░░░░░  20.8%
+Bash       12 mins        █▋░░░░░░░░░░░░░░░░░░░   8.1%
+Go         10 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
 ```
 
 <!-- code_time ends -->
