@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229/ target='_blank'>周报 #53 - 空白的三个月、生活漂流与春节</a>
 * <a href=https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/ target='_blank'>周报 #52 - 自谦型人格与感情的另一个视角</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/29/weekly_review_20231129/ target='_blank'>周报 #51 - 追星小鹿 Lawrence 与生病</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/21/weekly_review_20231122/ target='_blank'>周报 #50 - 天坛漫步、重拾阅读和费曼学习法</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/12/weekly_review_20231112/ target='_blank'>周报 #49 - 烧焦的键盘、庞贝神话展、健康调整与神奇的梦</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/07/weekly_review_20231107/ target='_blank'>周报 #48 - 内蒙之行、清迈游民、重启的周报与生活</a>
-* <a href=https://www.pseudoyu.com/zh/2023/09/17/weekly_review_20230917/ target='_blank'>周报 #47 - 采访、拳击与工作状态</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         9 hrs 3 mins   █████████████▋░░░░░░░  65.2%
-Bash       2 hrs 20 mins  ███▌░░░░░░░░░░░░░░░░░  16.8%
-Other      37 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
-YAML       20 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-Markdown   18 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Go         6 hrs 28 mins  ████████▋░░░░░░░░░░░░  41.4%
+Markdown   4 hrs 24 mins  █████▉░░░░░░░░░░░░░░░  28.1%
+Bash       2 hrs 49 mins  ███▊░░░░░░░░░░░░░░░░░  18.0%
+Other      36 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+TypeScript 15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 <!-- code_time ends -->
