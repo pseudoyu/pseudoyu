@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         5 hrs 27 mins  ██████████▋░░░░░░░░░░  50.6%
-TypeScript 1 hr 1 min     █▉░░░░░░░░░░░░░░░░░░░   9.4%
-Solidity   55 mins        █▊░░░░░░░░░░░░░░░░░░░   8.6%
-YAML       39 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
-JSON       31 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
+Go         3 hrs 28 mins  ███████▌░░░░░░░░░░░░░  36.2%
+TypeScript 1 hr 2 mins    ██▎░░░░░░░░░░░░░░░░░░  10.9%
+Solidity   55 mins        ██░░░░░░░░░░░░░░░░░░░   9.7%
+YAML       52 mins        █▉░░░░░░░░░░░░░░░░░░░   9.1%
+Bash       40 mins        █▍░░░░░░░░░░░░░░░░░░░   7.0%
 ```
 
 <!-- code_time ends -->
