@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324/ target='_blank'>周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316/ target='_blank'>周报 #54 - 漂流计划、钱包被盗与 Home Server</a>
 * <a href=https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229/ target='_blank'>周报 #53 - 空白的三个月、生活漂流与春节</a>
 * <a href=https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/ target='_blank'>周报 #52 - 自谦型人格与感情的另一个视角</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/29/weekly_review_20231129/ target='_blank'>周报 #51 - 追星小鹿 Lawrence 与生病</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/21/weekly_review_20231122/ target='_blank'>周报 #50 - 天坛漫步、重拾阅读和费曼学习法</a>
-* <a href=https://www.pseudoyu.com/zh/2023/11/12/weekly_review_20231112/ target='_blank'>周报 #49 - 烧焦的键盘、庞贝神话展、健康调整与神奇的梦</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/26892084/' target='_blank'>想读降临</a> - 2024-03-24
+* <a href='http://movie.douban.com/subject/35575567/' target='_blank'>想看沙丘2</a> - 2024-03-24
+* <a href='http://movie.douban.com/subject/3001114/' target='_blank'>想看沙丘</a> - 2024-03-24
 * <a href='http://movie.douban.com/subject/35196946/' target='_blank'>在看三体 第一季</a> - 2024-03-22
 * <a href='https://book.douban.com/subject/34802764/' target='_blank'>最近在读加缪手记</a> - 2024-03-20
-* <a href='https://book.douban.com/subject/35218475/' target='_blank'>想读变形记</a> - 2024-03-19
-* <a href='http://movie.douban.com/subject/35426925/' target='_blank'>想看机器人之梦</a> - 2024-03-05
-* <a href='http://movie.douban.com/subject/35417202/' target='_blank'>想看地球改变之年</a> - 2024-03-05
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         16 hrs 5 mins  ███████████▎░░░░░░░░░  53.9%
-YAML       4 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░  14.6%
-TOML       1 hr 58 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
-Docker     1 hr 46 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
-JSON       1 hr 41 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Go         15 hrs 49 mins ███████████▉░░░░░░░░░  57.0%
+YAML       3 hrs 29 mins  ██▋░░░░░░░░░░░░░░░░░░  12.6%
+Markdown   2 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░   9.8%
+TOML       1 hr 35 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+JSON       1 hr 26 mins   █░░░░░░░░░░░░░░░░░░░░   5.2%
 ```
 
 <!-- code_time ends -->
