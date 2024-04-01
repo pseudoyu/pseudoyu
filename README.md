@@ -28,21 +28,21 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/ target='_blank'>周报 #56 - 面基 Randy 与考科目二</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324/ target='_blank'>周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316/ target='_blank'>周报 #54 - 漂流计划、钱包被盗与 Home Server</a>
 * <a href=https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229/ target='_blank'>周报 #53 - 空白的三个月、生活漂流与春节</a>
 * <a href=https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/ target='_blank'>周报 #52 - 自谦型人格与感情的另一个视角</a>
 * <a href=https://www.pseudoyu.com/zh/2023/11/29/weekly_review_20231129/ target='_blank'>周报 #51 - 追星小鹿 Lawrence 与生病</a>
-* <a href=https://www.pseudoyu.com/zh/2023/11/21/weekly_review_20231122/ target='_blank'>周报 #50 - 天坛漫步、重拾阅读和费曼学习法</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35196946/' target='_blank'>看过三体 第一季</a> - 2024-03-31
 * <a href='https://book.douban.com/subject/26892084/' target='_blank'>想读降临</a> - 2024-03-24
 * <a href='http://movie.douban.com/subject/35575567/' target='_blank'>想看沙丘2</a> - 2024-03-24
 * <a href='http://movie.douban.com/subject/3001114/' target='_blank'>想看沙丘</a> - 2024-03-24
-* <a href='http://movie.douban.com/subject/35196946/' target='_blank'>在看三体 第一季</a> - 2024-03-22
 * <a href='https://book.douban.com/subject/34802764/' target='_blank'>最近在读加缪手记</a> - 2024-03-20
 <!-- douban ends -->
 
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         8 hrs 10 mins  ██████████▋░░░░░░░░░░  51.1%
-Markdown   4 hrs 12 mins  █████▌░░░░░░░░░░░░░░░  26.3%
-YAML       1 hr 37 mins   ██▏░░░░░░░░░░░░░░░░░░  10.1%
-Solidity   48 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
-Other      32 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Go         8 hrs 9 mins   ██████████░░░░░░░░░░░  47.9%
+Markdown   5 hrs 13 mins  ██████▍░░░░░░░░░░░░░░  30.7%
+YAML       1 hr 37 mins   ██░░░░░░░░░░░░░░░░░░░   9.5%
+Solidity   48 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+Other      32 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
 ```
 
 <!-- code_time ends -->
