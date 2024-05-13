@@ -51,7 +51,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         21 hrs 37 mins ██████████████▉░░░░░░  71.3%
+Go         21 hrs 37 mins ██████████████▉░░░░░░  71.2%
 TypeScript 4 hrs 2 mins   ██▊░░░░░░░░░░░░░░░░░░  13.3%
 YAML       2 hrs 43 mins  █▉░░░░░░░░░░░░░░░░░░░   9.0%
 Docker     54 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
