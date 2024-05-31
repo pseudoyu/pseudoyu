@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/04/30/weekly_review_20240430/ target='_blank'>周报 #58 - 远程工作这一年</a>
+* <a href=https://www.pseudoyu.com/zh/2024/04/10/weekly_review_20240410/ target='_blank'>周报 #57 - 生活在别处（巴厘岛之行）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/ target='_blank'>周报 #56 - 面基 Randy 与考科目二</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324/ target='_blank'>周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316/ target='_blank'>周报 #54 - 漂流计划、钱包被盗与 Home Server</a>
 * <a href=https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229/ target='_blank'>周报 #53 - 空白的三个月、生活漂流与春节</a>
-* <a href=https://www.pseudoyu.com/zh/2023/12/03/weekly_review_20231203/ target='_blank'>周报 #52 - 自谦型人格与感情的另一个视角</a>
-* <a href=https://www.pseudoyu.com/zh/2023/11/29/weekly_review_20231129/ target='_blank'>周报 #51 - 追星小鹿 Lawrence 与生病</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35902857/' target='_blank'>想看完美的日子</a> - 2024-05-30
 * <a href='https://book.douban.com/subject/35171215/' target='_blank'>最近在读虫子旁</a> - 2024-05-25
 * <a href='http://movie.douban.com/subject/26689409/' target='_blank'>看过我的家里空无一物</a> - 2024-05-25
 * <a href='https://book.douban.com/subject/30144095/' target='_blank'>读过海边的卡夫卡</a> - 2024-05-25
 * <a href='http://movie.douban.com/subject/25777620/' target='_blank'>想看天才：游戏的法则</a> - 2024-05-24
-* <a href='http://movie.douban.com/subject/34937650/' target='_blank'>在看庆余年 第二季</a> - 2024-05-16
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-AsciiDoc   3 hrs 39 mins  █████▋░░░░░░░░░░░░░░░  27.0%
-Go         3 hrs 30 mins  █████▍░░░░░░░░░░░░░░░  25.9%
-TypeScript 3 hrs 14 mins  █████░░░░░░░░░░░░░░░░  24.0%
-YAML       1 hr 16 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
-Bash       25 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Go         6 hrs 19 mins  ███████▏░░░░░░░░░░░░░  34.3%
+YAML       3 hrs 31 mins  ████░░░░░░░░░░░░░░░░░  19.1%
+TypeScript 3 hrs 20 mins  ███▊░░░░░░░░░░░░░░░░░  18.1%
+AsciiDoc   3 hrs 20 mins  ███▊░░░░░░░░░░░░░░░░░  18.1%
+Bash       27 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 ```
 
 <!-- code_time ends -->
