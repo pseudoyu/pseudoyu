@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/05/15/weekly_review_20240515/ target='_blank'>周报 #59 - 沙漠之行、家庭与家人</a>
 * <a href=https://www.pseudoyu.com/zh/2024/04/30/weekly_review_20240430/ target='_blank'>周报 #58 - 远程工作这一年</a>
 * <a href=https://www.pseudoyu.com/zh/2024/04/10/weekly_review_20240410/ target='_blank'>周报 #57 - 生活在别处（巴厘岛之行）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/ target='_blank'>周报 #56 - 面基 Randy 与考科目二</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324/ target='_blank'>周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316/ target='_blank'>周报 #54 - 漂流计划、钱包被盗与 Home Server</a>
-* <a href=https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229/ target='_blank'>周报 #53 - 空白的三个月、生活漂流与春节</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         9 hrs 49 mins  ███████▋░░░░░░░░░░░░░  36.5%
-Markdown   7 hrs 51 mins  ██████▏░░░░░░░░░░░░░░  29.2%
-AsciiDoc   3 hrs 20 mins  ██▌░░░░░░░░░░░░░░░░░░  12.4%
-YAML       3 hrs 15 mins  ██▌░░░░░░░░░░░░░░░░░░  12.1%
-TypeScript 1 hr 15 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Markdown   9 hrs 52 mins  ███████▏░░░░░░░░░░░░░  34.1%
+Go         9 hrs 49 mins  ███████░░░░░░░░░░░░░░  33.9%
+AsciiDoc   3 hrs 20 mins  ██▍░░░░░░░░░░░░░░░░░░  11.5%
+YAML       3 hrs 15 mins  ██▎░░░░░░░░░░░░░░░░░░  11.3%
+TypeScript 1 hr 15 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.3%
 ```
 
 <!-- code_time ends -->
