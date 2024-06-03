@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/06/02/weekly_review_20240602/ target='_blank'>周报 #60 - 虫子旁、教育理念与 EpubKit</a>
 * <a href=https://www.pseudoyu.com/zh/2024/05/15/weekly_review_20240515/ target='_blank'>周报 #59 - 沙漠之行、家庭与家人</a>
 * <a href=https://www.pseudoyu.com/zh/2024/04/30/weekly_review_20240430/ target='_blank'>周报 #58 - 远程工作这一年</a>
 * <a href=https://www.pseudoyu.com/zh/2024/04/10/weekly_review_20240410/ target='_blank'>周报 #57 - 生活在别处（巴厘岛之行）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331/ target='_blank'>周报 #56 - 面基 Randy 与考科目二</a>
 * <a href=https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324/ target='_blank'>周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考</a>
-* <a href=https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316/ target='_blank'>周报 #54 - 漂流计划、钱包被盗与 Home Server</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/25777620/' target='_blank'>在看天才：游戏的法则</a> - 2024-06-02
 * <a href='http://movie.douban.com/subject/35902857/' target='_blank'>想看完美的日子</a> - 2024-05-30
 * <a href='https://book.douban.com/subject/35171215/' target='_blank'>最近在读虫子旁</a> - 2024-05-25
 * <a href='http://movie.douban.com/subject/26689409/' target='_blank'>看过我的家里空无一物</a> - 2024-05-25
 * <a href='https://book.douban.com/subject/30144095/' target='_blank'>读过海边的卡夫卡</a> - 2024-05-25
-* <a href='http://movie.douban.com/subject/25777620/' target='_blank'>想看天才：游戏的法则</a> - 2024-05-24
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
