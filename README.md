@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   4 hrs 40 mins  ███████████▋░░░░░░░░░  55.5%
-Go         1 hr 27 mins   ███▌░░░░░░░░░░░░░░░░░  17.2%
-Bash       41 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
-YAML       37 mins        █▌░░░░░░░░░░░░░░░░░░░   7.4%
-Makefile   14 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Go         7 hrs 33 mins  ███████████▎░░░░░░░░░  53.7%
+Markdown   4 hrs 30 mins  ██████▋░░░░░░░░░░░░░░  32.1%
+YAML       45 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%
+go.mod     33 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+TypeScript 12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time ends -->
