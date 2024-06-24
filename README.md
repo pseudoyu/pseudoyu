@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/06/23/weekly_review_20240623/ target='_blank'>周报 #62 - 香港之行、5am club 计划与 Rust 学习</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/16/weekly_review_20240616/ target='_blank'>周报 #61 - 好朋友的婚礼与对婚姻的思考</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/06/yearly_review_27/ target='_blank'>27 岁的自白：成长是一件很扫兴的事</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/02/weekly_review_20240602/ target='_blank'>周报 #60 - 虫子旁、教育理念与 EpubKit</a>
 * <a href=https://www.pseudoyu.com/zh/2024/05/15/weekly_review_20240515/ target='_blank'>周报 #59 - 沙漠之行、家庭与家人</a>
 * <a href=https://www.pseudoyu.com/zh/2024/04/30/weekly_review_20240430/ target='_blank'>周报 #58 - 远程工作这一年</a>
-* <a href=https://www.pseudoyu.com/zh/2024/04/10/weekly_review_20240410/ target='_blank'>周报 #57 - 生活在别处（巴厘岛之行）</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
