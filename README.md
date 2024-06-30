@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/06/29/what_changed_in_my_blog_2024/ target='_blank'>2024 年了，我的博客有了什么变化</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/23/weekly_review_20240623/ target='_blank'>周报 #62 - 香港之行、5am club 计划与 Rust 学习</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/16/weekly_review_20240616/ target='_blank'>周报 #61 - 好朋友的婚礼与对婚姻的思考</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/06/yearly_review_27/ target='_blank'>27 岁的自白：成长是一件很扫兴的事</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/02/weekly_review_20240602/ target='_blank'>周报 #60 - 虫子旁、教育理念与 EpubKit</a>
 * <a href=https://www.pseudoyu.com/zh/2024/05/15/weekly_review_20240515/ target='_blank'>周报 #59 - 沙漠之行、家庭与家人</a>
-* <a href=https://www.pseudoyu.com/zh/2024/04/30/weekly_review_20240430/ target='_blank'>周报 #58 - 远程工作这一年</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35587923/' target='_blank'>想看擅长捉弄的高木同学 剧场版</a> - 2024-06-29
 * <a href='http://movie.douban.com/subject/36631942/' target='_blank'>想看熊家餐馆 第三季</a> - 2024-06-29
 * <a href='http://movie.douban.com/subject/35993168/' target='_blank'>想看熊家餐馆 第二季</a> - 2024-06-29
 * <a href='https://book.douban.com/subject/34942548/' target='_blank'>想读源泉（珍藏版）</a> - 2024-06-25
 * <a href='https://book.douban.com/subject/34453257/' target='_blank'>最近在读Normal People</a> - 2024-06-23
-* <a href='https://book.douban.com/subject/35049755/' target='_blank'>读过索拉里斯星</a> - 2024-06-22
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   3 hrs 27 mins  █████▌░░░░░░░░░░░░░░░  26.2%
-Go         3 hrs 23 mins  █████▍░░░░░░░░░░░░░░░  25.7%
-Rust       2 hrs 35 mins  ████░░░░░░░░░░░░░░░░░  19.6%
-Solidity   1 hr 23 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
-Bash       25 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Markdown   6 hrs 39 mins  ████████▌░░░░░░░░░░░░  40.5%
+Go         3 hrs 23 mins  ████▎░░░░░░░░░░░░░░░░  20.6%
+Rust       2 hrs 35 mins  ███▎░░░░░░░░░░░░░░░░░  15.8%
+Solidity   1 hr 23 mins   █▊░░░░░░░░░░░░░░░░░░░   8.4%
+Bash       25 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
 ```
 
 <!-- code_time ends -->
