@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/07/01/rescue_my_data_from_a_crashed_server/ target='_blank'>当云服务器崩溃时，我是如何救援重要数据的</a>
+* <a href=https://www.pseudoyu.com/zh/2024/07/01/weekly_review_20240701/ target='_blank'>周报 #63 - 不愉快的订花经历、商家和消费者与日渐 AI 化的人</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo/ target='_blank'>从零开始搭建你的免费图床系统 （Cloudflare R2 + WebP Cloud + PicGo）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/29/what_changed_in_my_blog_2024/ target='_blank'>2024 年了，我的博客有了什么变化</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/23/weekly_review_20240623/ target='_blank'>周报 #62 - 香港之行、5am club 计划与 Rust 学习</a>
 * <a href=https://www.pseudoyu.com/zh/2024/06/16/weekly_review_20240616/ target='_blank'>周报 #61 - 好朋友的婚礼与对婚姻的思考</a>
-* <a href=https://www.pseudoyu.com/zh/2024/06/06/yearly_review_27/ target='_blank'>27 岁的自白：成长是一件很扫兴的事</a>
-* <a href=https://www.pseudoyu.com/zh/2024/06/02/weekly_review_20240602/ target='_blank'>周报 #60 - 虫子旁、教育理念与 EpubKit</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/36449810/' target='_blank'>想看鬼灭之刃 柱训练篇</a> - 2024-07-02
 * <a href='http://movie.douban.com/subject/35587923/' target='_blank'>想看擅长捉弄的高木同学 剧场版</a> - 2024-06-29
 * <a href='http://movie.douban.com/subject/36631942/' target='_blank'>想看熊家餐馆 第三季</a> - 2024-06-29
 * <a href='http://movie.douban.com/subject/35993168/' target='_blank'>想看熊家餐馆 第二季</a> - 2024-06-29
 * <a href='https://book.douban.com/subject/34942548/' target='_blank'>想读源泉（珍藏版）</a> - 2024-06-25
-* <a href='https://book.douban.com/subject/34453257/' target='_blank'>最近在读Normal People</a> - 2024-06-23
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   15 hrs 40 mins █████████████▏░░░░░░░  63.0%
-Go         3 hrs 23 mins  ██▊░░░░░░░░░░░░░░░░░░  13.6%
-Rust       2 hrs 17 mins  █▉░░░░░░░░░░░░░░░░░░░   9.2%
-Solidity   1 hr 23 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
-Makefile   21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Markdown   19 hrs 56 mins █████████████▍░░░░░░░  63.9%
+Go         6 hrs          ████░░░░░░░░░░░░░░░░░  19.2%
+Rust       2 hrs 17 mins  █▌░░░░░░░░░░░░░░░░░░░   7.3%
+Solidity   1 hr 9 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+Makefile   21 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time ends -->
