@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/07/22/free_commenting_system_using_remark42_and_flyio/ target='_blank'>从零开始搭建你的免费博客评论系统（Remark42 + fly.io）</a>
+* <a href=https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/ target='_blank'>周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/ target='_blank'>周报 #64 - 生活在此处（《斯通纳》与《Normal People》）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/02/protect_your_image_using_webp_and_cloudflare_waf/ target='_blank'>使用 WebP Cloud 与 Cloudflare WAF 为你的图床添加隐私和版权保护</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/01/rescue_my_data_from_a_crashed_server/ target='_blank'>当云服务器崩溃时，我是如何救援重要数据的</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/01/weekly_review_20240701/ target='_blank'>周报 #63 - 不愉快的订花经历、商家和消费者与日渐 AI 化的人</a>
-* <a href=https://www.pseudoyu.com/zh/2024/06/30/free_image_hosting_system_using_r2_webp_cloud_and_picgo/ target='_blank'>从零开始搭建你的免费图床系统 （Cloudflare R2 + WebP Cloud + PicGo）</a>
-* <a href=https://www.pseudoyu.com/zh/2024/06/29/what_changed_in_my_blog_2024/ target='_blank'>2024 年了，我的博客有了什么变化</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/36798526/' target='_blank'>读过Brave New Words</a> - 2024-07-21
 * <a href='https://book.douban.com/subject/34895571/' target='_blank'>想读饱食穷民</a> - 2024-07-18
 * <a href='https://book.douban.com/subject/34945817/' target='_blank'>最近在读Shape Up</a> - 2024-07-14
 * <a href='https://book.douban.com/subject/36191471/' target='_blank'>最近在读履单</a> - 2024-07-13
 * <a href='http://movie.douban.com/subject/35956190/' target='_blank'>想看走走停停</a> - 2024-07-13
-* <a href='https://book.douban.com/subject/36798526/' target='_blank'>最近在读Brave New Words</a> - 2024-07-12
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-TypeScript 8 hrs 49 mins  ████████▉░░░░░░░░░░░░  42.4%
-Go         6 hrs 31 mins  ██████▌░░░░░░░░░░░░░░  31.4%
-Solidity   1 hr 45 mins   █▊░░░░░░░░░░░░░░░░░░░   8.4%
-JSON       1 hr           █░░░░░░░░░░░░░░░░░░░░   4.9%
-Other      59 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.8%
+TypeScript 8 hrs 44 mins  ██████▍░░░░░░░░░░░░░░  30.9%
+Markdown   6 hrs 46 mins  █████░░░░░░░░░░░░░░░░  24.0%
+Go         6 hrs 31 mins  ████▊░░░░░░░░░░░░░░░░  23.1%
+Solidity   1 hr 45 mins   █▎░░░░░░░░░░░░░░░░░░░   6.2%
+JSON       1 hr 1 min     ▊░░░░░░░░░░░░░░░░░░░░   3.6%
 ```
 
 <!-- code_time ends -->
