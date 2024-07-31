@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730/ target='_blank'>周报 #66 - 10x 工程师、技术热情与个人工具箱</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/22/free_commenting_system_using_remark42_and_flyio/ target='_blank'>从零开始搭建你的免费博客评论系统（Remark42 + fly.io）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/ target='_blank'>周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/ target='_blank'>周报 #64 - 生活在此处（《斯通纳》与《Normal People》）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/02/protect_your_image_using_webp_and_cloudflare_waf/ target='_blank'>使用 WebP Cloud 与 Cloudflare WAF 为你的图床添加隐私和版权保护</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/01/rescue_my_data_from_a_crashed_server/ target='_blank'>当云服务器崩溃时，我是如何救援重要数据的</a>
-* <a href=https://www.pseudoyu.com/zh/2024/07/01/weekly_review_20240701/ target='_blank'>周报 #63 - 不愉快的订花经历、商家和消费者与日渐 AI 化的人</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         10 hrs 48 mins █████████▉░░░░░░░░░░░  47.5%
-TypeScript 5 hrs 19 mins  ████▉░░░░░░░░░░░░░░░░  23.4%
-YAML       1 hr 34 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
-JSON       1 hr 7 mins    █░░░░░░░░░░░░░░░░░░░░   4.9%
-Markdown   1 hr           ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Go         11 hrs 42 mins ██████████▏░░░░░░░░░░  48.6%
+TypeScript 3 hrs 45 mins  ███▎░░░░░░░░░░░░░░░░░  15.6%
+Markdown   2 hrs 29 mins  ██▏░░░░░░░░░░░░░░░░░░  10.4%
+JSON       1 hr 57 mins   █▋░░░░░░░░░░░░░░░░░░░   8.1%
+YAML       1 hr 29 mins   █▎░░░░░░░░░░░░░░░░░░░   6.2%
 ```
 
 <!-- code_time ends -->
