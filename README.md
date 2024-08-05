@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/08/05/weekly_review_20240805/ target='_blank'>周报 #67 - 使用 follow 重塑我的信息输入系统</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730/ target='_blank'>周报 #66 - 10x 工程师、技术热情与个人工具箱</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/22/free_commenting_system_using_remark42_and_flyio/ target='_blank'>从零开始搭建你的免费博客评论系统（Remark42 + fly.io）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/ target='_blank'>周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/ target='_blank'>周报 #64 - 生活在此处（《斯通纳》与《Normal People》）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/02/protect_your_image_using_webp_and_cloudflare_waf/ target='_blank'>使用 WebP Cloud 与 Cloudflare WAF 为你的图床添加隐私和版权保护</a>
-* <a href=https://www.pseudoyu.com/zh/2024/07/01/rescue_my_data_from_a_crashed_server/ target='_blank'>当云服务器崩溃时，我是如何救援重要数据的</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
