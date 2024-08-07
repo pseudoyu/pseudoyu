@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/08/06/deploy_web_statistics_system_using_goatcounter_and_zeabur/ target='_blank'>使用 GoatCounter 与 Zeabur 搭建网站数据统计系统</a>
 * <a href=https://www.pseudoyu.com/zh/2024/08/05/weekly_review_20240805/ target='_blank'>周报 #67 - 使用 follow 重塑我的信息输入系统</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730/ target='_blank'>周报 #66 - 10x 工程师、技术热情与个人工具箱</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/22/free_commenting_system_using_remark42_and_flyio/ target='_blank'>从零开始搭建你的免费博客评论系统（Remark42 + fly.io）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/ target='_blank'>周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/ target='_blank'>周报 #64 - 生活在此处（《斯通纳》与《Normal People》）</a>
-* <a href=https://www.pseudoyu.com/zh/2024/07/02/protect_your_image_using_webp_and_cloudflare_waf/ target='_blank'>使用 WebP Cloud 与 Cloudflare WAF 为你的图床添加隐私和版权保护</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Markdown   7 hrs 30 mins  ██████▍░░░░░░░░░░░░░░  30.6%
-YAML       3 hrs 5 mins   ██▋░░░░░░░░░░░░░░░░░░  12.6%
-Rust       2 hrs 32 mins  ██▏░░░░░░░░░░░░░░░░░░  10.4%
-TypeScript 2 hrs 31 mins  ██▏░░░░░░░░░░░░░░░░░░  10.3%
-Go         2 hrs 22 mins  ██░░░░░░░░░░░░░░░░░░░   9.7%
+Markdown   11 hrs 22 mins ████████▏░░░░░░░░░░░░  38.7%
+YAML       3 hrs 30 mins  ██▌░░░░░░░░░░░░░░░░░░  12.0%
+TypeScript 3 hrs 15 mins  ██▎░░░░░░░░░░░░░░░░░░  11.1%
+Go         2 hrs 47 mins  █▉░░░░░░░░░░░░░░░░░░░   9.5%
+Rust       2 hrs 32 mins  █▊░░░░░░░░░░░░░░░░░░░   8.6%
 ```
 
 <!-- code_time ends -->
