@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/08/19/weekly_review_20240819/ target='_blank'>周报 #69 - AI Coding 体验与学习的源动力</a>
+* <a href=https://www.pseudoyu.com/zh/2024/08/18/weekly_review_20240818/ target='_blank'>周报 #68 - 关于写博客这件事与我生活的色彩</a>
 * <a href=https://www.pseudoyu.com/zh/2024/08/06/deploy_web_statistics_system_using_goatcounter_and_zeabur/ target='_blank'>使用 GoatCounter 与 Zeabur 搭建网站数据统计系统</a>
 * <a href=https://www.pseudoyu.com/zh/2024/08/05/weekly_review_20240805/ target='_blank'>周报 #67 - 使用 follow 重塑我的信息输入系统</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730/ target='_blank'>周报 #66 - 10x 工程师、技术热情与个人工具箱</a>
 * <a href=https://www.pseudoyu.com/zh/2024/07/22/free_commenting_system_using_remark42_and_flyio/ target='_blank'>从零开始搭建你的免费博客评论系统（Remark42 + fly.io）</a>
-* <a href=https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721/ target='_blank'>周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit</a>
-* <a href=https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710/ target='_blank'>周报 #64 - 生活在此处（《斯通纳》与《Normal People》）</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-TypeScript 21 hrs 55 mins ██████████▉░░░░░░░░░░  52.0%
-Markdown   5 hrs 49 mins  ██▉░░░░░░░░░░░░░░░░░░  13.8%
-YAML       5 hrs 36 mins  ██▊░░░░░░░░░░░░░░░░░░  13.3%
-Go         4 hrs 43 mins  ██▎░░░░░░░░░░░░░░░░░░  11.2%
-Bash       50 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+TypeScript 21 hrs 55 mins ██████████▎░░░░░░░░░░  49.1%
+YAML       6 hrs 23 mins  ███░░░░░░░░░░░░░░░░░░  14.3%
+Markdown   6 hrs 4 mins   ██▊░░░░░░░░░░░░░░░░░░  13.6%
+Go         5 hrs 59 mins  ██▊░░░░░░░░░░░░░░░░░░  13.4%
+Other      1 hr 7 mins    ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 ```
 
 <!-- code_time ends -->
