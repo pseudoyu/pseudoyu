@@ -39,11 +39,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/1416898/' target='_blank'>想看鲸鱼马戏团</a> - 2024-08-31
 * <a href='http://movie.douban.com/subject/36934908/' target='_blank'>想看因果报应</a> - 2024-08-26
 * <a href='https://book.douban.com/subject/35594496/' target='_blank'>最近在读福格行为模型</a> - 2024-08-26
 * <a href='http://movie.douban.com/subject/1293749/' target='_blank'>看过生活多美好</a> - 2024-08-11
 * <a href='https://book.douban.com/subject/26362836/' target='_blank'>最近在读献给阿尔吉侬的花束</a> - 2024-08-08
-* <a href='http://movie.douban.com/subject/35956190/' target='_blank'>看过走走停停</a> - 2024-08-04
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         8 hrs 49 mins  █████▊░░░░░░░░░░░░░░░  27.4%
-Swift      4 hrs 38 mins  ███░░░░░░░░░░░░░░░░░░  14.4%
-YAML       4 hrs 7 mins   ██▋░░░░░░░░░░░░░░░░░░  12.8%
-TypeScript 2 hrs 54 mins  █▉░░░░░░░░░░░░░░░░░░░   9.1%
-Rust       2 hrs 39 mins  █▋░░░░░░░░░░░░░░░░░░░   8.3%
+Go         9 hrs 21 mins  ██████▍░░░░░░░░░░░░░░  30.7%
+Swift      4 hrs 38 mins  ███▏░░░░░░░░░░░░░░░░░  15.2%
+YAML       4 hrs 4 mins   ██▊░░░░░░░░░░░░░░░░░░  13.3%
+TypeScript 2 hrs 54 mins  ██░░░░░░░░░░░░░░░░░░░   9.6%
+JSON       2 hrs 5 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
 ```
 
 <!-- code_time ends -->
