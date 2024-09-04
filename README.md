@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/09/03/weekly_review_20240903/ target='_blank'>周报 #71 - Indie App 体验计划</a>
 * <a href=https://www.pseudoyu.com/zh/2024/09/01/weekly_review_20240901/ target='_blank'>周报 #70 - 消失的附近，Burnout 与 Boreout</a>
 * <a href=https://www.pseudoyu.com/zh/2024/08/19/weekly_review_20240819/ target='_blank'>周报 #69 - AI Coding 体验与学习的源动力</a>
 * <a href=https://www.pseudoyu.com/zh/2024/08/18/weekly_review_20240818/ target='_blank'>周报 #68 - 关于写博客这件事与我生活的色彩</a>
 * <a href=https://www.pseudoyu.com/zh/2024/08/06/deploy_web_statistics_system_using_goatcounter_and_zeabur/ target='_blank'>使用 GoatCounter 与 Zeabur 搭建网站数据统计系统</a>
 * <a href=https://www.pseudoyu.com/zh/2024/08/05/weekly_review_20240805/ target='_blank'>周报 #67 - 使用 follow 重塑我的信息输入系统</a>
-* <a href=https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730/ target='_blank'>周报 #66 - 10x 工程师、技术热情与个人工具箱</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
@@ -51,11 +51,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 <!-- code_time starts -->
 
 ```text
-Go         10 hrs 52 mins ████████▍░░░░░░░░░░░░  40.1%
-Markdown   3 hrs 31 mins  ██▋░░░░░░░░░░░░░░░░░░  13.0%
-YAML       3 hrs 14 mins  ██▌░░░░░░░░░░░░░░░░░░  12.0%
-TypeScript 2 hrs 20 mins  █▊░░░░░░░░░░░░░░░░░░░   8.7%
-JSON       1 hr 46 mins   █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Go         11 hrs 57 mins █████████▏░░░░░░░░░░░  43.6%
+Markdown   4 hrs 49 mins  ███▋░░░░░░░░░░░░░░░░░  17.6%
+YAML       3 hrs 51 mins  ██▉░░░░░░░░░░░░░░░░░░  14.1%
+JSON       2 hrs 6 mins   █▌░░░░░░░░░░░░░░░░░░░   7.7%
+Other      1 hr 10 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.3%
 ```
 
 <!-- code_time ends -->
