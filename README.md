@@ -28,7 +28,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
-* <a href=https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/ target='_blank'>周报 #76 - 关于 Audlting 的思考</a>
+* <a href=https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/ target='_blank'>周报 #76 - 关于 Adulting 的思考</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/23/weekly_review_202401023/ target='_blank'>周报 #75 - 回答 Dayu 关于独立博客的 9 个问题</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/21/weekly_review_202401021/ target='_blank'>周报 #74 - 清迈异闻录</a>
 * <a href=https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/ target='_blank'>周报 #73 - 《社交网络》、Ego 与中秋的现充生活</a>
