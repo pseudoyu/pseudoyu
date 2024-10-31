@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030/ target='_blank'>周报 #77 - 一间只属于自己的房间（对亲密关系的思考）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/ target='_blank'>周报 #76 - 关于 Adulting 的思考</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/23/weekly_review_202401023/ target='_blank'>周报 #75 - 回答 Dayu 关于独立博客的 9 个问题</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/21/weekly_review_202401021/ target='_blank'>周报 #74 - 清迈异闻录</a>
 * <a href=https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/ target='_blank'>周报 #73 - 《社交网络》、Ego 与中秋的现充生活</a>
 * <a href=https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908/ target='_blank'>周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）</a>
-* <a href=https://www.pseudoyu.com/zh/2024/09/03/weekly_review_20240903/ target='_blank'>周报 #71 - Indie App 体验计划</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/1997685/' target='_blank'>想看交响情人梦</a> - 2024-10-30
+* <a href='http://movie.douban.com/subject/1464837/' target='_blank'>想看魔女的条件</a> - 2024-10-30
 * <a href='https://book.douban.com/subject/37016658/' target='_blank'>想读小城与不确定性的墙</a> - 2024-10-26
 * <a href='http://movie.douban.com/subject/35604181/' target='_blank'>在看企鹅人</a> - 2024-10-26
 * <a href='http://movie.douban.com/subject/36875044/' target='_blank'>想看幼豹成长记</a> - 2024-10-06
-* <a href='http://movie.douban.com/subject/26415434/' target='_blank'>想看雷普利</a> - 2024-10-03
-* <a href='https://book.douban.com/subject/36852931/' target='_blank'>最近在读身后无遗物</a> - 2024-09-27
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
