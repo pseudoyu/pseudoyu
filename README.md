@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/11/04/follow_information_acquisition_revolution/ target='_blank'>Follow —— 信息获取的另一种形态</a>
+* <a href=https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/ target='_blank'>周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030/ target='_blank'>周报 #77 - 一间只属于自己的房间（对亲密关系的思考）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/ target='_blank'>周报 #76 - 关于 Adulting 的思考</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/23/weekly_review_202401023/ target='_blank'>周报 #75 - 回答 Dayu 关于独立博客的 9 个问题</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/21/weekly_review_202401021/ target='_blank'>周报 #74 - 清迈异闻录</a>
-* <a href=https://www.pseudoyu.com/zh/2024/09/18/weekly_review_20240918/ target='_blank'>周报 #73 - 《社交网络》、Ego 与中秋的现充生活</a>
-* <a href=https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908/ target='_blank'>周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
