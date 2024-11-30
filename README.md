@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129/ target='_blank'>周报 #79 - 清迈旅居、曼谷之行与 Follow</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/18/rsshub_telegram_channel_integration/ target='_blank'>RSSHub 开发实践 #01：Telegram 频道 RSS 订阅实现与部署方案</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/04/follow_information_acquisition_revolution/ target='_blank'>Follow —— 信息获取的另一种形态</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/ target='_blank'>周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030/ target='_blank'>周报 #77 - 一间只属于自己的房间（对亲密关系的思考）</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/ target='_blank'>周报 #76 - 关于 Adulting 的思考</a>
-* <a href=https://www.pseudoyu.com/zh/2024/10/23/weekly_review_202401023/ target='_blank'>周报 #75 - 回答 Dayu 关于独立博客的 9 个问题</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35604181/' target='_blank'>看过企鹅人</a> - 2024-11-30
+* <a href='http://movie.douban.com/subject/36154853/' target='_blank'>想看好东西</a> - 2024-11-30
 * <a href='https://book.douban.com/subject/25844039/' target='_blank'>最近在读創作者的日常生活</a> - 2024-11-24
 * <a href='https://book.douban.com/subject/26606009/' target='_blank'>读过精力管理</a> - 2024-11-24
 * <a href='https://book.douban.com/subject/26808539/' target='_blank'>最近在读我的父親袁殊</a> - 2024-11-23
-* <a href='https://book.douban.com/subject/4243141/' target='_blank'>最近在读沈醉回忆录</a> - 2024-11-23
-* <a href='http://movie.douban.com/subject/35669844/' target='_blank'>在看英雄联盟：双城之战 第二季</a> - 2024-11-15
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
