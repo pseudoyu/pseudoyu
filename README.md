@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/12/03/proposal_to_boyi/ target='_blank'>求婚誓言 | 爱的本质是被看见</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129/ target='_blank'>周报 #79 - 清迈旅居、曼谷之行与 Follow</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/18/rsshub_telegram_channel_integration/ target='_blank'>RSSHub 开发实践 #01：Telegram 频道 RSS 订阅实现与部署方案</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/04/follow_information_acquisition_revolution/ target='_blank'>Follow —— 信息获取的另一种形态</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/ target='_blank'>周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记</a>
 * <a href=https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030/ target='_blank'>周报 #77 - 一间只属于自己的房间（对亲密关系的思考）</a>
-* <a href=https://www.pseudoyu.com/zh/2024/10/24/weekly_review_202401024/ target='_blank'>周报 #76 - 关于 Adulting 的思考</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
