@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/ target='_blank'>周报 #80 - 关于求婚、爱情与婚姻</a>
 * <a href=https://www.pseudoyu.com/zh/2024/12/03/proposal_to_boyi/ target='_blank'>求婚誓言 | 爱的本质是被看见</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129/ target='_blank'>周报 #79 - 清迈旅居、曼谷之行与 Follow</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/18/rsshub_telegram_channel_integration/ target='_blank'>RSSHub 开发实践 #01：Telegram 频道 RSS 订阅实现与部署方案</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/04/follow_information_acquisition_revolution/ target='_blank'>Follow —— 信息获取的另一种形态</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/04/weekly_review_202401104/ target='_blank'>周报 #78 - NAS、Chromebook 与 Zeabur 折腾小记</a>
-* <a href=https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030/ target='_blank'>周报 #77 - 一间只属于自己的房间（对亲密关系的思考）</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/36048997/' target='_blank'>最近在读自学大全</a> - 2024-12-10
 * <a href='https://book.douban.com/subject/35594496/' target='_blank'>读过福格行为模型</a> - 2024-12-10
 * <a href='https://book.douban.com/subject/25844039/' target='_blank'>读过創作者的日常生活</a> - 2024-12-10
 * <a href='http://movie.douban.com/subject/27047873/' target='_blank'>想看宝石之国</a> - 2024-12-09
 * <a href='https://book.douban.com/subject/30246907/' target='_blank'>想读怦然心动的人生整理魔法</a> - 2024-12-09
-* <a href='https://book.douban.com/subject/37016658/' target='_blank'>读过小城与不确定性的墙</a> - 2024-11-30
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
