@@ -28,20 +28,20 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2025/01/06/weekly_review_82/ target='_blank'>周报 #82 - Brand New Year 与写日记</a>
 * <a href=https://www.pseudoyu.com/zh/2024/12/31/yearly_review_2024/ target='_blank'>2024 年末回顾 - 不完美的日子</a>
 * <a href=https://www.pseudoyu.com/zh/2024/12/28/weekly_review_81/ target='_blank'>周报 #81 - Engaged -> Married 与时间的尺度</a>
 * <a href=https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/ target='_blank'>周报 #80 - 关于求婚、爱情与婚姻</a>
 * <a href=https://www.pseudoyu.com/zh/2024/12/03/proposal_to_boyi/ target='_blank'>求婚誓言 | 爱的本质是被看见</a>
 * <a href=https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129/ target='_blank'>周报 #79 - 清迈旅居、曼谷之行与 Follow</a>
-* <a href=https://www.pseudoyu.com/zh/2024/11/18/rsshub_telegram_channel_integration/ target='_blank'>RSSHub 开发实践 #01：Telegram 频道 RSS 订阅实现与部署方案</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/35656342/' target='_blank'>看过鱿鱼游戏 第二季</a> - 2025-01-06
 * <a href='https://book.douban.com/subject/34802764/' target='_blank'>最近在读加缪手记</a> - 2025-01-06
 * <a href='http://movie.douban.com/subject/34785763/' target='_blank'>想看俗女养成记</a> - 2024-12-31
-* <a href='http://movie.douban.com/subject/35656342/' target='_blank'>在看鱿鱼游戏 第二季</a> - 2024-12-29
 * <a href='https://book.douban.com/subject/36707112/' target='_blank'>最近在读控糖革命</a> - 2024-12-18
 * <a href='https://book.douban.com/subject/36048997/' target='_blank'>读过自学大全</a> - 2024-12-14
 <!-- douban ends -->
