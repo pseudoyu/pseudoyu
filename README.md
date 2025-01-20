@@ -28,18 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2025/01/20/weekly_review_83/ target='_blank'>周报 #83 - 年初收纳（房间、设备、服务、软件）</a>
 * <a href=https://www.pseudoyu.com/zh/2025/01/06/weekly_review_82/ target='_blank'>周报 #82 - Brand New Year 与写日记</a>
 * <a href=https://www.pseudoyu.com/zh/2024/12/31/yearly_review_2024/ target='_blank'>2024 年末回顾 - 不完美的日子</a>
 * <a href=https://www.pseudoyu.com/zh/2024/12/28/weekly_review_81/ target='_blank'>周报 #81 - Engaged -> Married 与时间的尺度</a>
 * <a href=https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/ target='_blank'>周报 #80 - 关于求婚、爱情与婚姻</a>
 * <a href=https://www.pseudoyu.com/zh/2024/12/03/proposal_to_boyi/ target='_blank'>求婚誓言 | 爱的本质是被看见</a>
-* <a href=https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129/ target='_blank'>周报 #79 - 清迈旅居、曼谷之行与 Follow</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-
+* <a href='http://movie.douban.com/subject/36245596/' target='_blank'>想看我的阿勒泰</a> - 2025-01-18
+* <a href='http://movie.douban.com/subject/35662223/' target='_blank'>看过去有风的地方</a> - 2025-01-10
+* <a href='http://www.douban.com/game/35110438/' target='_blank'>最近在玩双人成行 It Takes Two</a> - 2025-01-10
+* <a href='http://movie.douban.com/subject/35656342/' target='_blank'>看过鱿鱼游戏 第二季</a> - 2025-01-06
+* <a href='https://book.douban.com/subject/34802764/' target='_blank'>最近在读加缪手记</a> - 2025-01-06
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
