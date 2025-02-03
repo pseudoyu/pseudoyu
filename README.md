@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/zh/2025/02/03/weekly_review_86/ target='_blank'>周报 #86 - 用影像打败时间</a>
+* <a href=https://www.pseudoyu.com/zh/2025/02/03/weekly_review_85/ target='_blank'>周报 #85 - 京华烟云 Moment in Peking</a>
+* <a href=https://www.pseudoyu.com/zh/2025/02/03/weekly_review_84/ target='_blank'>周报 #84 - 想起他们 Echos of Reverie</a>
 * <a href=https://www.pseudoyu.com/zh/2025/01/20/weekly_review_83/ target='_blank'>周报 #83 - 年初收纳（房间、设备、服务、软件）</a>
 * <a href=https://www.pseudoyu.com/zh/2025/01/06/weekly_review_82/ target='_blank'>周报 #82 - Brand New Year 与写日记</a>
 * <a href=https://www.pseudoyu.com/zh/2024/12/31/yearly_review_2024/ target='_blank'>2024 年末回顾 - 不完美的日子</a>
-* <a href=https://www.pseudoyu.com/zh/2024/12/28/weekly_review_81/ target='_blank'>周报 #81 - Engaged -> Married 与时间的尺度</a>
-* <a href=https://www.pseudoyu.com/zh/2024/12/10/weekly_review_80/ target='_blank'>周报 #80 - 关于求婚、爱情与婚姻</a>
-* <a href=https://www.pseudoyu.com/zh/2024/12/03/proposal_to_boyi/ target='_blank'>求婚誓言 | 爱的本质是被看见</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
