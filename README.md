@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/posts/weekly_review_90 target='_blank'>周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_89 target='_blank'>周报 #89 - 博客改版与 TheWan App 发布</a>
 * <a href=https://www.pseudoyu.com/zh/2025/03/24/weekly_review_88 target='_blank'>周报 #88 - 方大同、《回留》与人生清单</a>
 * <a href=https://www.pseudoyu.com/zh/2025/03/18/weekly_review_87 target='_blank'>周报 #87 - 我们主持了自己的宝可梦婚礼，还为它办了一个展</a>
 * <a href=https://www.pseudoyu.com/zh/2025/02/03/weekly_review_86 target='_blank'>周报 #86 - 用影像打败时间</a>
 * <a href=https://www.pseudoyu.com/zh/2025/02/03/weekly_review_85 target='_blank'>周报 #85 - 京华烟云 Moment in Peking</a>
-* <a href=https://www.pseudoyu.com/zh/2025/02/03/weekly_review_84 target='_blank'>周报 #84 - 想起他们 Echos of Reverie</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
