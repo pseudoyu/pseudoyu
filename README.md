@@ -39,11 +39,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/26808539/' target='_blank'>读过我的父親袁殊</a> - 2025-05-10
-* <a href='https://movie.douban.com/subject/36053256/' target='_blank'>看过苦尽柑来遇见你</a> - 2025-05-10
-* <a href='https://movie.douban.com/subject/26415434/' target='_blank'>看过雷普利</a> - 2025-05-10
-* <a href='https://movie.douban.com/subject/35783948/' target='_blank'>看过人生切割术 第二季</a> - 2025-05-10
-* <a href='https://movie.douban.com/subject/35101436/' target='_blank'>看过成瘾剂量</a> - 2025-05-10
+* <a href='https://movie.douban.com/subject/1309015/' target='_blank'>想看摩托日记</a> - 2025-05-16
+* <a href='https://movie.douban.com/subject/25780590/' target='_blank'>想看汾阳小子贾樟柯</a> - 2025-05-16
+* <a href='https://movie.douban.com/subject/1292218/' target='_blank'>想看中央车站</a> - 2025-05-16
+* <a href='https://movie.douban.com/subject/36831851/' target='_blank'>想看匹兹堡医护前线 第一季</a> - 2025-05-16
+* <a href='https://movie.douban.com/subject/36056894/' target='_blank'>在看爱，死亡和机器人 第四季</a> - 2025-05-16
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
