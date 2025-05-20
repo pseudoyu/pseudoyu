@@ -28,20 +28,20 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/posts/weekly_review_95 target='_blank'>周报 #95 - All AI 与 No AI</a>
+* <a href=https://www.pseudoyu.com/posts/weekly_review_94 target='_blank'>周报 #94 - 生活的界限与真实感</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_93 target='_blank'>周报 #93 - 婚礼纪录片与失落的电影院</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_92 target='_blank'>周报 #92 - 数码产品 Porn 与断舍离</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_91 target='_blank'>周报 #91 - 一席、消失的时代与自由意志</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_90 target='_blank'>周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考</a>
-* <a href=https://www.pseudoyu.com/posts/weekly_review_89 target='_blank'>周报 #89 - 博客改版与 TheWan App 发布</a>
-* <a href=https://www.pseudoyu.com/zh/2025/03/24/weekly_review_88 target='_blank'>周报 #88 - 方大同、《回留》与人生清单</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/36689654/' target='_blank'>在看杀戮人机</a> - 2025-05-20
 * <a href='https://movie.douban.com/subject/35512487/' target='_blank'>看过我仍在此</a> - 2025-05-19
 * <a href='https://movie.douban.com/subject/36056894/' target='_blank'>看过爱，死亡和机器人 第四季</a> - 2025-05-19
-* <a href='https://movie.douban.com/subject/36689654/' target='_blank'>想看杀戮人机</a> - 2025-05-19
 * <a href='https://movie.douban.com/subject/1309015/' target='_blank'>想看摩托日记</a> - 2025-05-16
 * <a href='https://movie.douban.com/subject/25780590/' target='_blank'>想看汾阳小子贾樟柯</a> - 2025-05-16
 <!-- douban ends -->
