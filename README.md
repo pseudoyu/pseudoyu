@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/posts/weekly_review_96 target='_blank'>周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_95 target='_blank'>周报 #95 - All AI 与 No AI</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_94 target='_blank'>周报 #94 - 生活的界限与真实感</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_93 target='_blank'>周报 #93 - 婚礼纪录片与失落的电影院</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_92 target='_blank'>周报 #92 - 数码产品 Porn 与断舍离</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_91 target='_blank'>周报 #91 - 一席、消失的时代与自由意志</a>
-* <a href=https://www.pseudoyu.com/posts/weekly_review_90 target='_blank'>周报 #90 - OVH 服务器、Coolify 与对 AI Coding 的思考</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
