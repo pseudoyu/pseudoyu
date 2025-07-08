@@ -28,12 +28,12 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/posts/weekly_review_98 target='_blank'>周报 #98 - 生活之书与 Agentic Coding</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_97 target='_blank'>周报 #97 - 日本旅行小记</a>
 * <a href=https://www.pseudoyu.com/posts/yearly_review_28 target='_blank'>28 岁的自白：去找寻自己</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_96 target='_blank'>周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_95 target='_blank'>周报 #95 - All AI 与 No AI</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_94 target='_blank'>周报 #94 - 生活的界限与真实感</a>
-* <a href=https://www.pseudoyu.com/posts/weekly_review_93 target='_blank'>周报 #93 - 婚礼纪录片与失落的电影院</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
