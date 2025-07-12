@@ -39,11 +39,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/36407380/' target='_blank'>看过鱿鱼游戏 第三季</a> - 2025-07-11
 * <a href='https://movie.douban.com/subject/37105295/' target='_blank'>在看章鱼噼的原罪</a> - 2025-07-10
 * <a href='https://movie.douban.com/subject/3314870/' target='_blank'>看过潜伏</a> - 2025-07-08
 * <a href='https://movie.douban.com/subject/1830590/' target='_blank'>在看康熙王朝</a> - 2025-07-08
 * <a href='https://movie.douban.com/subject/36809268/' target='_blank'>在看一杆入魂</a> - 2025-07-08
-* <a href='https://movie.douban.com/subject/36960439/' target='_blank'>想看昨日青春</a> - 2025-06-02
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -100,7 +100,6 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 
 <!-- recent_releases starts -->
 * <a href=https://github.com/Web3Insights/Web3Insights/releases/tag/v0.1.0 target='_blank'>Web3Insights v0.1.0</a> - 2024-09-13
-* <a href=https://github.com/RSS3-Network/Protocol-Go/releases/tag/v0.5.8 target='_blank'>Protocol-Go v0.5.8</a> - 2024-09-12
 * <a href=https://github.com/djyde/icondog/releases/tag/v0.0.1 target='_blank'>icondog 0.0.1</a> - 2024-06-15
 * <a href=https://github.com/pseudoyu/blockchain-guide/releases/tag/v0.1.0 target='_blank'>blockchain-guide 区块链入门指南</a> - 2022-05-22
 * <a href=https://github.com/pseudoyu/yu-tools/releases/tag/v0.1 target='_blank'>yu-tools 个人工具箱</a> - 2022-05-17
@@ -109,4 +108,5 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 * <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a> - 2021-08-20
 * <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a> - 2021-08-20
 * <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a> - 2021-08-20
+* <a href=https://github.com/pseudoyu/comp7404-assignments/releases/tag/v1.0.0 target='_blank'>comp7404-assignments HKU COMP7404 课程代码</a> - 2021-08-20
 <!-- recent_releases ends -->
