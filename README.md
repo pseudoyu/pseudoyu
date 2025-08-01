@@ -99,7 +99,7 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 #### 💻 Recent Releases
 
 <!-- recent_releases starts -->
-* <a href=https://github.com/Web3Insights/Web3Insights/releases/tag/v0.1.0 target='_blank'>Web3Insights v0.1.0</a> - 2024-09-13
+* <a href=https://github.com/web3insight-ai/web3insight/releases/tag/v0.1.0 target='_blank'>web3insight v0.1.0</a> - 2024-09-13
 * <a href=https://github.com/djyde/icondog/releases/tag/v0.0.1 target='_blank'>icondog 0.0.1</a> - 2024-06-15
 * <a href=https://github.com/pseudoyu/blockchain-guide/releases/tag/v0.1.0 target='_blank'>blockchain-guide 区块链入门指南</a> - 2022-05-22
 * <a href=https://github.com/pseudoyu/yu-tools/releases/tag/v0.1 target='_blank'>yu-tools 个人工具箱</a> - 2022-05-17
