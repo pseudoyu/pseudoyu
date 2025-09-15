@@ -1,6 +1,6 @@
 # Released projects
 
-All <!-- release_count starts -->19<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->18<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
 * **[web3insight](https://github.com/web3insight-ai/web3insight)**: [v0.1.0](https://github.com/web3insight-ai/web3insight/releases/tag/v0.1.0)- 2024-09-13
@@ -31,8 +31,6 @@ All <!-- release_count starts -->19<!-- release_count ends --> of my released pr
 <br>Java Programming Masterclass for Software Developer on Udemy Platform
 * **[uright](https://github.com/pseudoyu/uright)**: [区块链音乐版权管理项目内测版本](https://github.com/pseudoyu/uright/releases/tag/v0.0.1)- 2021-08-20
 <br>通过 Truffle 部署于 Ethereum 的音乐版权管理 ÐApp
-* **[liantoubao](https://github.com/pseudoyu/liantoubao)**: [数字货币实时监控系统](https://github.com/pseudoyu/liantoubao/releases/tag/v1.0.0)- 2021-08-20
-<br>初沐 - 数字货币实时监控系统
 * **[pseudoyu](https://github.com/pseudoyu/pseudoyu)**: [首页信息流优化完成](https://github.com/pseudoyu/pseudoyu/releases/tag/v1.0.0)- 2021-08-20
 <br>我的 GitHub Profile 主页
 * **[blockchain-forum](https://github.com/pseudoyu/blockchain-forum)**: [区块链学习论坛](https://github.com/pseudoyu/blockchain-forum/releases/tag/v0.0.1)- 2021-08-20
