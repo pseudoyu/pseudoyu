@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/posts/weekly_review_101 target='_blank'>周报 #101 - 消失了三个月，我的生活发生了什么变化</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_100 target='_blank'>周报 #100 - 过去这十年</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_99 target='_blank'>周报 #99 - 离开 RSS3，迷茫与重启人生</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_98 target='_blank'>周报 #98 - 生活之书与 Agentic Coding</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_97 target='_blank'>周报 #97 - 日本旅行小记</a>
 * <a href=https://www.pseudoyu.com/posts/yearly_review_28 target='_blank'>28 岁的自白：去找寻自己</a>
-* <a href=https://www.pseudoyu.com/posts/weekly_review_96 target='_blank'>周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/3609075/' target='_blank'>看过蜗居</a> - 2025-10-20
+* <a href='https://movie.douban.com/subject/2210001/' target='_blank'>在看大明王朝1566</a> - 2025-10-20
+* <a href='https://book.douban.com/subject/36096300/' target='_blank'>读过鱼不存在</a> - 2025-10-20
+* <a href='https://movie.douban.com/subject/1830590/' target='_blank'>看过康熙王朝</a> - 2025-10-20
 * <a href='http://www.douban.com/game/37516413/' target='_blank'>想玩女王的游戏：盛世天下</a> - 2025-10-18
-* <a href='https://movie.douban.com/subject/1293090/' target='_blank'>想看赌王之王</a> - 2025-10-13
-* <a href='https://movie.douban.com/subject/25790749/' target='_blank'>想看最完美的离婚 2014特别篇</a> - 2025-10-11
-* <a href='https://book.douban.com/subject/36096300/' target='_blank'>最近在读鱼不存在</a> - 2025-09-27
-* <a href='https://book.douban.com/subject/36819653/' target='_blank'>想读Play to Submission</a> - 2025-09-17
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
