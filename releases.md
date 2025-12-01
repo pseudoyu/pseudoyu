@@ -1,10 +1,8 @@
 # Released projects
 
-All <!-- release_count starts -->19<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->18<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[web3insight](https://github.com/web3insight-ai/web3insight)**: [v0.1.0](https://github.com/web3insight-ai/web3insight/releases/tag/v0.1.0)- 2024-09-13
-<br>A comprehensive metric system for evaluating Web3 Ecosystems, Communities and Repos.
 * **[icondog](https://github.com/djyde/icondog)**: [0.0.1](https://github.com/djyde/icondog/releases/tag/v0.0.1)- 2024-06-15
 <br>An open-source icons manager for open-source icons
 * **[immersive-translate](https://github.com/immersive-translate/immersive-translate)**: [nightly-0.0.1.10](https://github.com/immersive-translate/immersive-translate/releases/tag/nightly-0.0.1.10)- 2022-12-07

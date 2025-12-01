@@ -39,11 +39,7 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/2341884/' target='_blank'>在看东周列国·春秋篇</a> - 2025-11-22
-* <a href='https://movie.douban.com/subject/37113482/' target='_blank'>在看吃饱睡足等幸福</a> - 2025-11-22
-* <a href='https://movie.douban.com/subject/37048180/' target='_blank'>在看三人行</a> - 2025-11-07
-* <a href='https://book.douban.com/subject/30233961/' target='_blank'>最近在读四时幽赏录</a> - 2025-10-30
-* <a href='https://book.douban.com/subject/1264579/' target='_blank'>想读欢乐英雄</a> - 2025-10-25
+
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -99,7 +95,6 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 #### 💻 Recent Releases
 
 <!-- recent_releases starts -->
-* <a href=https://github.com/web3insight-ai/web3insight/releases/tag/v0.1.0 target='_blank'>web3insight v0.1.0</a> - 2024-09-13
 * <a href=https://github.com/djyde/icondog/releases/tag/v0.0.1 target='_blank'>icondog 0.0.1</a> - 2024-06-15
 * <a href=https://github.com/immersive-translate/immersive-translate/releases/tag/nightly-0.0.1.10 target='_blank'>immersive-translate nightly-0.0.1.10</a> - 2022-12-07
 * <a href=https://github.com/pseudoyu/blockchain-guide/releases/tag/v0.1.0 target='_blank'>blockchain-guide 区块链入门指南</a> - 2022-05-22
@@ -109,4 +104,5 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 * <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a> - 2021-08-20
 * <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a> - 2021-08-20
 * <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a> - 2021-08-20
+* <a href=https://github.com/pseudoyu/comp7404-assignments/releases/tag/v1.0.0 target='_blank'>comp7404-assignments HKU COMP7404 课程代码</a> - 2021-08-20
 <!-- recent_releases ends -->
