@@ -82,12 +82,12 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
       </table>
     </td>
     <td align="center">
-      <img width="120%" src="https://yu-readme.vercel.app/api?username=pseudoyu&count_private=true&theme=gotham&show_icons=true" />
+      <img width="120%" src="https://readme.pseudoyu.com/api?username=pseudoyu&count_private=true&theme=gotham&show_icons=true" />
     </td>
   </tr>
   <tr>
           <td align="center">
-            <img src="https://yu-readme.vercel.app/api/top-langs/?username=pseudoyu&hide=html,php,css,java,Svelte,smarty&layout=compact&theme=gotham">
+            <img src="https://readme.pseudoyu.com/api/top-langs/?username=pseudoyu&hide=html,php,css,java,Svelte,smarty&layout=compact&theme=gotham">
           </td>
     <td align="center">
       <!-- <img src="https://yu-github-readme-stats.herokuapp.com/?user=pseudoyu&theme=gotham"> -->
