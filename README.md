@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/posts/weekly_review_104 target='_blank'>周报 #104 - 被遗忘的生活一隅</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_103 target='_blank'>周报 #103 - 工作随想与被吞噬的生活</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_102 target='_blank'>周报 #102 - 我是如何使用 AI 的</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_101 target='_blank'>周报 #101 - 消失了三个月，我的生活发生了什么变化</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_100 target='_blank'>周报 #100 - 过去这十年</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_99 target='_blank'>周报 #99 - 离开 RSS3，迷茫与重启人生</a>
-* <a href=https://www.pseudoyu.com/posts/weekly_review_98 target='_blank'>周报 #98 - 生活之书与 Agentic Coding</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/30233961/' target='_blank'>读过四时幽赏录</a> - 2025-12-14
+* <a href='https://movie.douban.com/subject/36670979/' target='_blank'>看过青春猪头少年不会梦到圣诞服女郎</a> - 2025-12-14
+* <a href='https://movie.douban.com/subject/2210001/' target='_blank'>看过大明王朝1566</a> - 2025-12-14
 * <a href='https://movie.douban.com/subject/35774681/' target='_blank'>在看怪奇物语 第五季</a> - 2025-12-10
 * <a href='https://movie.douban.com/subject/2341884/' target='_blank'>在看东周列国·春秋篇</a> - 2025-11-22
-* <a href='https://movie.douban.com/subject/37113482/' target='_blank'>在看吃饱睡足等幸福</a> - 2025-11-22
-* <a href='https://movie.douban.com/subject/37048180/' target='_blank'>在看三人行</a> - 2025-11-07
-* <a href='https://book.douban.com/subject/30233961/' target='_blank'>最近在读四时幽赏录</a> - 2025-10-30
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
