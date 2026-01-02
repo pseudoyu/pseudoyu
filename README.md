@@ -39,11 +39,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/37048180/' target='_blank'>看过三人行</a> - 2025-12-26
-* <a href='https://book.douban.com/subject/30233961/' target='_blank'>读过四时幽赏录</a> - 2025-12-14
-* <a href='https://movie.douban.com/subject/36670979/' target='_blank'>看过青春猪头少年不会梦到圣诞服女郎</a> - 2025-12-14
-* <a href='https://movie.douban.com/subject/2210001/' target='_blank'>看过大明王朝1566</a> - 2025-12-14
-* <a href='https://movie.douban.com/subject/35774681/' target='_blank'>在看怪奇物语 第五季</a> - 2025-12-10
+* <a href='https://movie.douban.com/subject/36449810/' target='_blank'>在看鬼灭之刃 柱训练篇</a> - 2026-01-01
+* <a href='https://movie.douban.com/subject/35215517/' target='_blank'>看过俗女养成记2</a> - 2026-01-01
+* <a href='https://movie.douban.com/subject/34785763/' target='_blank'>看过俗女养成记</a> - 2026-01-01
+* <a href='https://book.douban.com/subject/35586814/' target='_blank'>想读精英的傲慢</a> - 2026-01-01
+* <a href='https://book.douban.com/subject/30272324/' target='_blank'>想读新教伦理与资本主义精神</a> - 2026-01-01
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
