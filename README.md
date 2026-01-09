@@ -60,42 +60,6 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 
 <!-- code_time ends -->
 
-#### :octocat: Github Stats
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <strong> 🌟 I'm proud to be part of these organizations 🌟 </strong><br>
-      <table>
-        <tr>
-          <td align="center">
-            <a href="https://github.com/NaturalSelectionLabs">
-              <img src="https://avatars.githubusercontent.com/u/82145280?s=150&v=4" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://github.com/rss3-network">
-              <img src="https://avatars.githubusercontent.com/u/152575164?s=150&v=4" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center">
-      <img width="120%" src="https://readme.pseudoyu.com/api?username=pseudoyu&count_private=true&theme=gotham&show_icons=true" />
-    </td>
-  </tr>
-  <tr>
-          <td align="center">
-            <img src="https://readme.pseudoyu.com/api/top-langs/?username=pseudoyu&hide=html,php,css,java,Svelte,smarty&layout=compact&theme=gotham">
-          </td>
-    <td align="center">
-      <!-- <img src="https://yu-github-readme-stats.herokuapp.com/?user=pseudoyu&theme=gotham"> -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pseudoyu&theme=gotham">
-    </td>
-  </tr>
-</table>
-
 #### 💻 Recent Releases
 
 <!-- recent_releases starts -->
