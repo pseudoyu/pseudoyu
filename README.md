@@ -39,11 +39,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/36990427/' target='_blank'>在看热点</a> - 2026-01-04
-* <a href='https://movie.douban.com/subject/36449810/' target='_blank'>在看鬼灭之刃 柱训练篇</a> - 2026-01-01
-* <a href='https://movie.douban.com/subject/35215517/' target='_blank'>看过俗女养成记2</a> - 2026-01-01
-* <a href='https://movie.douban.com/subject/34785763/' target='_blank'>看过俗女养成记</a> - 2026-01-01
-* <a href='https://book.douban.com/subject/35586814/' target='_blank'>想读精英的傲慢</a> - 2026-01-01
+* <a href='https://book.douban.com/subject/36109174/' target='_blank'>读过你的夏天还好吗？</a> - 2026-01-12
+* <a href='https://movie.douban.com/subject/35587923/' target='_blank'>看过擅长捉弄的高木同学 剧场版</a> - 2026-01-11
+* <a href='https://movie.douban.com/subject/36524559/' target='_blank'>看过鬼灭之刃：无限城篇 第一章 猗窝座再袭</a> - 2026-01-11
+* <a href='https://movie.douban.com/subject/36449810/' target='_blank'>看过鬼灭之刃 柱训练篇</a> - 2026-01-11
+* <a href='https://movie.douban.com/subject/36934908/' target='_blank'>看过因果报应</a> - 2026-01-11
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
