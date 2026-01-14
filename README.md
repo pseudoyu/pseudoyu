@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/posts/weekly_review_105 target='_blank'>周报 #105 - 打破无聊的社会</a>
 * <a href=https://www.pseudoyu.com/posts/yearly_review_2025 target='_blank'>2025 年末回顾 - Anything different is good</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_104 target='_blank'>周报 #104 - 被遗忘的生活一隅</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_103 target='_blank'>周报 #103 - 工作随想与被吞噬的生活</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_102 target='_blank'>周报 #102 - 我是如何使用 AI 的</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_101 target='_blank'>周报 #101 - 消失了三个月，我的生活发生了什么变化</a>
-* <a href=https://www.pseudoyu.com/posts/weekly_review_100 target='_blank'>周报 #100 - 过去这十年</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/36990427/' target='_blank'>看过热点</a> - 2026-01-14
+* <a href='https://book.douban.com/subject/37871916/' target='_blank'>最近在读天幕红尘</a> - 2026-01-14
+* <a href='https://book.douban.com/subject/26349517/' target='_blank'>读过非普通读者</a> - 2026-01-14
+* <a href='https://movie.douban.com/subject/36960439/' target='_blank'>看过昨日青春</a> - 2026-01-13
 * <a href='https://movie.douban.com/subject/27080661/' target='_blank'>想看比宇宙更遥远的地方</a> - 2026-01-12
-* <a href='https://book.douban.com/subject/26349517/' target='_blank'>最近在读非普通读者</a> - 2026-01-12
-* <a href='https://book.douban.com/subject/36109174/' target='_blank'>读过你的夏天还好吗？</a> - 2026-01-12
-* <a href='https://movie.douban.com/subject/35587923/' target='_blank'>看过擅长捉弄的高木同学 剧场版</a> - 2026-01-11
-* <a href='https://movie.douban.com/subject/36524559/' target='_blank'>看过鬼灭之刃：无限城篇 第一章 猗窝座再袭</a> - 2026-01-11
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
