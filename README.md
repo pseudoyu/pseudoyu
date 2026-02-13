@@ -39,11 +39,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/36829083/' target='_blank'>在看葬送的芙莉莲 第二季</a> - 2026-02-12
+* <a href='https://movie.douban.com/subject/2373195/' target='_blank'>在看绝命毒师 第一季</a> - 2026-02-12
+* <a href='https://movie.douban.com/subject/28427782/' target='_blank'>看过我的天才女友 第一季</a> - 2026-02-12
 * <a href='https://movie.douban.com/subject/33464695/' target='_blank'>看过东京大饭店</a> - 2026-02-07
 * <a href='https://movie.douban.com/subject/30167509/' target='_blank'>看过徒手攀岩</a> - 2026-02-07
-* <a href='https://movie.douban.com/subject/36317421/' target='_blank'>想看太平年</a> - 2026-01-28
-* <a href='https://movie.douban.com/subject/36875044/' target='_blank'>看过幼豹成长记</a> - 2026-01-17
-* <a href='https://movie.douban.com/subject/36990427/' target='_blank'>看过热点</a> - 2026-01-14
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
@@ -63,6 +63,7 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 #### 💻 Recent Releases
 
 <!-- recent_releases starts -->
+* <a href=https://github.com/wangeguo/pet/releases/tag/v0.1.0 target='_blank'>pet v0.1.0</a> - 2026-02-12
 * <a href=https://github.com/Xuanwo/luban/releases/tag/v0.1.7%2B20260127 target='_blank'>luban v0.1.7+20260127</a> - 2026-01-27
 * <a href=https://github.com/djyde/icondog/releases/tag/v0.0.1 target='_blank'>icondog 0.0.1</a> - 2024-06-15
 * <a href=https://github.com/immersive-translate/immersive-translate/releases/tag/nightly-0.0.1.10 target='_blank'>immersive-translate nightly-0.0.1.10</a> - 2022-12-07
@@ -72,5 +73,4 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 * <a href=https://github.com/pseudoyu/learn-solidity/releases/tag/v1.0.0 target='_blank'>learn-solidity Solidity 智能合约开发学习</a> - 2022-02-10
 * <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a> - 2021-08-20
 * <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a> - 2021-08-20
-* <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a> - 2021-08-20
 <!-- recent_releases ends -->
