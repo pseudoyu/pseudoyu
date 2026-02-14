@@ -4,7 +4,7 @@ All <!-- release_count starts -->20<!-- release_count ends --> of my released pr
 
 <!-- recent_releases starts -->
 * **[pet](https://github.com/wangeguo/pet)**: [v0.1.0](https://github.com/wangeguo/pet/releases/tag/v0.1.0)- 2026-02-12
-<br>A cross-platform desktop pet app with AI-generated 3D models, built with Rust and Bevy.
+<br>AI-driven intelligent desktop companion with personalized 3D pets, intent-aware interaction, and dynamic behaviors.
 * **[luban](https://github.com/Xuanwo/luban)**: [v0.1.7+20260127](https://github.com/Xuanwo/luban/releases/tag/v0.1.7%2B20260127)- 2026-01-27
 <br>Luban: Chart the cosmos of ideas
 * **[icondog](https://github.com/djyde/icondog)**: [0.0.1](https://github.com/djyde/icondog/releases/tag/v0.0.1)- 2024-06-15
