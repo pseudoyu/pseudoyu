@@ -39,11 +39,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
-* <a href='https://movie.douban.com/subject/36317421/' target='_blank'>在看太平年</a> - 2026-03-23
-* <a href='https://book.douban.com/subject/27115714/' target='_blank'>最近在读大雪将至</a> - 2026-02-16
-* <a href='https://book.douban.com/subject/37871916/' target='_blank'>读过天幕红尘</a> - 2026-02-16
-* <a href='https://movie.douban.com/subject/36829083/' target='_blank'>在看葬送的芙莉莲 第二季</a> - 2026-02-12
-* <a href='https://movie.douban.com/subject/2373195/' target='_blank'>在看绝命毒师 第一季</a> - 2026-02-12
+* <a href='https://movie.douban.com/subject/35785050/' target='_blank'>看过我的天才女友 第四季</a> - 2026-03-30
+* <a href='https://movie.douban.com/subject/35051880/' target='_blank'>看过我的天才女友 第三季</a> - 2026-03-30
+* <a href='https://movie.douban.com/subject/30395843/' target='_blank'>看过我的天才女友 第二季</a> - 2026-03-30
+* <a href='https://movie.douban.com/subject/37019235/' target='_blank'>看过莎拉的真伪人生</a> - 2026-03-30
+* <a href='https://movie.douban.com/subject/37233693/' target='_blank'>看过单身即地狱 第五季</a> - 2026-03-30
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
