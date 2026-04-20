@@ -28,22 +28,22 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 📰 Recent Posts
 
 <!-- blog starts -->
+* <a href=https://www.pseudoyu.com/posts/weekly_review_107 target='_blank'>周报 #107 - 基于 Multica 与 Impeccable 的开发/设计工作流</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_106 target='_blank'>周报 #106 - OpenClaw 实践、搬家与生活的能量</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_105 target='_blank'>周报 #105 - 打破无聊的社会</a>
 * <a href=https://www.pseudoyu.com/posts/yearly_review_2025 target='_blank'>2025 年末回顾 - Anything different is good</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_104 target='_blank'>周报 #104 - 被遗忘的生活一隅</a>
 * <a href=https://www.pseudoyu.com/posts/weekly_review_103 target='_blank'>周报 #103 - 工作随想与被吞噬的生活</a>
-* <a href=https://www.pseudoyu.com/posts/weekly_review_102 target='_blank'>周报 #102 - 我是如何使用 AI 的</a>
 <!-- blog ends -->
 
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://movie.douban.com/subject/36343491/' target='_blank'>在看黑袍纠察队 第五季</a> - 2026-04-19
+* <a href='https://movie.douban.com/subject/36317421/' target='_blank'>看过太平年</a> - 2026-04-19
 * <a href='https://movie.douban.com/subject/35785050/' target='_blank'>看过我的天才女友 第四季</a> - 2026-03-30
 * <a href='https://movie.douban.com/subject/35051880/' target='_blank'>看过我的天才女友 第三季</a> - 2026-03-30
 * <a href='https://movie.douban.com/subject/30395843/' target='_blank'>看过我的天才女友 第二季</a> - 2026-03-30
-* <a href='https://movie.douban.com/subject/37019235/' target='_blank'>看过莎拉的真伪人生</a> - 2026-03-30
-* <a href='https://movie.douban.com/subject/37233693/' target='_blank'>看过单身即地狱 第五季</a> - 2026-03-30
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
