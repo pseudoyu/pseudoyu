@@ -66,11 +66,11 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 * <a href=https://github.com/wangeguo/pet/releases/tag/v0.1.0 target='_blank'>pet v0.1.0</a> - 2026-02-12
 * <a href=https://github.com/Xuanwo/luban/releases/tag/v0.1.7%2B20260127 target='_blank'>luban v0.1.7+20260127</a> - 2026-01-27
 * <a href=https://github.com/djyde/icondog/releases/tag/v0.0.1 target='_blank'>icondog 0.0.1</a> - 2024-06-15
-* <a href=https://github.com/immersive-translate/immersive-translate/releases/tag/nightly-0.0.1.10 target='_blank'>immersive-translate nightly-0.0.1.10</a> - 2022-12-07
 * <a href=https://github.com/pseudoyu/blockchain-guide/releases/tag/v0.1.0 target='_blank'>blockchain-guide 区块链入门指南</a> - 2022-05-22
 * <a href=https://github.com/pseudoyu/yu-tools/releases/tag/v0.1 target='_blank'>yu-tools 个人工具箱</a> - 2022-05-17
 * <a href=https://github.com/pseudoyu/top-blockchain-projects/releases/tag/v1.0.0 target='_blank'>top-blockchain-projects 优质区块链项目排行榜</a> - 2022-05-12
 * <a href=https://github.com/pseudoyu/learn-solidity/releases/tag/v1.0.0 target='_blank'>learn-solidity Solidity 智能合约开发学习</a> - 2022-02-10
 * <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a> - 2021-08-20
 * <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a> - 2021-08-20
+* <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a> - 2021-08-20
 <!-- recent_releases ends -->
