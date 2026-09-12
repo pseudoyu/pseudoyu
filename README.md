@@ -39,11 +39,11 @@ I want to learn things and become a better person. I enjoy reading, thinking and
 #### 🎧 Recent Digests
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/30389935/' target='_blank'>想读四个春天</a> - 2026-09-12
+* <a href='https://movie.douban.com/subject/37342630/' target='_blank'>想看突如其来</a> - 2026-09-12
+* <a href='https://book.douban.com/subject/38461487/' target='_blank'>想读落在我身上的雨</a> - 2026-09-12
+* <a href='https://book.douban.com/subject/36852931/' target='_blank'>读过身后无遗物</a> - 2026-09-12
 * <a href='https://book.douban.com/subject/36096287/' target='_blank'>想读东京八平米</a> - 2026-09-11
-* <a href='https://book.douban.com/subject/36467301/' target='_blank'>读过横断浪途</a> - 2026-09-11
-* <a href='https://book.douban.com/subject/25858068/' target='_blank'>读过100个基本</a> - 2026-09-10
-* <a href='https://book.douban.com/subject/36220119/' target='_blank'>读过章鱼学会冷静</a> - 2026-09-10
-* <a href='https://book.douban.com/subject/27615361/' target='_blank'>读过昨日的世界</a> - 2026-09-10
 <!-- douban ends -->
 
 #### 👨🏻‍💻 This Week I Code With
