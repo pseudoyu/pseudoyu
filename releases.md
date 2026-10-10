@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->19<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->20<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[RSSHub](https://github.com/DIYgod/RSSHub)**: [v2026.10.09-0b0a0c3](https://github.com/DIYgod/RSSHub/releases/tag/v2026.10.09-0b0a0c3)- 2026-10-09
+<br>🧡 Everything is RSSible
 * **[pet](https://github.com/wangeguo/pet)**: [v0.1.0](https://github.com/wangeguo/pet/releases/tag/v0.1.0)- 2026-02-12
 <br>AI-driven intelligent desktop companion with personalized 3D pets, intent-aware interaction, and dynamic behaviors.
 * **[luban](https://github.com/Xuanwo/luban)**: [v0.1.7+20260127](https://github.com/Xuanwo/luban/releases/tag/v0.1.7%2B20260127)- 2026-01-27

@@ -63,6 +63,7 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 #### 💻 Recent Releases
 
 <!-- recent_releases starts -->
+* <a href=https://github.com/DIYgod/RSSHub/releases/tag/v2026.10.09-0b0a0c3 target='_blank'>RSSHub v2026.10.09-0b0a0c3</a> - 2026-10-09
 * <a href=https://github.com/wangeguo/pet/releases/tag/v0.1.0 target='_blank'>pet v0.1.0</a> - 2026-02-12
 * <a href=https://github.com/Xuanwo/luban/releases/tag/v0.1.7%2B20260127 target='_blank'>luban v0.1.7+20260127</a> - 2026-01-27
 * <a href=https://github.com/djyde/icondog/releases/tag/v0.0.1 target='_blank'>icondog 0.0.1</a> - 2024-06-15
@@ -72,5 +73,4 @@ Other      50 mins        ▋░░░░░░░░░░░░░░░░░
 * <a href=https://github.com/pseudoyu/learn-solidity/releases/tag/v1.0.0 target='_blank'>learn-solidity Solidity 智能合约开发学习</a> - 2022-02-10
 * <a href=https://github.com/pseudoyu/py4e-assignments/releases/tag/v1.0.0 target='_blank'>py4e-assignments Coursera Python 课程代码</a> - 2021-08-20
 * <a href=https://github.com/pseudoyu/chumu-food/releases/tag/v1.0.0 target='_blank'>chumu-food 微信小程序：吃什么呀</a> - 2021-08-20
-* <a href=https://github.com/pseudoyu/cs61b-sp14/releases/tag/v0.0.1 target='_blank'>cs61b-sp14 UC Berkeley CS61B 课程代码</a> - 2021-08-20
 <!-- recent_releases ends -->
